@@ -1,0 +1,39 @@
+/*-- scss:defaults --*/
+// ===========================================================================
+// DARK THEME  (the site's default)
+// Every colour on the site is one of these seven values. Change one and it
+// propagates everywhere. To change the layout instead, edit _rules.scss.
+// ===========================================================================
+
+$ink:        #ece9e3;   // body text
+$ink-soft:   #9a9691;   // captions, metadata, footer
+$accent:     #7fbb9c;   // links and highlights
+$paper:      #0e100f;   // page background
+$paper-warm: #191b1a;   // navbar, footer, raised surfaces
+$rule:       #2b2e2c;   // hairline borders
+
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$headings-font-family:   "Source Serif 4", Georgia, "Times New Roman", serif;
+
+// --- Below here you should not need to change anything ---------------------
+$body-color:       $ink;
+$body-bg:          $paper;
+$link-color:       $accent;
+$link-hover-color: lighten($accent, 10%);
+$font-size-root:   17px;
+$line-height-base: 1.65;
+$navbar-bg: $paper;
+$navbar-fg: $ink;
+$footer-bg: $paper-warm;
+$code-color: lighten($accent, 6%);
+$table-border-color: $rule;
+
+/*-- scss:rules --*/
+@import "rules";
+
+// Photographs sit better on dark without a hard edge against the background.
+.photo-grid img, .album-grid img, .banner { box-shadow: 0 0 0 1px $rule; }
+.keylinks a { background: $paper-warm; color: $ink; }
+.keylinks a.primary { color: #0e100f; }
+.keylinks a.primary:hover { color: #0e100f; }
+.todo { background: #2a2413; border-left-color: #7d6520; color: #d8c98d; }

@@ -1,0 +1,29 @@
+---
+# Copy this file, rename it to something-descriptive.qmd, and delete this
+# comment block. Files starting with an underscore are never published, so
+# this template stays invisible on the live site.
+
+title: "The headline, written as a claim rather than a topic"
+subtitle: "Two or three words naming the system or method"
+description: "One sentence. This is what shows up on the Research index page and in link previews, so make it do some work."
+order: 9          # position in the list; lower numbers come first
+image: ../photography/tadpoles/thumbs/Ascaphus.jpg   # optional thumbnail
+---
+
+## The short version
+
+Open with the thing a non-specialist would find surprising, not with
+background. Two or three paragraphs.
+
+## The complication
+
+What made this hard, or what did not fit the expected pattern.
+
+## Why it matters
+
+Connect it outward. What does this change about how anyone should think about
+the bigger question.
+
+---
+
+*Citation in italics at the bottom, with journal names italicised.*

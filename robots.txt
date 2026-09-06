@@ -1,0 +1,5 @@
+# Everything on this site is meant to be found, including the photographs.
+User-agent: *
+Allow: /
+
+Sitemap: https://phillipsjar.github.io/sitemap.xml

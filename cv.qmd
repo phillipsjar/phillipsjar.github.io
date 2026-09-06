@@ -1,0 +1,188 @@
+---
+title: "Curriculum vitae"
+toc: true
+toc-location: right
+toc-title: "Sections"
+---
+
+::: {.keylinks}
+[Download PDF](assets/jackson-phillips-cv.pdf){.primary}
+[Google Scholar]({{< var scholar >}})
+:::
+
+Department of Ecology and Evolutionary Biology, Cornell University  
+[{{< var email >}}](mailto:{{< var email >}})
+
+## Education
+
+**PhD, Ecology and Evolutionary Biology** · Cornell University · 2024 to expected 2026  
+Advisor: Molly C. Womack. Expected defense December 2026.
+
+**PhD student, Ecology / Biology** · Utah State University · 2020 to 2024  
+Advisor: Molly C. Womack.
+
+**MS, Ecology and Evolutionary Biology** · University of Connecticut · 2017 to 2019  
+Thesis: *The biomechanics and evolution of air breathing in tadpoles.* Advisor: Kurt Schwenk.
+
+**BS, Ecology and Evolutionary Biology** · University of Connecticut · 2013 to 2017  
+Honors, cum laude. Honors thesis: *The functional morphology of air breathing in larval anurans.*
+
+## Research interests
+
+- Development and the role of metamorphosis in decoupling larval and adult evolution
+- Macroevolutionary patterns of trait loss and re-gain
+- Vertebrate and tetrapod evolution and origins
+- Tadpole air-breathing biomechanics, functional morphology and evolution
+
+## Publications {#publications}
+
+An asterisk marks an undergraduate mentee. A double dagger marks equally shared
+first authorship.
+
+### Peer-reviewed
+
+12. **Phillips, JR**, PH Dias, and MC Womack (2025). Lungless tadpoles breathe fresh air into hypotheses for tetrapod lung loss and trait regains. *Evolution* 79(12), 2776-2790. <span class="press">Covered by Cornell Chronicle, AOL, Wild Science, phys.org</span>
+11. Kaczmarek, EB, **JR Phillips**, and WG Ryerson (2025). Respiratory system. In: *Comparative vertebrate and human anatomy: ecology, evolution, and function.*
+10. Ngwenya, SS\*, GK Nicolau\*, MC Womack, and **JR Phillips** (2025). Range extension: *Schismaderma carens*. *African Herp News.*
+9. Dias, PH‡, **JR Phillips**‡, MO Pereyra, B Means, and PJ Kok (2024). The remarkable larval morphology of *Rhaebo nasicus* (Werner, 1903) with the erection of a new bufonid genus and insights into the evolution of suctorial tadpoles. *Zoological Letters* 10(1).
+8. **Phillips, JR**, GK Nicolau\*, SS Ngwenya\*, EJ Jackson\*, and MC Womack (2024). The effects of habitat and respiratory strategy on hypoxia performance in anuran tadpoles. *Integrative and Comparative Biology* 64(2), 336-353.
+7. Womack, MC, SM Strobel, **JR Phillips**, JS Parreiras, VT Vredenburg, and MH Wake (2024). Organisms have gravity. *Journal of Experimental Biology* 227(12).
+6. **Phillips, JR**, J Reissig, and GK Nicolau\* (2023). Notes on lung development in South African Ghost frogs (Anura: Heleophrynidae). *African Journal of Herpetology* 72(1), 81-90.
+5. Annibale, FS, RJ Wassersug, Y Zeng, AF Sabbag, CA Brasileiro, DC Rossa-Feres, F Nomura, and **JR Phillips** (2023). The case for studying tadpole autecology, with comments on strategies to study other small, fast-moving animals in nature. *Austral Ecology* 48(5), 855-876.
+4. **Phillips, JR**, AE Hewes, MC Womack, and K Schwenk (2022). The mechanics of air-breathing in tadpoles of the African clawed frog, *Xenopus laevis* (Anura: Pipidae). *Journal of Experimental Biology* 225(10).
+3. Schwenk, K‡ and **JR Phillips**‡ (2020). Circumventing surface tension: a novel form of air-breathing in anuran tadpoles. *Proceedings of the Royal Society B* 287(1921). <span class="press">Covered by UConn Today, New Scientist, FYFD, Popular Science, The Scientist</span>
+2. **Phillips, JR**, A Hewes, and K Schwenk (2020). The mechanics of air-breathing in gray tree frog tadpoles, *Hyla versicolor* Leconte, 1825 (Anura: Hylidae). *Journal of Experimental Biology* 223(5).
+1. Everitt, B and **JR Phillips** (2019). Natural History Note: Death feigning in *Nerodia erythrogaster* and *N. fasciata*. *Herpetological Review* 50(3).
+
+### Book reviews
+
+- **Phillips, JR** (2025). Review of *Frog Day: a story of 24 hours and 24 amphibian lives. Herpetological Review* 56(1).
+- **Phillips, JR** (2022). Review of *Conservation of amphibians and reptiles in Connecticut. Ichthyology and Herpetology* 110(3), 633-634.
+
+### In review and in preparation
+
+- **Phillips, JR** and MC Womack (in review). Bubbleguts: re-evolution of air breathing in a lungless tadpole. *Ecology.*
+- **Phillips, JR** and MC Womack (complete draft). The importance of considering both ecological and developmental coupling across life stages.
+- **Phillips, JR**, PH Dias, S Harrington, and D Paluh (complete draft). The loss and regain of larval tooth structures in anuran tadpoles.
+- **Phillips, JR**, D Paluh, PH Dias, P Lukas, S Paynter-Tavares\*, and MC Womack (in prep). Two-faced frogs: larval habitat dominates shape evolution in tadpole skulls.
+- **Phillips, JR**, Mayerl, Keefe, and EB Kaczmarek (in prep). Re-assessing anuran ventilation mechanics using high-speed x-ray videography.
+
+## Presentations
+
+### Invited talks
+
+**2024** World Congress of Herpetology, Kuching, Malaysia. *An extravagance of breathing modes in anuran tadpoles.* In the "Amazing world of tadpoles" symposium.
+
+**2024** Society for the Study of Amphibians and Reptiles, Ann Arbor, MI. *Use it or lose it: implications of activity dependence on dynamics of trait loss.* In the "Endless herps most beautiful" symposium.
+
+**2024** II International Symposium for Tadpole Evolution. *Losses and regains of lung function in frog tadpoles.* 30-minute invited lecture.
+
+**2023** Brown University, functional morphology group. *Losses and regains of lung function in frog tadpoles.*
+
+**2020** Gamboa "frog talk" series. *Bubble-sucking tadpoles: physical constraints allow tadpoles to reach new adaptive space.* 30-minute invited lecture.
+
+### Contributed
+
+An asterisk marks a student prize.
+
+2026 Evolution Meeting, Cleveland, OH · 2026 SICB, Portland, OR · 2025 Cornell EEB Research Symposium\* · 2025 JMIH, St. Paul, MN · 2024 Cornell EEB Research Symposium\* · 2023 Evolution Meeting, Albuquerque, NM · 2023 Herpetological Association of Africa, Mpumalanga, South Africa · 2022 JMIH, Spokane, WA · 2021 Evolution Meeting, online · 2020 First International Symposium for Tadpole Evolution\* · 2020 SICB, Austin, TX\* · 2019 SICB Northeast DVM, Boston College · 2019 HAA, Eastern Cape, South Africa\* · 2019 JMIH, Snowbird, UT · 2018 SICB Northeast DVM, Brown University · 2018 JMIH, Rochester, NY · 2017 SICB Northeast DVM, UMass Lowell
+
+## Honors and awards
+
+**2026** College of Arts and Sciences Russell Family Teaching Award, Cornell  
+**2025** Whittaker Award, best graduate student presentation, Cornell EEB Research Symposium  
+**2024** Whittaker Award, best graduate student presentation, Cornell EEB Research Symposium  
+**2020** Best Oral Presentation (tied), First International Tadpole Evolution Symposium  
+**2020** Dwight D. Davis Award for Best Oral Presentation, DVM, SICB  
+**2019** Best Student Presentation, Herpetological Association of Africa  
+**2019** Honorable Mention, SSAR Seibert Award for Morphology and Physiology, JMIH  
+**2019** Honorable Mention, UConn EEB Graduate Student Teaching Excellence Award  
+**2017** Honorable Mention, UConn EEB Undergraduate Research Symposium
+
+## Grants
+
+**2024** Utah State BGSA Student Travel Award, $1,000  
+**2022** Sigma Xi Grants in Aid of Research, $1,000  
+**2022** Utah State Ecology Center Graduate Award, $5,000  
+**2022** Utah State Biology Del Grosso Award, $5,000  
+**2021** Utah State Biology Ecology Graduate Award, $5,000  
+**2019** Carl Gans Foundation Travel Award, $1,000  
+**2018** UConn EEB Biology Graduate Research Award in Zoology, $300
+
+## Teaching
+
+### Primary instructor of record
+
+**2024** Organismal Biology Lab, Utah State University  
+**2018** Field Herpetology (summer session), University of Connecticut
+
+### Teaching assistant
+
+**2026** Biology of the Vertebrates, Cornell (lead TA)  
+**2025** Herpetology, Cornell (took over full course instruction midway through the semester)  
+**2024** Introduction to Evolutionary Biology, Cornell  
+**2022-23** Human Physiology lab, Utah State (online)  
+**2020-21** Introductory Biology I and II, Utah State (online)  
+**2019** Herpetology, UConn  
+**2018** Comparative Vertebrate Anatomy, UConn  
+**2018** General Ecology, UConn  
+**2017** Mammalogy, UConn
+
+Guest lectures in Biology of the Vertebrates (Cornell, 2025), Herpetology
+(Cornell, 2025), and Herpetology (UConn, 2019). Original teaching materials
+were created for several of these courses and are available on request.
+
+## Undergraduate mentorship
+
+**Cornell University, 2024 to present**  
+Saty Paynter-Tavares, Emma Lynn Poplyk, Chloe Adaggio, Justine Watkins
+
+**Utah State University, 2020 to 2024**  
+Sifiso Shane Ngwenya (now pursuing a master's degree in South Africa), Gary Kyle
+Nicolau (now pursuing a PhD in South Africa), Emily Anne Jackson (now working in
+environmental assessment across Africa)
+
+**University of Connecticut, 2016 to 2019**  
+Amanda Hewes (now a visiting professor at Colorado College), Jaimie Simmons,
+Emilee Wooldridge, Andre Jang, Elle Parks, Gabrielle Fabian
+
+Several of these students have co-authored publications or presented posters at
+scientific conferences under my mentorship.
+
+## Service
+
+- Advisory board member, Tompkins County Amphibian Patrol, 2024 to present
+- Co-founder, African Herpetological and Biodiversity Institute, a non-profit dedicated to advancing scientific opportunities for African-born herpetologists and naturalists
+- Cornell Graduate Recruitment Committee, 2024 to 2025
+- Co-organized the symposium on tadpole diversity, 2024 World Congress of Herpetology
+- Committee member, II International Symposium for Tadpole Evolution
+- Student representative, Utah State graduate programs committee, 2022 to 2023
+- Elected Academic Chair, Utah State Biology Graduate Student Association, 2022 to 2023
+- Ran the herpetology portion of the CT Science Olympiad, 2018
+- Mammalogy team, 2017 CT BioBlitz
+- Invited speaker, CT Cub Scouts and The Children's Museum, West Hartford, CT
+
+### Peer review
+
+Integrative and Comparative Biology · Biological Journal of the Linnean Society ·
+PNAS (co-review) · PeerJ · Anatomical Record · Journal of Experimental Biology ·
+Herpetological Review · African Herp News · African Zoology · Asian Herpetology
+Research
+
+### Society membership
+
+SICB (2018 to present) · SSAR (2018 to present) · Herpetological Association of
+Africa (2019 to present) · SSE (2021 to present)
+
+## Photography
+
+**2026** Cornell EEB Photo Contest, winner  
+**2017** UConn EEB Photo Contest, winner
+
+Journal covers: *Oikos* (January 2025), *Integrative and Comparative Biology*
+(August 2024).
+
+## References
+
+**Dr. Molly Womack**, PhD advisor · mcwomack@cornell.edu  
+**Dr. Kurt Schwenk**, MSc and undergraduate honors thesis advisor · kurt.schwenk@uconn.edu

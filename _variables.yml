@@ -1,0 +1,13 @@
+# ---------------------------------------------------------------------------
+# Every piece of text that appears in more than one place lives here.
+# Change it once and it updates across the whole site.
+# Use it in any page with:  {{< var email >}}
+# ---------------------------------------------------------------------------
+name: "Jackson Phillips"
+tagline: "How frogs breathe, feed, and change shape, and what that says about evolution."
+email: "jack.phillips12314@gmail.com"
+scholar: "https://scholar.google.com/citations?user=84N3cEMAAAAJ&hl=en"
+department: "Department of Ecology and Evolutionary Biology"
+institution: "Cornell University"
+address: "Ithaca, NY 14853"
+advisor: "Molly Womack"

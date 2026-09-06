@@ -1,0 +1,3 @@
+```{=html}
+<div class="still-cover"><img src="assets/tadpole-cover.jpg" alt="A plate of anuran larvae from the reference collection"></div>
+```

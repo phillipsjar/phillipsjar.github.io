@@ -1,0 +1,18 @@
+# Full-resolution originals stay on your machine. Only the web-sized copies
+# that prepare_photos.py generates are committed.
+photos-source/
+
+/.quarto/
+/_site/
+/_shots/
+shot.py
+debug.py
+.DS_Store
+
+**/*.quarto_ipynb
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata

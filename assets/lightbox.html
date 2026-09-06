@@ -1,0 +1,98 @@
+<!-- A small full-screen image viewer. About eighty lines, no library.
+     It picks up any <a class="lightbox" data-gallery="..."> in the page, which
+     is what scripts/prepare_photos.py writes. -->
+<div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="Photograph viewer">
+  <button class="lb-close" type="button" aria-label="Close viewer">Close <span aria-hidden="true">&#10005;</span></button>
+  <button class="lb-prev" type="button" aria-label="Previous photograph">&#8249;</button>
+  <button class="lb-next" type="button" aria-label="Next photograph">&#8250;</button>
+  <figure class="lb-stage">
+    <img class="lb-img" alt="">
+    <figcaption class="lb-cap"></figcaption>
+  </figure>
+  <div class="lb-count" aria-hidden="true"></div>
+  <div class="lb-hint" aria-hidden="true">Esc or click the background to close &nbsp;·&nbsp; &#8592; &#8594; to browse</div>
+</div>
+
+<script>
+(function () {
+  var box   = document.getElementById("lb");
+  if (!box) return;
+  var img   = box.querySelector(".lb-img");
+  var cap   = box.querySelector(".lb-cap");
+  var count = box.querySelector(".lb-count");
+  var group = [], at = 0, opener = null;
+
+  function links(name) {
+    return Array.prototype.slice.call(
+      document.querySelectorAll('a.lightbox[data-gallery="' + name + '"]'));
+  }
+
+  function show(i) {
+    at = (i + group.length) % group.length;
+    var a = group[at];
+    var thumb = a.querySelector("img");
+    img.src = a.getAttribute("href");
+    img.alt = thumb ? thumb.getAttribute("alt") || "" : "";
+    var fig = a.parentElement.querySelector("figcaption");
+    cap.innerHTML = fig ? fig.innerHTML : "";
+    count.textContent = group.length > 1 ? (at + 1) + " / " + group.length : "";
+    // Pre-load the neighbours so arrowing through feels instant.
+    [1, -1].forEach(function (d) {
+      var n = group[(at + d + group.length) % group.length];
+      if (n) { var p = new Image(); p.src = n.getAttribute("href"); }
+    });
+  }
+
+  function open(a) {
+    group = links(a.getAttribute("data-gallery"));
+    if (!group.length) group = [a];
+    opener = a;
+    box.hidden = false;
+    document.body.style.overflow = "hidden";
+    show(group.indexOf(a));
+    box.querySelector(".lb-close").focus();
+  }
+
+  function close() {
+    box.hidden = true;
+    img.removeAttribute("src");
+    document.body.style.overflow = "";
+    if (opener) { opener.focus(); opener = null; }
+  }
+
+  document.addEventListener("click", function (e) {
+    var a = e.target.closest ? e.target.closest("a.lightbox") : null;
+    if (a) { e.preventDefault(); open(a); }
+  });
+
+  box.addEventListener("click", function (e) {
+    if (e.target.closest(".lb-close")) return close();
+    if (e.target.closest(".lb-next"))  return show(at + 1);
+    if (e.target.closest(".lb-prev"))  return show(at - 1);
+    // A click on the backdrop, rather than on the photograph, closes.
+    if (!e.target.closest(".lb-stage")) close();
+  });
+
+  document.addEventListener("keydown", function (e) {
+    if (box.hidden) return;
+    if (e.key === "Escape")     { e.preventDefault(); close(); }
+    if (e.key === "ArrowRight") { e.preventDefault(); show(at + 1); }
+    if (e.key === "ArrowLeft")  { e.preventDefault(); show(at - 1); }
+    if (e.key === "Tab") {                       // keep focus inside the dialog
+      var f = box.querySelectorAll("button");
+      var first = f[0], last = f[f.length - 1];
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    }
+  });
+
+  var x0 = null;
+  box.addEventListener("touchstart", function (e) { x0 = e.touches[0].clientX; }, {passive: true});
+  box.addEventListener("touchend", function (e) {
+    if (x0 === null) return;
+    var dx = e.changedTouches[0].clientX - x0;
+    if (Math.abs(dx) > 50) show(at + (dx < 0 ? 1 : -1));
+    x0 = null;
+  }, {passive: true});
+})();
+</script>

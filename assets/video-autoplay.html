@@ -1,0 +1,69 @@
+<!-- ---------------------------------------------------------------------
+     Short silent clips in .video-figure blocks behave like animated figures:
+     they start playing when they scroll into view, loop, and pause when they
+     scroll away. The player controls still work if a reader wants to scrub or
+     stop. Nothing autoplays for readers who have asked their system for
+     reduced motion, and nothing here has sound.
+
+     To turn this off entirely, remove assets/video-autoplay.html from
+     include-in-header in _quarto.yml. The videos go back to click-to-play.
+     --------------------------------------------------------------------- -->
+<script>
+(function () {
+  var CALM = window.matchMedia &&
+             window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // Set up each clip the moment it is parsed, before the browser has had a
+  // chance to start downloading it at preload="auto".
+  function prepare(v) {
+    if (v.dataset.loopReady) return;
+    v.dataset.loopReady = "1";
+    v.muted = true;                 // required for autoplay in every browser
+    v.setAttribute("muted", "");
+    v.loop = true;
+    v.setAttribute("loop", "");
+    v.playsInline = true;
+    v.setAttribute("playsinline", "");
+    if (!CALM) v.preload = "metadata";
+  }
+
+  function isFigure(v) {
+    return v.closest && v.closest(".video-figure");
+  }
+
+  new MutationObserver(function (records) {
+    records.forEach(function (r) {
+      r.addedNodes && Array.prototype.forEach.call(r.addedNodes, function (n) {
+        if (n.nodeType !== 1) return;
+        if (n.tagName === "VIDEO" && isFigure(n)) prepare(n);
+        else if (n.querySelectorAll) {
+          Array.prototype.forEach.call(n.querySelectorAll("video"), function (v) {
+            if (isFigure(v)) prepare(v);
+          });
+        }
+      });
+    });
+  }).observe(document.documentElement, { childList: true, subtree: true });
+
+  document.addEventListener("DOMContentLoaded", function () {
+    var clips = Array.prototype.slice.call(
+      document.querySelectorAll(".video-figure video"));
+    clips.forEach(prepare);
+    if (CALM || !clips.length || !("IntersectionObserver" in window)) return;
+
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        var v = e.target;
+        if (e.isIntersecting) {
+          var playing = v.play();
+          if (playing && playing.catch) playing.catch(function () {});
+        } else if (!v.paused) {
+          v.pause();
+        }
+      });
+    }, { threshold: 0.3, rootMargin: "150px 0px" });
+
+    clips.forEach(function (v) { io.observe(v); });
+  });
+})();
+</script>

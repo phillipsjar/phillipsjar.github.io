@@ -1,0 +1,75 @@
+---
+title: "Once lost, is a trait gone forever?"
+subtitle: "Dollo's law, lungs and beaks"
+description: "For the more serious-minded reader, read on for a discussion of Dollo's Law and how my research into tadpole lungs and beaks may shed light on why some kinds of loss are more irreversible than others over evolutionary time."
+order: 5
+image: ../assets/images/research-thumbs/once-lost-gone-forever.jpg
+---
+
+::: {.todo}
+Draft. The argument is set up but the conclusions are yours, and this is the
+one where I would most want your voice on the final section.
+:::
+
+There is an old idea in evolutionary biology, usually attached to the Belgian
+palaeontologist Louis Dollo, that evolution does not run backwards. Once a
+complex structure is lost, the thinking goes, it does not come back.
+
+The reasoning is intuitive. Building something complicated takes a lot of
+genetic and developmental machinery, and if that machinery stops being used it
+stops being maintained, and once it has decayed the road back is closed.
+
+The trouble is that the principle keeps meeting exceptions. And tadpoles turn
+out to be an unusually good place to test it, because they hand you the same
+experiment twice, in two completely different systems.
+
+## System one: lungs
+
+Lungs are ancient, they are complicated, and some tadpoles have lost them
+outright.
+
+That loss happened recently enough, and often enough independently, that you
+can still see the circumstances that caused it, which is exactly what you want
+if you are asking whether the loss is reversible.
+
+FILL IN: what the comparative work says about regain. How strong is the
+evidence, and how confident are you? This is the paragraph a search committee
+member will actually remember, so it is worth writing slowly.
+
+## System two: beaks
+
+Most tadpoles scrape their food. They have a hardened beak and rows of tiny
+keratinised teeth, and they use them to rasp algae off rock and leaf. It is
+fussy, specialised equipment, and it is old.
+
+The narrow-mouthed frogs, family Microhylidae, mostly do not have it. Somewhere
+in the ancestry of that family the whole apparatus was dropped, and their
+larvae became filter feeders that hang in the water column and strain particles
+out of it instead. So far, so ordinary: a structure stopped paying for itself
+and was lost.
+
+Except that some microhylid tadpoles have keratinised mouthparts. If the loss
+really happened in the common ancestor, then those lineages did not keep the
+structure. They rebuilt it.
+
+FILL IN: which lineages, what the phylogenetic evidence looks like, and how
+carefully you want to hedge it while the manuscript is still in progress.
+
+## So which losses are reversible?
+
+This is the actual question, and it is more interesting than a yes or a no.
+
+FILL IN: your argument. The framing I would suggest is that "can it come back"
+is the wrong question and "what makes some losses easier to reverse than
+others" is the right one, but say it your way. Whatever goes here is the
+intellectual centre of your research programme, so it is worth more drafts than
+anything else on this site.
+
+---
+
+***Phillips, JR**, PH Dias, and MC Womack (2025). Lungless tadpoles breathe
+fresh air into hypotheses for tetrapod lung loss and trait regains.* Evolution
+*79(12), 2776-2790.*
+
+***Phillips, JR**, PH Dias, S Harrington, and D Paluh (in preparation). The loss
+and regain of larval tooth structures in anuran tadpoles.*

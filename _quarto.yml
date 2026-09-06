@@ -1,0 +1,71 @@
+# ---------------------------------------------------------------------------
+# Site configuration. Most day-to-day changes you'd want to make are here.
+# ---------------------------------------------------------------------------
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - robots.txt
+  # Only .qmd files become pages. Without this, README.md and EDITING.md would
+  # be published as pages on the live site.
+  render:
+    - "**/*.qmd"
+
+
+website:
+  title: "Jackson Phillips"
+  site-url: "https://phillipsjar.github.io"   # replace when you buy a domain
+  description: "Evolutionary biologist studying how frogs and their tadpoles breathe, feed, and evolve."
+  favicon: assets/favicon.png
+  open-graph: true
+  twitter-card: true
+
+  navbar:
+    title: "Jackson Phillips"
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: research.qmd
+        text: "Research"
+      - href: tadpoles.qmd
+        text: "Tadpoles"
+      - href: wildlife.qmd
+        text: "Wildlife"
+      # Uncomment once videos.qmd has something in it:
+      # - href: videos.qmd
+      #   text: "Video"
+      - href: cv.qmd
+        text: "CV"
+      - href: contact.qmd
+        text: "Contact"
+    right:
+      - text: "Google Scholar"
+        href: "https://scholar.google.com/citations?user=84N3cEMAAAAJ&hl=en"
+
+  search: false
+
+  page-footer:
+    left: "© 2026 Jackson Phillips. All photographs are my own."
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    # Dark is listed first, so it is the default and the navbar shows a toggle.
+    # To drop the toggle and commit to one look, replace this whole block with
+    #     theme: [cosmo, theme-dark.scss]
+    theme:
+      dark:  [cosmo, theme-dark.scss]
+      light: [cosmo, theme-light.scss]
+    toc: false
+    include-in-header:
+      - assets/head.html
+      # Clips play and loop when they scroll into view. Remove this
+      # line to go back to click-to-play.
+      - assets/video-autoplay.html
+    # The full-screen photo viewer. assets/lightbox.html is the whole thing.
+    include-after-body: assets/lightbox.html
+    # A narrow rotating photo strip under the navbar on EVERY page.
+    # Currently off, because the homepage has its own banner instead.
+    # Uncomment to turn it back on site-wide.
+    # include-before-body: assets/site-banner.html
+    link-external-newwindow: true

@@ -1,0 +1,23 @@
+```{=html}
+<div class="banner" id="wildlife-banner">
+<img src="photography/wildlife/reptiles/thumbs/Acontias_meleagris.jpg" alt="" class="active" loading="eager">
+<img src="photography/wildlife/reptiles/thumbs/Agkistrodon_contortrix_PA_2023_2.jpg" alt="" class="" loading="lazy">
+<img src="photography/wildlife/amphibians/thumbs/Agalychnis_callidryas_Sierpe_3_CR_26.jpg" alt="" class="" loading="lazy">
+<img src="photography/wildlife/amphibians/thumbs/Ambystoma_maculatum_NY_2025_4.jpg" alt="" class="" loading="lazy">
+<img src="photography/wildlife/birds/thumbs/Bay_breasted_warbler.jpg" alt="" class="" loading="lazy">
+<img src="photography/wildlife/birds/thumbs/Chestnut_mandibled_toucan_1_Cloudbridge_CR_26.jpg" alt="" class="" loading="lazy">
+<img src="photography/wildlife/mammals/thumbs/African_elephant_KZN_2019_2.jpg" alt="" class="" loading="lazy">
+<img src="photography/wildlife/mammals/thumbs/Collared_Peccary_Cloudbridge_CR_26.jpg" alt="" class="" loading="lazy">
+</div>
+<script>
+(function () {
+  var s = document.querySelectorAll("#wildlife-banner img"), i = 0;
+  if (s.length < 2) return;
+  setInterval(function () {
+    s[i].classList.remove("active");
+    i = (i + 1) % s.length;
+    s[i].classList.add("active");
+  }, 5000);
+})();
+</script>
+```

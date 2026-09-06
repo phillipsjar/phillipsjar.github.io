@@ -1,0 +1,24 @@
+---
+title: "Contact"
+toc: false
+---
+
+Email is the best way to reach me.
+
+::: {.keylinks}
+[{{< var email >}}](mailto:{{< var email >}}){.primary}
+[Google Scholar]({{< var scholar >}})
+:::
+
+{{< var department >}}  
+{{< var institution >}}  
+{{< var address >}}
+
+---
+
+I'm always happy to hear from people working on amphibian morphology or functional
+anatomy, from students considering graduate school in evolutionary biology, and
+from anyone who wants to use my photographs for education, conservation, or
+outreach.
+
+

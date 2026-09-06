@@ -1,0 +1,32 @@
+/*-- scss:defaults --*/
+// ===========================================================================
+// LIGHT THEME
+// Same seven colours as theme-dark.scss, warm rather than dark.
+// ===========================================================================
+
+$ink:        #1c1f1d;
+$ink-soft:   #5b6360;
+$accent:     #2f5d4a;
+$paper:      #fbfaf7;
+$paper-warm: #f3f1ea;
+$rule:       #e2ded4;
+
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$headings-font-family:   "Source Serif 4", Georgia, "Times New Roman", serif;
+
+// --- Below here you should not need to change anything ---------------------
+$body-color:       $ink;
+$body-bg:          $paper;
+$link-color:       $accent;
+$link-hover-color: darken($accent, 12%);
+$font-size-root:   17px;
+$line-height-base: 1.65;
+$navbar-bg: $paper;
+$navbar-fg: $ink;
+$footer-bg: $paper-warm;
+$table-border-color: $rule;
+
+/*-- scss:rules --*/
+@import "rules";
+
+.keylinks a { background: #fff; }

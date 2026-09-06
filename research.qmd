@@ -1,0 +1,15 @@
+---
+title: "Research"
+subtitle: "Check out some quick writeups of my various research projects."
+listing:
+  contents: research
+  type: default
+  sort: "order"
+  fields: [image, title, subtitle, description]
+  date-format: ""
+  sort-ui: false
+  filter-ui: false
+toc: false
+---
+
+Everything below is written for any curious person. Technical versions are available upon request. Also feel free to check out [Google Scholar]({{< var scholar >}}), and my full publication list on my [CV](cv.qmd#publications).

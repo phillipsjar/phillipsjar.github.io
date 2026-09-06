@@ -1,0 +1,621 @@
+// ---------------------------------------------------------------------------
+// Layout and component styles, shared by the light and dark themes.
+// Colours and fonts are NOT set here. They come from the $variables at the top
+// of theme-light.scss and theme-dark.scss, so this file never needs editing
+// just to change a colour.
+// ---------------------------------------------------------------------------
+
+// ---------------------------------------------------------------------------
+// Plain CSS from here down. No framework, no build step beyond Quarto itself.
+// ---------------------------------------------------------------------------
+
+body { -webkit-font-smoothing: antialiased; }
+
+h1, h2, h3 { letter-spacing: -0.015em; font-weight: 600; }
+h1 { font-size: 2.6rem; line-height: 1.12; }
+h2 { font-size: 1.6rem; margin-top: 2.6rem; margin-bottom: 0.9rem; }
+
+.navbar { border-bottom: 1px solid $rule; font-size: 0.94rem; }
+.navbar-brand { font-family: $headings-font-family; font-weight: 600; font-size: 1.15rem; }
+.navbar .nav-link { font-weight: 500; }
+
+main.content { max-width: 46rem; }
+main.content.column-page { max-width: 1060px; margin-left: auto; margin-right: auto; }
+
+/* Quarto lays every page out at a reading width, which is right for prose and
+   far too narrow for photographs. Any page with `body-classes: gallery` in its
+   front matter gets the full width instead; its paragraphs are pulled back to a
+   readable measure just below. */
+// The breakout: widen an element to the viewport regardless of the column
+// Quarto put it in. Used for photographs, and for the headings above them so
+// that everything on a gallery page shares one left edge.
+@mixin breakout {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(94vw, 1500px);
+}
+.banner, .album-grid, .photo-grid { @include breakout; }
+
+body.gallery main.content > header,
+body.gallery main.content > p,
+body.gallery main.content > .todo {
+  @include breakout;
+  // Widened to the gallery's left edge, but the text itself stays readable.
+  padding-inline-end: max(0px, calc(100% - 46rem));
+}
+
+
+
+/* --- Homepage hero ------------------------------------------------------ */
+.hero {
+  display: grid;
+  grid-template-columns: 1.55fr 1fr;
+  gap: 3rem;
+  align-items: start;
+  padding: 1rem 0 2.75rem;
+}
+.hero h1 { margin-bottom: 0.35rem; }
+.hero .tagline {
+  max-width: 46ch;
+  font-family: $headings-font-family;
+  font-size: 1.2rem;
+  color: $ink-soft;
+  margin-bottom: 1.4rem;
+}
+.hero p { font-size: 1.03rem; }
+.hero .portrait { max-width: 330px; }
+.hero img { border-radius: 3px; width: 100%; }
+.hero .portrait-caption {
+  font-size: 0.8rem;
+  color: $ink-soft;
+  margin-top: 0.5rem;
+  line-height: 1.4;
+}
+
+/* --- The three primary links (CV / Scholar / Contact) ------------------- */
+.keylinks { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.6rem; }
+.keylinks a {
+  display: inline-block;
+  padding: 0.55rem 1.1rem;
+  border: 1px solid $rule;
+  border-radius: 2px;
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: $ink;
+  text-decoration: none;
+  background: #fff;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+.keylinks a:hover { border-color: $accent; color: $accent; }
+.keylinks a.primary { background: $accent; border-color: $accent; color: #fff; }
+.keylinks a.primary:hover { background: darken($accent, 8%); color: #fff; }
+
+/* --- Research listing cards --------------------------------------------- */
+.quarto-listing { margin-top: 1rem; }
+.list-item-title a { text-decoration: none; font-family: $headings-font-family; }
+div.quarto-post {
+  border-top: 1px solid $rule;
+  padding: 1.6rem 0;
+  gap: 1.6rem;
+}
+div.quarto-post .thumbnail img {
+  border-radius: 2px;
+  /* A fixed box that every thumbnail sits inside whole, rather than being
+     cropped to fill it. Portrait shots keep their tails, landscape ones keep
+     their edges, and the text still lines up across all the cards. */
+  width: 210px;
+  height: 250px;
+  object-fit: contain;
+  object-position: center;
+  flex-shrink: 0;
+}
+div.quarto-post .listing-title { font-size: 1.3rem; margin-bottom: 0.35rem; }
+div.quarto-post .listing-subtitle { color: $ink-soft; font-size: 0.98rem; }
+div.quarto-post .listing-description { color: $ink-soft; }
+
+/* --- Photography album grid --------------------------------------------- */
+.album-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 340px));
+  justify-content: start;
+  gap: 1.6rem;
+  margin: 2.5rem 0 1rem;
+}
+.album-grid a { text-decoration: none; color: $ink; }
+.album-grid figure { margin: 0; }
+.album-grid img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 2px;
+  display: block;
+  transition: opacity 0.2s ease;
+}
+.album-grid a:hover img { opacity: 0.86; }
+.album-grid figcaption {
+  margin-top: 0.55rem;
+  font-family: $headings-font-family;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.album-grid .count { display: block; font-family: $font-family-sans-serif; font-size: 0.82rem; font-weight: 400; color: $ink-soft; }
+
+/* --- The full-screen image viewer ----------------------------------------- */
+/* Markup and behaviour live in assets/lightbox.html. */
+.lb {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  background: rgba(6, 7, 7, 0.94);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lb[hidden] { display: none; }
+
+.lb-stage { margin: 0; max-width: 92vw; max-height: 86vh; text-align: center; }
+.lb-img {
+  max-width: 92vw;
+  max-height: 78vh;
+  width: auto; height: auto;
+  border-radius: 2px;
+  display: block;
+  margin: 0 auto;
+}
+.lb-cap {
+  margin-top: 0.9rem;
+  font-size: 0.95rem;
+  color: rgba(255, 255, 255, 0.78);
+}
+.lb-cap em { color: #fff; font-style: italic; }
+.lb-cap .where { display: block; font-size: 0.84rem; margin-top: 0.15rem; }
+
+/* Every control is a real button with a visible edge, so the way out is never
+   in doubt on a dark photograph. */
+.lb button {
+  position: absolute;
+  background: rgba(24, 26, 25, 0.8);
+  color: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 999px;
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+.lb button:hover { background: rgba(70, 76, 72, 0.95); border-color: rgba(255, 255, 255, 0.6); }
+.lb button:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+
+.lb-close {
+  top: 18px; right: 20px;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+}
+.lb-prev, .lb-next {
+  top: 50%;
+  transform: translateY(-50%);
+  width: 46px; height: 46px;
+  font-size: 1.7rem;
+  line-height: 1;
+  padding: 0 0 4px;
+}
+.lb-prev { left: 20px; }
+.lb-next { right: 20px; }
+
+.lb-count {
+  position: absolute;
+  top: 24px; left: 24px;
+  font-size: 0.82rem;
+  color: rgba(255, 255, 255, 0.55);
+  letter-spacing: 0.06em;
+}
+.lb-hint {
+  position: absolute;
+  left: 50%; bottom: 18px;
+  transform: translateX(-50%);
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.5);
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+@media (max-width: 620px) {
+  .lb-prev, .lb-next { display: none; }      /* swipe instead */
+  .lb-close { top: 12px; right: 12px; }
+  .lb-hint { content: none; font-size: 0.72rem; }
+  .lb-img { max-height: 70vh; }
+}
+
+/* --- A single still image at the top of a page ---------------------------- */
+.still-cover {
+  @include breakout;
+  height: clamp(200px, 26vw, 380px);   // how tall the cover band is
+  overflow: hidden;
+  border-radius: 2px;
+  margin-bottom: 2.2rem;
+}
+.still-cover img {
+  width: 100%; height: 100%;
+  display: block;
+  // `contain` shows the whole picture, which is what a plate of specimens
+  // wants. Switch to `cover` to fill the band edge to edge and crop instead.
+  object-fit: contain;
+  object-position: center center;
+}
+
+/* --- The tadpole library's search box ------------------------------------- */
+.tad-search {
+  @include breakout;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 2.4rem 0 0.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid $rule;
+}
+.tad-search input {
+  flex: 1 1 22rem;
+  max-width: 34rem;
+  padding: 0.65rem 0.95rem;
+  font-family: inherit;
+  font-size: 1rem;
+  color: $ink;
+  background: $paper-warm;
+  border: 1px solid $rule;
+  border-radius: 3px;
+}
+.tad-search input::placeholder { color: $ink-soft; }
+.tad-search input:focus {
+  outline: none;
+  border-color: $accent;
+  box-shadow: 0 0 0 3px rgba(127, 187, 156, 0.16);
+}
+.tad-count { font-size: 0.88rem; color: $ink-soft; }
+
+.tad-empty {
+  @include breakout;
+  margin-top: 2rem;
+  color: $ink-soft;
+}
+.tad-empty button {
+  background: none;
+  border: 0;
+  border-bottom: 1px solid $accent;
+  color: $accent;
+  font: inherit;
+  padding: 0;
+  cursor: pointer;
+}
+
+/* Family headings reuse the wildlife section styling below. */
+.fam[hidden] { display: none; }
+
+/* --- Section headings and jump links on the Wildlife page ----------------- */
+.section-nav {
+  @include breakout;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.4rem;
+  margin: 1.8rem 0 0.5rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+.section-nav a {
+  color: $ink-soft;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  padding-bottom: 2px;
+}
+.section-nav a:hover { color: $accent; border-bottom-color: $accent; }
+
+.fam-nav {
+  margin-top: 1.1rem;
+  font-size: 0.9rem;
+  gap: 0.35rem 1.1rem;
+}
+.fam-nav a[hidden] { display: none; }
+
+.photo-section { scroll-margin-top: 90px; }   // so the navbar doesn't cover the heading
+.photo-section h2 {
+  @include breakout;
+  margin: 2.6rem 0 0.2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid $rule;
+  font-size: 1.5rem;
+}
+.photo-section h2 .n {
+  font-family: $font-family-sans-serif;
+  font-size: 0.82rem;
+  font-weight: 400;
+  color: $ink-soft;
+  vertical-align: 0.35em;
+  margin-left: 0.35rem;
+}
+.photo-section .photo-grid { margin-top: 1.4rem; }
+
+/* --- Photo grid inside an album ----------------------------------------- */
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem 1.3rem;
+  margin: 2rem 0 3rem;
+}
+.photo-grid figure { margin: 0; position: relative; }
+.photo-grid a { display: block; }
+.photo-grid img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 2px;
+  display: block;
+  transition: opacity 0.2s ease;
+}
+.photo-grid a:hover img { opacity: 0.86; }
+/* The caption sits over the bottom of the photo and fades in on hover.
+   It uses opacity rather than display:none on purpose: the text stays in the
+   page for screen readers and for search engines either way. */
+.photo-grid figcaption {
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  padding: 1.6rem 0.85rem 0.7rem;
+  font-size: 0.9rem;
+  line-height: 1.3;
+  color: rgba(255, 255, 255, 0.82);
+  background: linear-gradient(to top,
+              rgba(0, 0, 0, 0.85) 0%,
+              rgba(0, 0, 0, 0.55) 55%,
+              rgba(0, 0, 0, 0) 100%);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.18s ease;
+}
+.photo-grid figure:hover figcaption,
+.photo-grid figure:focus-within figcaption { opacity: 1; }
+.photo-grid figcaption em { color: #fff; font-style: italic; }
+.photo-grid figcaption .where { display: block; font-size: 0.82rem; }
+/* museum catalogue number */
+.photo-grid figcaption .cat,
+.lb-cap .cat { font-variant-numeric: tabular-nums; opacity: 0.75; }
+
+/* Touch devices have no hover, so there the captions just sit underneath. */
+@media (hover: none) {
+  .photo-grid figcaption {
+    position: static;
+    opacity: 1;
+    background: none;
+    padding: 0.5rem 0 0;
+    color: $ink-soft;
+  }
+  .photo-grid figcaption em { color: $ink; }
+}
+.back-link { font-size: 0.92rem; font-weight: 500; }
+
+/* --- Homepage banner, with text over the photo ---------------------------- */
+.home-banner {
+  @include breakout;
+  position: relative;
+  height: clamp(240px, 32vw, 440px);   // how tall the banner is
+  overflow: hidden;
+  border-radius: 2px;
+  margin-bottom: 2.5rem;
+}
+.home-banner p { margin: 0; }
+.home-banner img {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%;
+  object-fit: cover;
+  object-position: center center;      // which slice of the photo shows
+}
+/* A soft dark wash on the left so the text stays readable over any photo.
+   Raise 0.72 toward 1 if a lighter image ever makes the text hard to read. */
+.home-banner::after {
+  content: "";
+  position: absolute; inset: 0;
+  background: linear-gradient(100deg,
+              rgba(0, 0, 0, 0.72) 0%,
+              rgba(0, 0, 0, 0.45) 42%,
+              rgba(0, 0, 0, 0) 72%);
+}
+.home-banner-text {
+  position: absolute;
+  z-index: 1;
+  left: clamp(1.5rem, 4vw, 3.5rem);     // distance from the left edge
+  top: 50%;                             // 50% centres it; 100% sits it low
+  transform: translateY(-50%);
+  max-width: min(34rem, 48%);           // how far the text may run right
+}
+.home-banner-text h1 {
+  color: #fff;
+  font-size: clamp(2rem, 4.4vw, 3.4rem);
+  line-height: 1.05;
+  margin: 0 0 0.5rem;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.55);
+}
+.home-banner-text p {
+  font-family: $headings-font-family;
+  font-size: clamp(1rem, 1.5vw, 1.3rem);
+  line-height: 1.35;
+  color: rgba(255, 255, 255, 0.9);
+  text-shadow: 0 1px 12px rgba(0, 0, 0, 0.6);
+}
+
+@media (max-width: 620px) {
+  .home-banner { height: 300px; }
+  .home-banner-text { max-width: 22ch; }
+}
+
+/* --- Narrow photo strip at the top of every page -------------------------- */
+/* Generated into assets/site-banner.html by scripts/prepare_photos.py and
+   pulled in by include-before-body in _quarto.yml. */
+.site-banner {
+  position: relative;
+  width: 100%;
+  height: clamp(84px, 11vw, 150px);   // <- the "narrow" part. change this.
+  overflow: hidden;
+  background: $paper-warm;
+  border-bottom: 1px solid $rule;
+}
+.site-banner img {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%;
+  object-fit: cover;
+  object-position: center 45%;        // which slice of a tall photo shows
+  opacity: 0;
+  transition: opacity 1.6s ease-in-out;
+}
+.site-banner img.active { opacity: 1; }
+
+/* The photography pages have their own full-size banner, so the strip would be
+   two banners stacked. Hide it there. */
+body.gallery .site-banner { display: none; }
+
+/* --- Rotating banner ----------------------------------------------------- */
+.banner {
+  // width comes from the breakout mixin above
+  // A fixed height rather than an aspect ratio, so the banner always spans the
+  // full width and crops vertically instead of shrinking.
+  height: clamp(260px, 33vw, 460px);
+  overflow: hidden;
+  border-radius: 2px;
+  background: $paper-warm;
+  margin-bottom: 2rem;
+}
+.banner img {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 1.4s ease-in-out;
+}
+.banner img.active { opacity: 1; }
+
+/* --- Small screens ------------------------------------------------------- */
+@media (max-width: 760px) {
+  .hero { grid-template-columns: 1fr; gap: 1.75rem; }
+  .hero .portrait { max-width: 240px; }
+  h1 { font-size: 2.1rem; }
+}
+
+/* --- Homepage research preview ------------------------------------------ */
+.preview { margin-top: 1.2rem; }
+.preview > p:first-child { border-top: 0; padding-top: 0.2rem; }
+.preview > p {
+  border-top: 1px solid $rule;
+  padding: 1.3rem 0 0.4rem;
+  margin-bottom: 1rem;
+  color: $ink-soft;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  /* Title, then blurb, then a spare row that soaks up whatever height the
+     thumbnail has left over, so the title and blurb stay next to each other. */
+  grid-template-rows: auto auto 1fr;
+  column-gap: 1.3rem;
+}
+/* Each entry is a two-column row: thumbnail on the left, title and blurb
+   stacked on the right. In index.qmd an entry starts with a line like
+       [![](assets/images/research-thumbs/whatever.jpg)](research/post.qmd){.thumb-link}
+   Drop that line and the entry falls back to text across the full width. */
+.preview a.thumb-link {
+  grid-column: 1;
+  grid-row: 1 / -1;
+  display: block;
+}
+.preview a.thumb-link img {
+  display: block;
+  width: 160px;
+  height: 190px;
+  object-fit: contain;
+  object-position: center top;   /* line the picture up with the title */
+  border-radius: 2px;
+}
+@media (max-width: 600px) {
+  .preview a.thumb-link img { width: 105px; height: 125px; }
+}
+
+.preview > p > a:not(.thumb-link) {
+  grid-column: 2;
+  display: block;
+  font-family: $headings-font-family;
+  font-size: 1.22rem;
+  font-weight: 600;
+  color: $ink;
+  text-decoration: none;
+  margin-bottom: 0.3rem;
+}
+.preview > p > a:not(.thumb-link):hover { color: $accent; }
+.more-link { display: inline-block; margin-top: 1.6rem; font-weight: 500; }
+
+/* --- Publication list ---------------------------------------------------- */
+.press {
+  display: block;
+  font-size: 0.82rem;
+  color: $ink-soft;
+  margin-top: 0.15rem;
+}
+#publications ~ ol, #publications ~ h3 + ol { padding-left: 1.4rem; }
+main.content ol li, main.content ul li { margin-bottom: 0.5rem; }
+
+/* --- Table of contents (CV page) ----------------------------------------- */
+#TOC { font-size: 0.88rem; }
+.sidebar nav[role="doc-toc"] > ul > li > a { font-weight: 500; }
+
+/* --- Video ---------------------------------------------------------------- */
+.video-figure { margin: 2.4rem 0; }
+.video-figure .quarto-video,
+.video-figure iframe,
+.video-figure video {
+  width: 100%;
+  height: auto;
+  border: 0;
+  border-radius: 2px;
+  display: block;
+  background: #000;
+}
+.video-figure .video-js { border-radius: 2px; }
+
+/* Add .half to a figure to show it at about half the column width. The
+   caption narrows with it, so it reads as a small figure rather than a big
+   one with a short caption. Goes full width on a phone. */
+.video-figure.half { max-width: 50%; }
+@media (max-width: 700px) {
+  .video-figure.half { max-width: 100%; }
+}
+
+/* Two clips shown next to each other; stacks on a narrow screen. */
+.video-pair {
+  display: grid;
+  /* Columns default to equal. Set --cols on the div to widths proportional to
+     each clip's aspect ratio and the two players come out the same height. */
+  grid-template-columns: var(--cols, 1fr 1fr);
+  gap: 1.6rem;
+  align-items: start;
+  margin: 2.4rem 0;
+}
+.video-pair .video-figure { margin: 0; }
+@media (max-width: 700px) {
+  .video-pair { grid-template-columns: 1fr; gap: 0.6rem; }
+}
+.video-figure p { margin-top: 0.7rem; font-size: 0.92rem; color: $ink-soft; }
+.video-figure p strong { color: $ink; font-family: $headings-font-family; font-weight: 600; }
+
+/* --- News list on the homepage -------------------------------------------- */
+.news p {
+  border-top: 1px solid $rule;
+  padding-top: 0.9rem;
+  margin-bottom: 0.9rem;
+  color: $ink-soft;
+}
+.news p strong { color: $ink; }
+
+/* --- A visible marker for content you still need to fill in -------------- */
+.todo {
+  background: #fff6d9;
+  border-left: 3px solid #e0b840;
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+  color: #6b5518;
+  margin: 1.2rem 0;
+}

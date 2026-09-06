@@ -1,0 +1,23 @@
+```{=html}
+<div class="banner" id="tadpole-banner">
+<img src="photography/tadpoles/thumbs/Amietia_fuscigula_Eastern_Cape_South_Africa_2023.jpg" alt="" class="active" loading="eager">
+<img src="photography/tadpoles/thumbs/Ascaphus.jpg" alt="" class="" loading="lazy">
+<img src="photography/tadpoles/thumbs/Ascaphus_truei_tadpole_Oregon_26-2.jpg" alt="" class="" loading="lazy">
+<img src="photography/tadpoles/thumbs/Cardioglossa.jpg" alt="" class="" loading="lazy">
+<img src="photography/tadpoles/thumbs/Conraua_robusta_2.jpg" alt="" class="" loading="lazy">
+<img src="photography/tadpoles/thumbs/Cover_collage_AW.jpg" alt="" class="" loading="lazy">
+<img src="photography/tadpoles/thumbs/Polypedetes_sp_Sarawak_Malaysia.jpg" alt="" class="" loading="lazy">
+<img src="photography/tadpoles/thumbs/Schismaderma_carens_Limpopo_South_Africa_2023_1.jpg" alt="" class="" loading="lazy">
+</div>
+<script>
+(function () {
+  var s = document.querySelectorAll("#tadpole-banner img"), i = 0;
+  if (s.length < 2) return;
+  setInterval(function () {
+    s[i].classList.remove("active");
+    i = (i + 1) % s.length;
+    s[i].classList.add("active");
+  }, 5000);
+})();
+</script>
+```

@@ -1,0 +1,1193 @@
+```{=html}
+<nav class="section-nav"><a href="#reptiles">Reptiles</a><a href="#amphibians">Amphibians</a><a href="#birds">Birds</a><a href="#mammals">Mammals</a></nav>
+<section class="photo-section" id="reptiles">
+<h2>Reptiles <span class="n">18</span></h2>
+<div class="photo-grid">
+<figure><a href="photography/wildlife/reptiles/Acontias_meleagris.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Acontias_meleagris.jpg" srcset="photography/wildlife/reptiles/thumbs/Acontias_meleagris.jpg 1000w, photography/wildlife/reptiles/Acontias_meleagris.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Acontias meleagris"></a><figcaption><em>Acontias meleagris</em></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Agkistrodon_contortrix_PA_2023_2.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Agkistrodon_contortrix_PA_2023_2.jpg" srcset="photography/wildlife/reptiles/thumbs/Agkistrodon_contortrix_PA_2023_2.jpg 1000w, photography/wildlife/reptiles/Agkistrodon_contortrix_PA_2023_2.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Agkistrodon contortrix, PA 2023"></a><figcaption><em>Agkistrodon contortrix</em><span class="where">PA 2023</span></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Alligator_mississippiensis_1.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Alligator_mississippiensis_1.jpg" srcset="photography/wildlife/reptiles/thumbs/Alligator_mississippiensis_1.jpg 1000w, photography/wildlife/reptiles/Alligator_mississippiensis_1.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Alligator mississippiensis"></a><figcaption><em>Alligator mississippiensis</em></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Aplopeltura_boa_Sayap_Borneo_2.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Aplopeltura_boa_Sayap_Borneo_2.jpg" srcset="photography/wildlife/reptiles/thumbs/Aplopeltura_boa_Sayap_Borneo_2.jpg 1000w, photography/wildlife/reptiles/Aplopeltura_boa_Sayap_Borneo_2.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Aplopeltura boa, Sayap Borneo"></a><figcaption><em>Aplopeltura boa</em><span class="where">Sayap Borneo</span></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Apolone_ferox_1.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Apolone_ferox_1.jpg" srcset="photography/wildlife/reptiles/thumbs/Apolone_ferox_1.jpg 1000w, photography/wildlife/reptiles/Apolone_ferox_1.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Apolone ferox"></a><figcaption><em>Apolone ferox</em></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Bitis_arietans_topdown.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Bitis_arietans_topdown.jpg" srcset="photography/wildlife/reptiles/thumbs/Bitis_arietans_topdown.jpg 1000w, photography/wildlife/reptiles/Bitis_arietans_topdown.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Bitis arietans"></a><figcaption><em>Bitis arietans</em></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Bitis_caudalis_7.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Bitis_caudalis_7.jpg" srcset="photography/wildlife/reptiles/thumbs/Bitis_caudalis_7.jpg 1000w, photography/wildlife/reptiles/Bitis_caudalis_7.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Bitis caudalis"></a><figcaption><em>Bitis caudalis</em></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Bitis_peringueyi_3.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Bitis_peringueyi_3.jpg" srcset="photography/wildlife/reptiles/thumbs/Bitis_peringueyi_3.jpg 1000w, photography/wildlife/reptiles/Bitis_peringueyi_3.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Bitis peringueyi"></a><figcaption><em>Bitis peringueyi</em></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Bradypodion_transvaalensis_woodbush_green.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Bradypodion_transvaalensis_woodbush_green.jpg" srcset="photography/wildlife/reptiles/thumbs/Bradypodion_transvaalensis_woodbush_green.jpg 1000w, photography/wildlife/reptiles/Bradypodion_transvaalensis_woodbush_green.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Bradypodion transvaalensis, woodbush"></a><figcaption><em>Bradypodion transvaalensis</em><span class="where">woodbush</span></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Brooks_king_road_Everglades.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Brooks_king_road_Everglades.jpg" srcset="photography/wildlife/reptiles/thumbs/Brooks_king_road_Everglades.jpg 1000w, photography/wildlife/reptiles/Brooks_king_road_Everglades.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Lampropeltis getula brooksi, Everglades, Florida"></a><figcaption><em>Lampropeltis getula brooksi</em><span class="where">Brooks' kingsnake · Everglades, Florida</span></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Chamaeleo_dilepis_juvenile.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Chamaeleo_dilepis_juvenile.jpg" srcset="photography/wildlife/reptiles/thumbs/Chamaeleo_dilepis_juvenile.jpg 1000w, photography/wildlife/reptiles/Chamaeleo_dilepis_juvenile.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Chamaeleo dilepis"></a><figcaption><em>Chamaeleo dilepis</em></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Crotalus_horridus_PA_2023_1.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Crotalus_horridus_PA_2023_1.jpg" srcset="photography/wildlife/reptiles/thumbs/Crotalus_horridus_PA_2023_1.jpg 1000w, photography/wildlife/reptiles/Crotalus_horridus_PA_2023_1.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Crotalus horridus, PA 2023"></a><figcaption><em>Crotalus horridus</em><span class="where">PA 2023</span></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Crotalus_lepidus_klauberi_SWRS_2.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Crotalus_lepidus_klauberi_SWRS_2.jpg" srcset="photography/wildlife/reptiles/thumbs/Crotalus_lepidus_klauberi_SWRS_2.jpg 1000w, photography/wildlife/reptiles/Crotalus_lepidus_klauberi_SWRS_2.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Crotalus lepidus, klauberi SWRS"></a><figcaption><em>Crotalus lepidus</em><span class="where">klauberi SWRS</span></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Crotalus_pyrrhus_AZ_2026-10.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Crotalus_pyrrhus_AZ_2026-10.jpg" srcset="photography/wildlife/reptiles/thumbs/Crotalus_pyrrhus_AZ_2026-10.jpg 1000w, photography/wildlife/reptiles/Crotalus_pyrrhus_AZ_2026-10.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Crotalus pyrrhus, AZ 2026"></a><figcaption><em>Crotalus pyrrhus</em><span class="where">AZ 2026</span></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/IMG_2005.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/IMG_2005.jpg" srcset="photography/wildlife/reptiles/thumbs/IMG_2005.jpg 1000w, photography/wildlife/reptiles/IMG_2005.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Reptiles"></a><figcaption></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/QB7A7975.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/QB7A7975.jpg" srcset="photography/wildlife/reptiles/thumbs/QB7A7975.jpg 1000w, photography/wildlife/reptiles/QB7A7975.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Reptiles"></a><figcaption></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Stigmochelys_pardalis_adults_2.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Stigmochelys_pardalis_adults_2.jpg" srcset="photography/wildlife/reptiles/thumbs/Stigmochelys_pardalis_adults_2.jpg 1000w, photography/wildlife/reptiles/Stigmochelys_pardalis_adults_2.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Stigmochelys pardalis"></a><figcaption><em>Stigmochelys pardalis</em></figcaption></figure>
+<figure><a href="photography/wildlife/reptiles/Tropidolaemus_subannulatus_sarawak_female.jpg" class="lightbox" data-gallery="reptiles"><img src="photography/wildlife/reptiles/thumbs/Tropidolaemus_subannulatus_sarawak_female.jpg" srcset="photography/wildlife/reptiles/thumbs/Tropidolaemus_subannulatus_sarawak_female.jpg 1000w, photography/wildlife/reptiles/Tropidolaemus_subannulatus_sarawak_female.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Tropidolaemus subannulatus, sarawak"></a><figcaption><em>Tropidolaemus subannulatus</em><span class="where">sarawak</span></figcaption></figure>
+</div>
+</section>
+<section class="photo-section" id="amphibians">
+<h2>Amphibians <span class="n">29</span></h2>
+<div class="photo-grid">
+<figure><a href="photography/wildlife/amphibians/Agalychnis_callidryas_Sierpe_3_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Agalychnis_callidryas_Sierpe_3_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Agalychnis_callidryas_Sierpe_3_CR_26.jpg 1000w, photography/wildlife/amphibians/Agalychnis_callidryas_Sierpe_3_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Agalychnis callidryas, Sierpe CR"></a><figcaption><em>Agalychnis callidryas</em><span class="where">Sierpe CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Ambystoma_maculatum_NY_2025_4.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Ambystoma_maculatum_NY_2025_4.jpg" srcset="photography/wildlife/amphibians/thumbs/Ambystoma_maculatum_NY_2025_4.jpg 1000w, photography/wildlife/amphibians/Ambystoma_maculatum_NY_2025_4.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Ambystoma maculatum, NY 2025"></a><figcaption><em>Ambystoma maculatum</em><span class="where">NY 2025</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Anaxyrus_americanus_CT_2020.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Anaxyrus_americanus_CT_2020.jpg" srcset="photography/wildlife/amphibians/thumbs/Anaxyrus_americanus_CT_2020.jpg 1000w, photography/wildlife/amphibians/Anaxyrus_americanus_CT_2020.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Anaxyrus americanus, CT 2020"></a><figcaption><em>Anaxyrus americanus</em><span class="where">CT 2020</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Atelopus_varius_Orko_Bata_1_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Atelopus_varius_Orko_Bata_1_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Atelopus_varius_Orko_Bata_1_CR_26.jpg 1000w, photography/wildlife/amphibians/Atelopus_varius_Orko_Bata_1_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Atelopus varius, Orko Bata CR"></a><figcaption><em>Atelopus varius</em><span class="where">Orko Bata CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Atelopus_varius_Orko_Bata_2_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Atelopus_varius_Orko_Bata_2_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Atelopus_varius_Orko_Bata_2_CR_26.jpg 1000w, photography/wildlife/amphibians/Atelopus_varius_Orko_Bata_2_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Atelopus varius, Orko Bata CR"></a><figcaption><em>Atelopus varius</em><span class="where">Orko Bata CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Dendrobates_aureus_Orko_Bata_1_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Dendrobates_aureus_Orko_Bata_1_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Dendrobates_aureus_Orko_Bata_1_CR_26.jpg 1000w, photography/wildlife/amphibians/Dendrobates_aureus_Orko_Bata_1_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Dendrobates aureus, Orko Bata CR"></a><figcaption><em>Dendrobates aureus</em><span class="where">Orko Bata CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Dendropsophus_ebraccatus_Sierpe_1_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Dendropsophus_ebraccatus_Sierpe_1_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Dendropsophus_ebraccatus_Sierpe_1_CR_26.jpg 1000w, photography/wildlife/amphibians/Dendropsophus_ebraccatus_Sierpe_1_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Dendropsophus ebraccatus, Sierpe CR"></a><figcaption><em>Dendropsophus ebraccatus</em><span class="where">Sierpe CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Ensatina_eschscholtzii_oregonensis_CA_2024_2.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Ensatina_eschscholtzii_oregonensis_CA_2024_2.jpg" srcset="photography/wildlife/amphibians/thumbs/Ensatina_eschscholtzii_oregonensis_CA_2024_2.jpg 1000w, photography/wildlife/amphibians/Ensatina_eschscholtzii_oregonensis_CA_2024_2.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Ensatina eschscholtzii, oregonensis CA 2024"></a><figcaption><em>Ensatina eschscholtzii</em><span class="where">oregonensis CA 2024</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Espadarana_prosoblepon_Orko_Bata_2_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Espadarana_prosoblepon_Orko_Bata_2_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Espadarana_prosoblepon_Orko_Bata_2_CR_26.jpg 1000w, photography/wildlife/amphibians/Espadarana_prosoblepon_Orko_Bata_2_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Espadarana prosoblepon, Orko Bata CR"></a><figcaption><em>Espadarana prosoblepon</em><span class="where">Orko Bata CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Gyrinophilus_porphyriticus_Ithaca_2025.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Gyrinophilus_porphyriticus_Ithaca_2025.jpg" srcset="photography/wildlife/amphibians/thumbs/Gyrinophilus_porphyriticus_Ithaca_2025.jpg 1000w, photography/wildlife/amphibians/Gyrinophilus_porphyriticus_Ithaca_2025.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Gyrinophilus porphyriticus, Ithaca 2025"></a><figcaption><em>Gyrinophilus porphyriticus</em><span class="where">Ithaca 2025</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Hadromophryne_natalensis_LIMP_2023.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Hadromophryne_natalensis_LIMP_2023.jpg" srcset="photography/wildlife/amphibians/thumbs/Hadromophryne_natalensis_LIMP_2023.jpg 1000w, photography/wildlife/amphibians/Hadromophryne_natalensis_LIMP_2023.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Hadromophryne natalensis, LIMP 2023"></a><figcaption><em>Hadromophryne natalensis</em><span class="where">LIMP 2023</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Hemisus_marmoratus_LIMP_2023.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Hemisus_marmoratus_LIMP_2023.jpg" srcset="photography/wildlife/amphibians/thumbs/Hemisus_marmoratus_LIMP_2023.jpg 1000w, photography/wildlife/amphibians/Hemisus_marmoratus_LIMP_2023.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Hemisus marmoratus, LIMP 2023"></a><figcaption><em>Hemisus marmoratus</em><span class="where">LIMP 2023</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Hyperolius_pusillus_Eastern_Cape_South_Africa_2022.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Hyperolius_pusillus_Eastern_Cape_South_Africa_2022.jpg" srcset="photography/wildlife/amphibians/thumbs/Hyperolius_pusillus_Eastern_Cape_South_Africa_2022.jpg 1000w, photography/wildlife/amphibians/Hyperolius_pusillus_Eastern_Cape_South_Africa_2022.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Hyperolius pusillus, Eastern Cape South Africa 2022"></a><figcaption><em>Hyperolius pusillus</em><span class="where">Eastern Cape South Africa 2022</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Kassina_senegalensis_KwaZulu_Natal_South_Africa_2023.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Kassina_senegalensis_KwaZulu_Natal_South_Africa_2023.jpg" srcset="photography/wildlife/amphibians/thumbs/Kassina_senegalensis_KwaZulu_Natal_South_Africa_2023.jpg 1000w, photography/wildlife/amphibians/Kassina_senegalensis_KwaZulu_Natal_South_Africa_2023.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Kassina senegalensis, KwaZulu Natal South Africa 2023"></a><figcaption><em>Kassina senegalensis</em><span class="where">KwaZulu Natal South Africa 2023</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Leptopelis_natalensis_KZN_2022_2.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Leptopelis_natalensis_KZN_2022_2.jpg" srcset="photography/wildlife/amphibians/thumbs/Leptopelis_natalensis_KZN_2022_2.jpg 1000w, photography/wildlife/amphibians/Leptopelis_natalensis_KZN_2022_2.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Leptopelis natalensis, KZN 2022"></a><figcaption><em>Leptopelis natalensis</em><span class="where">KZN 2022</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_2_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_2_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_2_CR_26.jpg 1000w, photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_2_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Oophaga granulifera, Sierpe CR"></a><figcaption><em>Oophaga granulifera</em><span class="where">Sierpe CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_3_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_3_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_3_CR_26.jpg 1000w, photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_3_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Oophaga granulifera, Sierpe CR"></a><figcaption><em>Oophaga granulifera</em><span class="where">Sierpe CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_4_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_4_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_4_CR_26.jpg 1000w, photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_4_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Oophaga granulifera, Sierpe CR"></a><figcaption><em>Oophaga granulifera</em><span class="where">Sierpe CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Pelobatrachus_nasutus_Sabah_Malaysia_2024.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Pelobatrachus_nasutus_Sabah_Malaysia_2024.jpg" srcset="photography/wildlife/amphibians/thumbs/Pelobatrachus_nasutus_Sabah_Malaysia_2024.jpg 1000w, photography/wildlife/amphibians/Pelobatrachus_nasutus_Sabah_Malaysia_2024.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Pelobatrachus nasutus, Sabah Malaysia 2024"></a><figcaption><em>Pelobatrachus nasutus</em><span class="where">Sabah Malaysia 2024</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Pelophryne_minuta_Borneohighlands_2024_1.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Pelophryne_minuta_Borneohighlands_2024_1.jpg" srcset="photography/wildlife/amphibians/thumbs/Pelophryne_minuta_Borneohighlands_2024_1.jpg 1000w, photography/wildlife/amphibians/Pelophryne_minuta_Borneohighlands_2024_1.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Pelophryne minuta, Borneohighlands 2024"></a><figcaption><em>Pelophryne minuta</em><span class="where">Borneohighlands 2024</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_1_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Phyllobates_vittatus_Sierpe_1_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Phyllobates_vittatus_Sierpe_1_CR_26.jpg 1000w, photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_1_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Phyllobates vittatus, Sierpe CR"></a><figcaption><em>Phyllobates vittatus</em><span class="where">Sierpe CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_2_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Phyllobates_vittatus_Sierpe_2_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Phyllobates_vittatus_Sierpe_2_CR_26.jpg 1000w, photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_2_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Phyllobates vittatus, Sierpe CR"></a><figcaption><em>Phyllobates vittatus</em><span class="where">Sierpe CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg 1000w, photography/wildlife/amphibians/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Pristimantis cruentus, stack cloudbridge CR"></a><figcaption><em>Pristimantis cruentus</em><span class="where">stack cloudbridge CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/QB7A6177.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/QB7A6177.jpg" srcset="photography/wildlife/amphibians/thumbs/QB7A6177.jpg 1000w, photography/wildlife/amphibians/QB7A6177.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Amphibians"></a><figcaption></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Rana_klauberi_lilypad.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Rana_klauberi_lilypad.jpg" srcset="photography/wildlife/amphibians/thumbs/Rana_klauberi_lilypad.jpg 1000w, photography/wildlife/amphibians/Rana_klauberi_lilypad.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Rana klauberi"></a><figcaption><em>Rana klauberi</em></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Scinax_boulengeri_Sierpe_1_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Scinax_boulengeri_Sierpe_1_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Scinax_boulengeri_Sierpe_1_CR_26.jpg 1000w, photography/wildlife/amphibians/Scinax_boulengeri_Sierpe_1_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Scinax boulengeri, Sierpe CR"></a><figcaption><em>Scinax boulengeri</em><span class="where">Sierpe CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Staurois_latopalmatus_Sayap_Borneo_2024.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Staurois_latopalmatus_Sayap_Borneo_2024.jpg" srcset="photography/wildlife/amphibians/thumbs/Staurois_latopalmatus_Sayap_Borneo_2024.jpg 1000w, photography/wildlife/amphibians/Staurois_latopalmatus_Sayap_Borneo_2024.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Staurois latopalmatus, Sayap Borneo 2024"></a><figcaption><em>Staurois latopalmatus</em><span class="where">Sayap Borneo 2024</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Teratohyla_pulverata_Sierpe_1_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Teratohyla_pulverata_Sierpe_1_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Teratohyla_pulverata_Sierpe_1_CR_26.jpg 1000w, photography/wildlife/amphibians/Teratohyla_pulverata_Sierpe_1_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Teratohyla pulverata, Sierpe CR"></a><figcaption><em>Teratohyla pulverata</em><span class="where">Sierpe CR</span></figcaption></figure>
+<figure><a href="photography/wildlife/amphibians/Tlalcohyla_picta_Belize_2025.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Tlalcohyla_picta_Belize_2025.jpg" srcset="photography/wildlife/amphibians/thumbs/Tlalcohyla_picta_Belize_2025.jpg 1000w, photography/wildlife/amphibians/Tlalcohyla_picta_Belize_2025.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Tlalcohyla picta, Belize 2025"></a><figcaption><em>Tlalcohyla picta</em><span class="where">Belize 2025</span></figcaption></figure>
+</div>
+</section>
+<section class="photo-section" id="birds">
+<h2>Birds <span class="n">21</span></h2>
+<div class="photo-grid">
+<figure><a href="photography/wildlife/birds/Bay_breasted_warbler.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/Bay_breasted_warbler.jpg" srcset="photography/wildlife/birds/thumbs/Bay_breasted_warbler.jpg 1000w, photography/wildlife/birds/Bay_breasted_warbler.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Setophaga castanea"></a><figcaption><em>Setophaga castanea</em><span class="where">Bay-breasted warbler</span></figcaption></figure>
+<figure><a href="photography/wildlife/birds/Chestnut_mandibled_toucan_1_Cloudbridge_CR_26.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/Chestnut_mandibled_toucan_1_Cloudbridge_CR_26.jpg" srcset="photography/wildlife/birds/thumbs/Chestnut_mandibled_toucan_1_Cloudbridge_CR_26.jpg 1000w, photography/wildlife/birds/Chestnut_mandibled_toucan_1_Cloudbridge_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Ramphastos ambiguus, Cloudbridge, Costa Rica"></a><figcaption><em>Ramphastos ambiguus</em><span class="where">Chestnut-mandibled toucan · Cloudbridge, Costa Rica</span></figcaption></figure>
+<figure><a href="photography/wildlife/birds/Green_honeycreeper_2_Cloudbridge_CR_26.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/Green_honeycreeper_2_Cloudbridge_CR_26.jpg" srcset="photography/wildlife/birds/thumbs/Green_honeycreeper_2_Cloudbridge_CR_26.jpg 1000w, photography/wildlife/birds/Green_honeycreeper_2_Cloudbridge_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Chlorophanes spiza, Cloudbridge, Costa Rica"></a><figcaption><em>Chlorophanes spiza</em><span class="where">Green honeycreeper · Cloudbridge, Costa Rica</span></figcaption></figure>
+<figure><a href="photography/wildlife/birds/Lesser_violet_ear_savegre_1_CR_26.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/Lesser_violet_ear_savegre_1_CR_26.jpg" srcset="photography/wildlife/birds/thumbs/Lesser_violet_ear_savegre_1_CR_26.jpg 1000w, photography/wildlife/birds/Lesser_violet_ear_savegre_1_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Colibri cyanotus, Savegre, Costa Rica"></a><figcaption><em>Colibri cyanotus</em><span class="where">Lesser violetear · Savegre, Costa Rica</span></figcaption></figure>
+<figure><a href="photography/wildlife/birds/Lessons_motmot_1_Cloudbridge_CR_26.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/Lessons_motmot_1_Cloudbridge_CR_26.jpg" srcset="photography/wildlife/birds/thumbs/Lessons_motmot_1_Cloudbridge_CR_26.jpg 1000w, photography/wildlife/birds/Lessons_motmot_1_Cloudbridge_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Momotus lessonii, Cloudbridge, Costa Rica"></a><figcaption><em>Momotus lessonii</em><span class="where">Lesson's motmot · Cloudbridge, Costa Rica</span></figcaption></figure>
+<figure><a href="photography/wildlife/birds/Palm_tanager_1_Cloudbridge_CR_26.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/Palm_tanager_1_Cloudbridge_CR_26.jpg" srcset="photography/wildlife/birds/thumbs/Palm_tanager_1_Cloudbridge_CR_26.jpg 1000w, photography/wildlife/birds/Palm_tanager_1_Cloudbridge_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Thraupis palmarum, Cloudbridge, Costa Rica"></a><figcaption><em>Thraupis palmarum</em><span class="where">Palm tanager · Cloudbridge, Costa Rica</span></figcaption></figure>
+<figure><a href="photography/wildlife/birds/QB7A0514.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/QB7A0514.jpg" srcset="photography/wildlife/birds/thumbs/QB7A0514.jpg 1000w, photography/wildlife/birds/QB7A0514.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Birds"></a><figcaption></figcaption></figure>
+<figure><a href="photography/wildlife/birds/QB7A0801.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/QB7A0801.jpg" srcset="photography/wildlife/birds/thumbs/QB7A0801.jpg 1000w, photography/wildlife/birds/QB7A0801.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Birds"></a><figcaption></figcaption></figure>
+<figure><a href="photography/wildlife/birds/QB7A1488.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/QB7A1488.jpg" srcset="photography/wildlife/birds/thumbs/QB7A1488.jpg 1000w, photography/wildlife/birds/QB7A1488.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Birds"></a><figcaption></figcaption></figure>
+<figure><a href="photography/wildlife/birds/QB7A1821-Enhanced-NR.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/QB7A1821-Enhanced-NR.jpg" srcset="photography/wildlife/birds/thumbs/QB7A1821-Enhanced-NR.jpg 1000w, photography/wildlife/birds/QB7A1821-Enhanced-NR.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Birds"></a><figcaption></figcaption></figure>
+<figure><a href="photography/wildlife/birds/QB7A3734-Enhanced-NR.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/QB7A3734-Enhanced-NR.jpg" srcset="photography/wildlife/birds/thumbs/QB7A3734-Enhanced-NR.jpg 1000w, photography/wildlife/birds/QB7A3734-Enhanced-NR.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Birds"></a><figcaption></figcaption></figure>
+<figure><a href="photography/wildlife/birds/QB7A5105-Enhanced-NR.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/QB7A5105-Enhanced-NR.jpg" srcset="photography/wildlife/birds/thumbs/QB7A5105-Enhanced-NR.jpg 1000w, photography/wildlife/birds/QB7A5105-Enhanced-NR.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Birds"></a><figcaption></figcaption></figure>
+<figure><a href="photography/wildlife/birds/QB7A8359.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/QB7A8359.jpg" srcset="photography/wildlife/birds/thumbs/QB7A8359.jpg 1000w, photography/wildlife/birds/QB7A8359.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Birds"></a><figcaption></figcaption></figure>
+<figure><a href="photography/wildlife/birds/QB7A8432.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/QB7A8432.jpg" srcset="photography/wildlife/birds/thumbs/QB7A8432.jpg 1000w, photography/wildlife/birds/QB7A8432.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Birds"></a><figcaption></figcaption></figure>
+<figure><a href="photography/wildlife/birds/QB7A8449.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/QB7A8449.jpg" srcset="photography/wildlife/birds/thumbs/QB7A8449.jpg 1000w, photography/wildlife/birds/QB7A8449.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Birds"></a><figcaption></figcaption></figure>
+<figure><a href="photography/wildlife/birds/Resplendent_Quetzal_savegre_1_CR_26.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/Resplendent_Quetzal_savegre_1_CR_26.jpg" srcset="photography/wildlife/birds/thumbs/Resplendent_Quetzal_savegre_1_CR_26.jpg 1000w, photography/wildlife/birds/Resplendent_Quetzal_savegre_1_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Pharomachrus mocinno, Savegre, Costa Rica"></a><figcaption><em>Pharomachrus mocinno</em><span class="where">Resplendent quetzal · Savegre, Costa Rica</span></figcaption></figure>
+<figure><a href="photography/wildlife/birds/Resplendent_Quetzal_savegre_2_CR_26.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/Resplendent_Quetzal_savegre_2_CR_26.jpg" srcset="photography/wildlife/birds/thumbs/Resplendent_Quetzal_savegre_2_CR_26.jpg 1000w, photography/wildlife/birds/Resplendent_Quetzal_savegre_2_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Pharomachrus mocinno, Savegre, Costa Rica"></a><figcaption><em>Pharomachrus mocinno</em><span class="where">Resplendent quetzal · Savegre, Costa Rica</span></figcaption></figure>
+<figure><a href="photography/wildlife/birds/Snow_bellied_hummingbird_Cloudbridge_CR_26.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/Snow_bellied_hummingbird_Cloudbridge_CR_26.jpg" srcset="photography/wildlife/birds/thumbs/Snow_bellied_hummingbird_Cloudbridge_CR_26.jpg 1000w, photography/wildlife/birds/Snow_bellied_hummingbird_Cloudbridge_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Saucerottia edward, Cloudbridge, Costa Rica"></a><figcaption><em>Saucerottia edward</em><span class="where">Snowy-bellied hummingbird · Cloudbridge, Costa Rica</span></figcaption></figure>
+<figure><a href="photography/wildlife/birds/Speckled_tanager_1_Cloudbridge_CR_26.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/Speckled_tanager_1_Cloudbridge_CR_26.jpg" srcset="photography/wildlife/birds/thumbs/Speckled_tanager_1_Cloudbridge_CR_26.jpg 1000w, photography/wildlife/birds/Speckled_tanager_1_Cloudbridge_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Ixothraupis guttata, Cloudbridge, Costa Rica"></a><figcaption><em>Ixothraupis guttata</em><span class="where">Speckled tanager · Cloudbridge, Costa Rica</span></figcaption></figure>
+<figure><a href="photography/wildlife/birds/Speckled_tanager_2_Cloudbridge_CR_26.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/Speckled_tanager_2_Cloudbridge_CR_26.jpg" srcset="photography/wildlife/birds/thumbs/Speckled_tanager_2_Cloudbridge_CR_26.jpg 1000w, photography/wildlife/birds/Speckled_tanager_2_Cloudbridge_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Ixothraupis guttata, Cloudbridge, Costa Rica"></a><figcaption><em>Ixothraupis guttata</em><span class="where">Speckled tanager · Cloudbridge, Costa Rica</span></figcaption></figure>
+<figure><a href="photography/wildlife/birds/Yellow.jpg" class="lightbox" data-gallery="birds"><img src="photography/wildlife/birds/thumbs/Yellow.jpg" srcset="photography/wildlife/birds/thumbs/Yellow.jpg 1000w, photography/wildlife/birds/Yellow.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Birds"></a><figcaption></figcaption></figure>
+</div>
+</section>
+<section class="photo-section" id="mammals">
+<h2>Mammals <span class="n">21</span></h2>
+<div class="photo-grid">
+<figure><a href="photography/wildlife/mammals/African_elephant_KZN_2019_2.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/African_elephant_KZN_2019_2.jpg" srcset="photography/wildlife/mammals/thumbs/African_elephant_KZN_2019_2.jpg 1000w, photography/wildlife/mammals/African_elephant_KZN_2019_2.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Loxodonta africana, KwaZulu-Natal, South Africa 2019"></a><figcaption><em>Loxodonta africana</em><span class="where">African bush elephant · KwaZulu-Natal, South Africa 2019</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Collared_Peccary_Cloudbridge_CR_26.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Collared_Peccary_Cloudbridge_CR_26.jpg" srcset="photography/wildlife/mammals/thumbs/Collared_Peccary_Cloudbridge_CR_26.jpg 1000w, photography/wildlife/mammals/Collared_Peccary_Cloudbridge_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Dicotyles tajacu, Cloudbridge, Costa Rica"></a><figcaption><em>Dicotyles tajacu</em><span class="where">Collared peccary · Cloudbridge, Costa Rica</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Colugo_Singapore_2024.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Colugo_Singapore_2024.jpg" srcset="photography/wildlife/mammals/thumbs/Colugo_Singapore_2024.jpg 1000w, photography/wildlife/mammals/Colugo_Singapore_2024.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Galeopterus variegatus, Singapore 2024"></a><figcaption><em>Galeopterus variegatus</em><span class="where">Sunda colugo · Singapore 2024</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Elephants_Kruger_2018_1.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Elephants_Kruger_2018_1.jpg" srcset="photography/wildlife/mammals/thumbs/Elephants_Kruger_2018_1.jpg 1000w, photography/wildlife/mammals/Elephants_Kruger_2018_1.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Loxodonta africana, Kruger, South Africa 2018"></a><figcaption><em>Loxodonta africana</em><span class="where">African bush elephant · Kruger, South Africa 2018</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Gemsbok_Namibia_2019_1.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Gemsbok_Namibia_2019_1.jpg" srcset="photography/wildlife/mammals/thumbs/Gemsbok_Namibia_2019_1.jpg 1000w, photography/wildlife/mammals/Gemsbok_Namibia_2019_1.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Oryx gazella, Namibia 2019"></a><figcaption><em>Oryx gazella</em><span class="where">Gemsbok · Namibia 2019</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Giraffe_Namibia_2019_2.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Giraffe_Namibia_2019_2.jpg" srcset="photography/wildlife/mammals/thumbs/Giraffe_Namibia_2019_2.jpg 1000w, photography/wildlife/mammals/Giraffe_Namibia_2019_2.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Giraffa, Namibia 2019"></a><figcaption><em>Giraffa</em><span class="where">Giraffe · Namibia 2019</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Howler_Monkey_Belize_2019_3.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Howler_Monkey_Belize_2019_3.jpg" srcset="photography/wildlife/mammals/thumbs/Howler_Monkey_Belize_2019_3.jpg 1000w, photography/wildlife/mammals/Howler_Monkey_Belize_2019_3.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Alouatta pigra, Belize 2019"></a><figcaption><em>Alouatta pigra</em><span class="where">Yucatan black howler · Belize 2019</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Hyena_Kruger_2023_3.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Hyena_Kruger_2023_3.jpg" srcset="photography/wildlife/mammals/thumbs/Hyena_Kruger_2023_3.jpg 1000w, photography/wildlife/mammals/Hyena_Kruger_2023_3.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Crocuta crocuta, Kruger, South Africa 2023"></a><figcaption><em>Crocuta crocuta</em><span class="where">Spotted hyena · Kruger, South Africa 2023</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Kudu_Kruger_2018.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Kudu_Kruger_2018.jpg" srcset="photography/wildlife/mammals/thumbs/Kudu_Kruger_2018.jpg 1000w, photography/wildlife/mammals/Kudu_Kruger_2018.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Tragelaphus strepsiceros, Kruger, South Africa 2018"></a><figcaption><em>Tragelaphus strepsiceros</em><span class="where">Greater kudu · Kruger, South Africa 2018</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Leo_Kruger_2023_1.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Leo_Kruger_2023_1.jpg" srcset="photography/wildlife/mammals/thumbs/Leo_Kruger_2023_1.jpg 1000w, photography/wildlife/mammals/Leo_Kruger_2023_1.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Panthera leo, Kruger, South Africa 2023"></a><figcaption><em>Panthera leo</em><span class="where">Lion · Kruger, South Africa 2023</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Leo_Kruger_2023_3.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Leo_Kruger_2023_3.jpg" srcset="photography/wildlife/mammals/thumbs/Leo_Kruger_2023_3.jpg 1000w, photography/wildlife/mammals/Leo_Kruger_2023_3.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Panthera leo, Kruger, South Africa 2023"></a><figcaption><em>Panthera leo</em><span class="where">Lion · Kruger, South Africa 2023</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Leo_Kruger_2023_4.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Leo_Kruger_2023_4.jpg" srcset="photography/wildlife/mammals/thumbs/Leo_Kruger_2023_4.jpg 1000w, photography/wildlife/mammals/Leo_Kruger_2023_4.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Panthera leo, Kruger, South Africa 2023"></a><figcaption><em>Panthera leo</em><span class="where">Lion · Kruger, South Africa 2023</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Leo_Kruger_2023_6.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Leo_Kruger_2023_6.jpg" srcset="photography/wildlife/mammals/thumbs/Leo_Kruger_2023_6.jpg 1000w, photography/wildlife/mammals/Leo_Kruger_2023_6.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Panthera leo, Kruger, South Africa 2023"></a><figcaption><em>Panthera leo</em><span class="where">Lion · Kruger, South Africa 2023</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Long_tailed_macaque_Sabah_3.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Long_tailed_macaque_Sabah_3.jpg" srcset="photography/wildlife/mammals/thumbs/Long_tailed_macaque_Sabah_3.jpg 1000w, photography/wildlife/mammals/Long_tailed_macaque_Sabah_3.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Macaca fascicularis, Sabah, Malaysia"></a><figcaption><em>Macaca fascicularis</em><span class="where">Long-tailed macaque · Sabah, Malaysia</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Orangutan_Sabah_2024.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Orangutan_Sabah_2024.jpg" srcset="photography/wildlife/mammals/thumbs/Orangutan_Sabah_2024.jpg 1000w, photography/wildlife/mammals/Orangutan_Sabah_2024.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Pongo pygmaeus, Sabah, Malaysia 2024"></a><figcaption><em>Pongo pygmaeus</em><span class="where">Bornean orangutan · Sabah, Malaysia 2024</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Proboscis_monkey_Sabah_2024_2.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Proboscis_monkey_Sabah_2024_2.jpg" srcset="photography/wildlife/mammals/thumbs/Proboscis_monkey_Sabah_2024_2.jpg 1000w, photography/wildlife/mammals/Proboscis_monkey_Sabah_2024_2.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Nasalis larvatus, Sabah, Malaysia 2024"></a><figcaption><em>Nasalis larvatus</em><span class="where">Proboscis monkey · Sabah, Malaysia 2024</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Rhinos_siyafunda_2023_2.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Rhinos_siyafunda_2023_2.jpg" srcset="photography/wildlife/mammals/thumbs/Rhinos_siyafunda_2023_2.jpg 1000w, photography/wildlife/mammals/Rhinos_siyafunda_2023_2.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Rhinoceros, Siyafunda, South Africa 2023"></a><figcaption>Rhinoceros<span class="where">Siyafunda, South Africa 2023</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Skunk_CT_2020_1.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Skunk_CT_2020_1.jpg" srcset="photography/wildlife/mammals/thumbs/Skunk_CT_2020_1.jpg 1000w, photography/wildlife/mammals/Skunk_CT_2020_1.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Mephitis mephitis, Connecticut 2020"></a><figcaption><em>Mephitis mephitis</em><span class="where">Striped skunk · Connecticut 2020</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Skunk_CT_2020_2.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Skunk_CT_2020_2.jpg" srcset="photography/wildlife/mammals/thumbs/Skunk_CT_2020_2.jpg 1000w, photography/wildlife/mammals/Skunk_CT_2020_2.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Mephitis mephitis, Connecticut 2020"></a><figcaption><em>Mephitis mephitis</em><span class="where">Striped skunk · Connecticut 2020</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Skunk_CT_2020_3.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Skunk_CT_2020_3.jpg" srcset="photography/wildlife/mammals/thumbs/Skunk_CT_2020_3.jpg 1000w, photography/wildlife/mammals/Skunk_CT_2020_3.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Mephitis mephitis, Connecticut 2020"></a><figcaption><em>Mephitis mephitis</em><span class="where">Striped skunk · Connecticut 2020</span></figcaption></figure>
+<figure><a href="photography/wildlife/mammals/Tarsier_Sarawak_2024.jpg" class="lightbox" data-gallery="mammals"><img src="photography/wildlife/mammals/thumbs/Tarsier_Sarawak_2024.jpg" srcset="photography/wildlife/mammals/thumbs/Tarsier_Sarawak_2024.jpg 1000w, photography/wildlife/mammals/Tarsier_Sarawak_2024.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Cephalopachus bancanus, Sarawak, Malaysia 2024"></a><figcaption><em>Cephalopachus bancanus</em><span class="where">Western tarsier · Sarawak, Malaysia 2024</span></figcaption></figure>
+</div>
+</section>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "ImageGallery",
+ "name": "Wildlife photography",
+ "author": {
+  "@type": "Person",
+  "name": "Jackson Phillips"
+ },
+ "image": [
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Acontias_meleagris.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Acontias_meleagris.jpg",
+   "name": "Acontias meleagris",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Agkistrodon_contortrix_PA_2023_2.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Agkistrodon_contortrix_PA_2023_2.jpg",
+   "name": "Agkistrodon contortrix, PA 2023",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Alligator_mississippiensis_1.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Alligator_mississippiensis_1.jpg",
+   "name": "Alligator mississippiensis",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Aplopeltura_boa_Sayap_Borneo_2.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Aplopeltura_boa_Sayap_Borneo_2.jpg",
+   "name": "Aplopeltura boa, Sayap Borneo",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Apolone_ferox_1.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Apolone_ferox_1.jpg",
+   "name": "Apolone ferox",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Bitis_arietans_topdown.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Bitis_arietans_topdown.jpg",
+   "name": "Bitis arietans",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Bitis_caudalis_7.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Bitis_caudalis_7.jpg",
+   "name": "Bitis caudalis",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Bitis_peringueyi_3.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Bitis_peringueyi_3.jpg",
+   "name": "Bitis peringueyi",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Bradypodion_transvaalensis_woodbush_green.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Bradypodion_transvaalensis_woodbush_green.jpg",
+   "name": "Bradypodion transvaalensis, woodbush",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Brooks_king_road_Everglades.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Brooks_king_road_Everglades.jpg",
+   "name": "Lampropeltis getula brooksi, Everglades, Florida",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Chamaeleo_dilepis_juvenile.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Chamaeleo_dilepis_juvenile.jpg",
+   "name": "Chamaeleo dilepis",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Crotalus_horridus_PA_2023_1.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Crotalus_horridus_PA_2023_1.jpg",
+   "name": "Crotalus horridus, PA 2023",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Crotalus_lepidus_klauberi_SWRS_2.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Crotalus_lepidus_klauberi_SWRS_2.jpg",
+   "name": "Crotalus lepidus, klauberi SWRS",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Crotalus_pyrrhus_AZ_2026-10.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Crotalus_pyrrhus_AZ_2026-10.jpg",
+   "name": "Crotalus pyrrhus, AZ 2026",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/IMG_2005.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/IMG_2005.jpg",
+   "name": "Reptiles",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/QB7A7975.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/QB7A7975.jpg",
+   "name": "Reptiles",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Stigmochelys_pardalis_adults_2.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Stigmochelys_pardalis_adults_2.jpg",
+   "name": "Stigmochelys pardalis",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Tropidolaemus_subannulatus_sarawak_female.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Tropidolaemus_subannulatus_sarawak_female.jpg",
+   "name": "Tropidolaemus subannulatus, sarawak",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Agalychnis_callidryas_Sierpe_3_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Agalychnis_callidryas_Sierpe_3_CR_26.jpg",
+   "name": "Agalychnis callidryas, Sierpe CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Ambystoma_maculatum_NY_2025_4.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Ambystoma_maculatum_NY_2025_4.jpg",
+   "name": "Ambystoma maculatum, NY 2025",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Anaxyrus_americanus_CT_2020.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Anaxyrus_americanus_CT_2020.jpg",
+   "name": "Anaxyrus americanus, CT 2020",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Atelopus_varius_Orko_Bata_1_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Atelopus_varius_Orko_Bata_1_CR_26.jpg",
+   "name": "Atelopus varius, Orko Bata CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Atelopus_varius_Orko_Bata_2_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Atelopus_varius_Orko_Bata_2_CR_26.jpg",
+   "name": "Atelopus varius, Orko Bata CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Dendrobates_aureus_Orko_Bata_1_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Dendrobates_aureus_Orko_Bata_1_CR_26.jpg",
+   "name": "Dendrobates aureus, Orko Bata CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Dendropsophus_ebraccatus_Sierpe_1_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Dendropsophus_ebraccatus_Sierpe_1_CR_26.jpg",
+   "name": "Dendropsophus ebraccatus, Sierpe CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Ensatina_eschscholtzii_oregonensis_CA_2024_2.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Ensatina_eschscholtzii_oregonensis_CA_2024_2.jpg",
+   "name": "Ensatina eschscholtzii, oregonensis CA 2024",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Espadarana_prosoblepon_Orko_Bata_2_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Espadarana_prosoblepon_Orko_Bata_2_CR_26.jpg",
+   "name": "Espadarana prosoblepon, Orko Bata CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Gyrinophilus_porphyriticus_Ithaca_2025.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Gyrinophilus_porphyriticus_Ithaca_2025.jpg",
+   "name": "Gyrinophilus porphyriticus, Ithaca 2025",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Hadromophryne_natalensis_LIMP_2023.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Hadromophryne_natalensis_LIMP_2023.jpg",
+   "name": "Hadromophryne natalensis, LIMP 2023",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Hemisus_marmoratus_LIMP_2023.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Hemisus_marmoratus_LIMP_2023.jpg",
+   "name": "Hemisus marmoratus, LIMP 2023",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Hyperolius_pusillus_Eastern_Cape_South_Africa_2022.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Hyperolius_pusillus_Eastern_Cape_South_Africa_2022.jpg",
+   "name": "Hyperolius pusillus, Eastern Cape South Africa 2022",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Kassina_senegalensis_KwaZulu_Natal_South_Africa_2023.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Kassina_senegalensis_KwaZulu_Natal_South_Africa_2023.jpg",
+   "name": "Kassina senegalensis, KwaZulu Natal South Africa 2023",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Leptopelis_natalensis_KZN_2022_2.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Leptopelis_natalensis_KZN_2022_2.jpg",
+   "name": "Leptopelis natalensis, KZN 2022",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_2_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_2_CR_26.jpg",
+   "name": "Oophaga granulifera, Sierpe CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_3_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_3_CR_26.jpg",
+   "name": "Oophaga granulifera, Sierpe CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_4_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_4_CR_26.jpg",
+   "name": "Oophaga granulifera, Sierpe CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Pelobatrachus_nasutus_Sabah_Malaysia_2024.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Pelobatrachus_nasutus_Sabah_Malaysia_2024.jpg",
+   "name": "Pelobatrachus nasutus, Sabah Malaysia 2024",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Pelophryne_minuta_Borneohighlands_2024_1.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Pelophryne_minuta_Borneohighlands_2024_1.jpg",
+   "name": "Pelophryne minuta, Borneohighlands 2024",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_1_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Phyllobates_vittatus_Sierpe_1_CR_26.jpg",
+   "name": "Phyllobates vittatus, Sierpe CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_2_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Phyllobates_vittatus_Sierpe_2_CR_26.jpg",
+   "name": "Phyllobates vittatus, Sierpe CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg",
+   "name": "Pristimantis cruentus, stack cloudbridge CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/QB7A6177.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/QB7A6177.jpg",
+   "name": "Amphibians",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Rana_klauberi_lilypad.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Rana_klauberi_lilypad.jpg",
+   "name": "Rana klauberi",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Scinax_boulengeri_Sierpe_1_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Scinax_boulengeri_Sierpe_1_CR_26.jpg",
+   "name": "Scinax boulengeri, Sierpe CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Staurois_latopalmatus_Sayap_Borneo_2024.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Staurois_latopalmatus_Sayap_Borneo_2024.jpg",
+   "name": "Staurois latopalmatus, Sayap Borneo 2024",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Teratohyla_pulverata_Sierpe_1_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Teratohyla_pulverata_Sierpe_1_CR_26.jpg",
+   "name": "Teratohyla pulverata, Sierpe CR",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Tlalcohyla_picta_Belize_2025.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Tlalcohyla_picta_Belize_2025.jpg",
+   "name": "Tlalcohyla picta, Belize 2025",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Bay_breasted_warbler.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Bay_breasted_warbler.jpg",
+   "name": "Setophaga castanea",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Chestnut_mandibled_toucan_1_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Chestnut_mandibled_toucan_1_Cloudbridge_CR_26.jpg",
+   "name": "Ramphastos ambiguus, Cloudbridge, Costa Rica",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Green_honeycreeper_2_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Green_honeycreeper_2_Cloudbridge_CR_26.jpg",
+   "name": "Chlorophanes spiza, Cloudbridge, Costa Rica",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Lesser_violet_ear_savegre_1_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Lesser_violet_ear_savegre_1_CR_26.jpg",
+   "name": "Colibri cyanotus, Savegre, Costa Rica",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Lessons_motmot_1_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Lessons_motmot_1_Cloudbridge_CR_26.jpg",
+   "name": "Momotus lessonii, Cloudbridge, Costa Rica",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Palm_tanager_1_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Palm_tanager_1_Cloudbridge_CR_26.jpg",
+   "name": "Thraupis palmarum, Cloudbridge, Costa Rica",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A0514.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A0514.jpg",
+   "name": "Birds",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A0801.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A0801.jpg",
+   "name": "Birds",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A1488.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A1488.jpg",
+   "name": "Birds",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A1821-Enhanced-NR.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A1821-Enhanced-NR.jpg",
+   "name": "Birds",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A3734-Enhanced-NR.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A3734-Enhanced-NR.jpg",
+   "name": "Birds",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A5105-Enhanced-NR.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A5105-Enhanced-NR.jpg",
+   "name": "Birds",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A8359.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A8359.jpg",
+   "name": "Birds",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A8432.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A8432.jpg",
+   "name": "Birds",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A8449.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A8449.jpg",
+   "name": "Birds",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Resplendent_Quetzal_savegre_1_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Resplendent_Quetzal_savegre_1_CR_26.jpg",
+   "name": "Pharomachrus mocinno, Savegre, Costa Rica",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Resplendent_Quetzal_savegre_2_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Resplendent_Quetzal_savegre_2_CR_26.jpg",
+   "name": "Pharomachrus mocinno, Savegre, Costa Rica",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Snow_bellied_hummingbird_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Snow_bellied_hummingbird_Cloudbridge_CR_26.jpg",
+   "name": "Saucerottia edward, Cloudbridge, Costa Rica",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Speckled_tanager_1_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Speckled_tanager_1_Cloudbridge_CR_26.jpg",
+   "name": "Ixothraupis guttata, Cloudbridge, Costa Rica",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Speckled_tanager_2_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Speckled_tanager_2_Cloudbridge_CR_26.jpg",
+   "name": "Ixothraupis guttata, Cloudbridge, Costa Rica",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Yellow.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Yellow.jpg",
+   "name": "Birds",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/African_elephant_KZN_2019_2.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/African_elephant_KZN_2019_2.jpg",
+   "name": "Loxodonta africana, KwaZulu-Natal, South Africa 2019",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Collared_Peccary_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Collared_Peccary_Cloudbridge_CR_26.jpg",
+   "name": "Dicotyles tajacu, Cloudbridge, Costa Rica",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Colugo_Singapore_2024.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Colugo_Singapore_2024.jpg",
+   "name": "Galeopterus variegatus, Singapore 2024",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Elephants_Kruger_2018_1.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Elephants_Kruger_2018_1.jpg",
+   "name": "Loxodonta africana, Kruger, South Africa 2018",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Gemsbok_Namibia_2019_1.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Gemsbok_Namibia_2019_1.jpg",
+   "name": "Oryx gazella, Namibia 2019",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Giraffe_Namibia_2019_2.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Giraffe_Namibia_2019_2.jpg",
+   "name": "Giraffa, Namibia 2019",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Howler_Monkey_Belize_2019_3.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Howler_Monkey_Belize_2019_3.jpg",
+   "name": "Alouatta pigra, Belize 2019",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Hyena_Kruger_2023_3.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Hyena_Kruger_2023_3.jpg",
+   "name": "Crocuta crocuta, Kruger, South Africa 2023",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Kudu_Kruger_2018.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Kudu_Kruger_2018.jpg",
+   "name": "Tragelaphus strepsiceros, Kruger, South Africa 2018",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Leo_Kruger_2023_1.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Leo_Kruger_2023_1.jpg",
+   "name": "Panthera leo, Kruger, South Africa 2023",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Leo_Kruger_2023_3.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Leo_Kruger_2023_3.jpg",
+   "name": "Panthera leo, Kruger, South Africa 2023",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Leo_Kruger_2023_4.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Leo_Kruger_2023_4.jpg",
+   "name": "Panthera leo, Kruger, South Africa 2023",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Leo_Kruger_2023_6.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Leo_Kruger_2023_6.jpg",
+   "name": "Panthera leo, Kruger, South Africa 2023",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Long_tailed_macaque_Sabah_3.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Long_tailed_macaque_Sabah_3.jpg",
+   "name": "Macaca fascicularis, Sabah, Malaysia",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Orangutan_Sabah_2024.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Orangutan_Sabah_2024.jpg",
+   "name": "Pongo pygmaeus, Sabah, Malaysia 2024",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Proboscis_monkey_Sabah_2024_2.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Proboscis_monkey_Sabah_2024_2.jpg",
+   "name": "Nasalis larvatus, Sabah, Malaysia 2024",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Rhinos_siyafunda_2023_2.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Rhinos_siyafunda_2023_2.jpg",
+   "name": "Rhinoceros, Siyafunda, South Africa 2023",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Skunk_CT_2020_1.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Skunk_CT_2020_1.jpg",
+   "name": "Mephitis mephitis, Connecticut 2020",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Skunk_CT_2020_2.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Skunk_CT_2020_2.jpg",
+   "name": "Mephitis mephitis, Connecticut 2020",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Skunk_CT_2020_3.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Skunk_CT_2020_3.jpg",
+   "name": "Mephitis mephitis, Connecticut 2020",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  },
+  {
+   "@type": "ImageObject",
+   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Tarsier_Sarawak_2024.jpg",
+   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Tarsier_Sarawak_2024.jpg",
+   "name": "Cephalopachus bancanus, Sarawak, Malaysia 2024",
+   "creator": {
+    "@type": "Person",
+    "name": "Jackson Phillips"
+   },
+   "copyrightNotice": "\u00a9 Jackson Phillips",
+   "creditText": "Jackson Phillips"
+  }
+ ]
+}
+</script>
+```

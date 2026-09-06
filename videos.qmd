@@ -1,0 +1,46 @@
+---
+title: "Video"
+toc: false
+page-layout: full
+---
+
+<!-- ==========================================================================
+  This page is NOT in the site navigation yet. To turn it on, uncomment the
+  Video line in _quarto.yml.
+
+  To add a video, copy one of the blocks below and change the three lines.
+  Quarto's video shortcode handles YouTube, Vimeo, and local files.
+
+  WHERE TO PUT THE FILE
+  ---------------------
+  Under about 20 MB: drop it in assets/video/ and reference it by path.
+  Anything larger: upload it to YouTube or Vimeo as unlisted and paste the URL
+  instead. GitHub refuses single files over 100 MB, and a repo full of video
+  makes every clone and every site build slow.
+=========================================================================== -->
+
+Footage from the lab and the field. High-speed and x-ray video of tadpoles
+breathing, and whatever else is worth seeing in motion.
+
+::: {.todo}
+Placeholder page. Nothing here yet. Delete this box when you add your first
+video, and uncomment the Video entry in `_quarto.yml`.
+:::
+
+<!-- ---------- COPY FROM HERE ------------------------------------------------
+
+::: {.video-figure}
+{{< video https://www.youtube.com/embed/VIDEO_ID_HERE >}}
+
+**Xenopus laevis tadpole taking a breath**  
+High-speed video at 1000 fps. The bubble never breaks the surface film.
+:::
+
+::: {.video-figure}
+{{< video assets/video/your-file.mp4 >}}
+
+**A caption for the local file**  
+A sentence about what the viewer is looking at.
+:::
+
+---------- TO HERE ------------------------------------------------------- -->
