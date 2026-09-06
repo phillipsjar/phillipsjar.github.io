@@ -36,23 +36,22 @@ Honors, cum laude. Honors thesis: *The functional morphology of air breathing in
 
 ## Publications {#publications}
 
-An asterisk marks an undergraduate mentee. A double dagger marks equally shared
-first authorship.
+\*undergraduate mentee &nbsp;&nbsp;‡first authorship equally shared
 
 ### Peer-reviewed
 
-12. **Phillips, JR**, PH Dias, and MC Womack (2025). Lungless tadpoles breathe fresh air into hypotheses for tetrapod lung loss and trait regains. *Evolution* 79(12), 2776-2790. <span class="press">Covered by Cornell Chronicle, AOL, Wild Science, phys.org</span>
-11. Kaczmarek, EB, **JR Phillips**, and WG Ryerson (2025). Respiratory system. In: *Comparative vertebrate and human anatomy: ecology, evolution, and function.*
-10. Ngwenya, SS\*, GK Nicolau\*, MC Womack, and **JR Phillips** (2025). Range extension: *Schismaderma carens*. *African Herp News.*
-9. Dias, PH‡, **JR Phillips**‡, MO Pereyra, B Means, and PJ Kok (2024). The remarkable larval morphology of *Rhaebo nasicus* (Werner, 1903) with the erection of a new bufonid genus and insights into the evolution of suctorial tadpoles. *Zoological Letters* 10(1).
-8. **Phillips, JR**, GK Nicolau\*, SS Ngwenya\*, EJ Jackson\*, and MC Womack (2024). The effects of habitat and respiratory strategy on hypoxia performance in anuran tadpoles. *Integrative and Comparative Biology* 64(2), 336-353.
-7. Womack, MC, SM Strobel, **JR Phillips**, JS Parreiras, VT Vredenburg, and MH Wake (2024). Organisms have gravity. *Journal of Experimental Biology* 227(12).
-6. **Phillips, JR**, J Reissig, and GK Nicolau\* (2023). Notes on lung development in South African Ghost frogs (Anura: Heleophrynidae). *African Journal of Herpetology* 72(1), 81-90.
-5. Annibale, FS, RJ Wassersug, Y Zeng, AF Sabbag, CA Brasileiro, DC Rossa-Feres, F Nomura, and **JR Phillips** (2023). The case for studying tadpole autecology, with comments on strategies to study other small, fast-moving animals in nature. *Austral Ecology* 48(5), 855-876.
-4. **Phillips, JR**, AE Hewes, MC Womack, and K Schwenk (2022). The mechanics of air-breathing in tadpoles of the African clawed frog, *Xenopus laevis* (Anura: Pipidae). *Journal of Experimental Biology* 225(10).
-3. Schwenk, K‡ and **JR Phillips**‡ (2020). Circumventing surface tension: a novel form of air-breathing in anuran tadpoles. *Proceedings of the Royal Society B* 287(1921). <span class="press">Covered by UConn Today, New Scientist, FYFD, Popular Science, The Scientist</span>
-2. **Phillips, JR**, A Hewes, and K Schwenk (2020). The mechanics of air-breathing in gray tree frog tadpoles, *Hyla versicolor* Leconte, 1825 (Anura: Hylidae). *Journal of Experimental Biology* 223(5).
-1. Everitt, B and **JR Phillips** (2019). Natural History Note: Death feigning in *Nerodia erythrogaster* and *N. fasciata*. *Herpetological Review* 50(3).
+1. **Phillips, JR**, PH Dias, and MC Womack (2025). [Lungless tadpoles breathe fresh air into hypotheses for tetrapod lung loss and trait regains.](https://drive.google.com/file/d/1PZB4Vz54pCSAdVQSWUlmjAtCG5JA9dvL/view?usp=sharing) *Evolution* 79(12), 2776-2790. <span class="press">Covered by [Cornell Chronicle](https://news.cornell.edu/stories/2025/10/once-tadpoles-lose-lungs-they-never-get-them-back), [AOL](https://www.aol.com/articles/apparently-tadpoles-lose-lungs-forever-172538186.html), [Wild Science](https://scienceblog.com/wildscience/2025/10/28/tadpoles-that-ditch-their-lungs-never-get-them-back/), [phys.org](https://phys.org/news/2025-10-tadpoles-lungs.html)</span>
+2. Kaczmarek, EB, **JR Phillips**, and WG Ryerson (2025). [Respiratory system.](https://pressbooks.palni.org/comparativevertebrateandhumananatomy/chapter/respiratory-system/) In: *Comparative vertebrate and human anatomy: ecology, evolution, and function.*
+3. Ngwenya, SS\*, GK Nicolau\*, MC Womack, and **JR Phillips** (2025). [Range extension: *Schismaderma carens*.](https://www.researchgate.net/publication/391077789_Geographical_Distributions_Bufonidae_Schismaderma_carens_Smith_1848_Eastern_Red_Toad) *African Herp News.*
+4. Dias, PH‡, **JR Phillips**‡, MO Pereyra, B Means, and PJ Kok (2024). [The remarkable larval morphology of *Rhaebo nasicus* (Werner, 1903) with the erection of a new bufonid genus and insights into the evolution of suctorial tadpoles.](https://www.researchgate.net/publication/384455390_The_remarkable_larval_morphology_of_Rhaebo_nasicus_Werner_1903_Amphibia_Anura_Bufonidae_with_the_erection_of_a_new_bufonid_genus_and_insights_into_the_evolution_of_suctorial_tadpoles) *Zoological Letters* 10(1).
+5. **Phillips, JR**, GK Nicolau\*, SS Ngwenya\*, EJ Jackson\*, and MC Womack (2024). [The effects of habitat and respiratory strategy on hypoxia performance in anuran tadpoles.](https://www.researchgate.net/publication/379862165_Habitat_and_respiratory_strategy_effects_on_hypoxia_performance_in_anuran_tadpoles) *Integrative and Comparative Biology* 64(2), 336-353.
+6. Womack, MC, SM Strobel, **JR Phillips**, JS Parreiras, VT Vredenburg, and MH Wake (2024). [Organisms have gravity.](https://www.researchgate.net/publication/381511833_Organisms_have_gravity_taking_an_organism-centered_approach_in_experimental_biology) *Journal of Experimental Biology* 227(12).
+7. **Phillips, JR**, J Reissig, and GK Nicolau\* (2023). [Notes on lung development in South African Ghost frogs (Anura: Heleophrynidae).](https://www.researchgate.net/publication/370254213_Notes_on_lung_development_in_South_African_ghost_frogs_Anura_Heleophrynidae) *African Journal of Herpetology* 72(1), 81-90.
+8. Annibale, FS, RJ Wassersug, Y Zeng, AF Sabbag, CA Brasileiro, DC Rossa-Feres, F Nomura, and **JR Phillips** (2023). [The case for studying tadpole autecology, with comments on strategies to study other small, fast-moving animals in nature.](https://www.researchgate.net/publication/371389012_The_case_for_studying_tadpole_autecology_with_comments_on_strategies_to_study_other_small_fast-moving_animals_in_nature) *Austral Ecology* 48(5), 855-876.
+9. **Phillips, JR**, AE Hewes, MC Womack, and K Schwenk (2022). [The mechanics of air-breathing in tadpoles of the African clawed frog, *Xenopus laevis* (Anura: Pipidae).](https://www.researchgate.net/publication/360262426_The_mechanics_of_air-breathing_in_African_clawed_frog_tadpoles_Xenopus_laevis_Anura_Pipidae) *Journal of Experimental Biology* 225(10).
+10. Schwenk, K‡ and **JR Phillips**‡ (2020). [Circumventing surface tension: a novel form of air-breathing in anuran tadpoles.](https://www.researchgate.net/publication/339364165_Circumventing_surface_tension_tadpoles_suck_bubbles_to_breathe_air) *Proceedings of the Royal Society B* 287(1921). <span class="press">Covered by [UConn Today](https://today.uconn.edu/2020/02/tadpoles-break-tension-bubble-sucking/), [New Scientist](https://www.newscientist.com/article/2234062-watch-tadpoles-breathe-by-sucking-in-air-bubbles-at-waters-surface/), [FYFD](https://fyfluiddynamics.com/2020/02/to-beat-surface-tension-tadpoles-make-bubbles/), [Popular Science](https://www.popsci.com/story/animals/tadpole-bubble-breath-video/), [The Scientist](https://www.the-scientist.com/image-of-the-day-bubble-suckers-67194)</span>
+11. **Phillips, JR**, A Hewes, and K Schwenk (2020). [The mechanics of air-breathing in gray tree frog tadpoles, *Hyla versicolor* Leconte, 1825 (Anura: Hylidae).](https://www.researchgate.net/publication/339158222_The_mechanics_of_air-breathing_in_gray_tree_frog_tadpoles_Hyla_versicolor_Anura_Hylidae) *Journal of Experimental Biology* 223(5).
+12. Everitt, B and **JR Phillips** (2019). Natural History Note: Death feigning in *Nerodia erythrogaster* and *N. fasciata*. *Herpetological Review* 50(3).
 
 ### Book reviews
 
@@ -83,9 +82,25 @@ first authorship.
 
 ### Contributed
 
-An asterisk marks a student prize.
+\*student prize awarded
 
-2026 Evolution Meeting, Cleveland, OH · 2026 SICB, Portland, OR · 2025 Cornell EEB Research Symposium\* · 2025 JMIH, St. Paul, MN · 2024 Cornell EEB Research Symposium\* · 2023 Evolution Meeting, Albuquerque, NM · 2023 Herpetological Association of Africa, Mpumalanga, South Africa · 2022 JMIH, Spokane, WA · 2021 Evolution Meeting, online · 2020 First International Symposium for Tadpole Evolution\* · 2020 SICB, Austin, TX\* · 2019 SICB Northeast DVM, Boston College · 2019 HAA, Eastern Cape, South Africa\* · 2019 JMIH, Snowbird, UT · 2018 SICB Northeast DVM, Brown University · 2018 JMIH, Rochester, NY · 2017 SICB Northeast DVM, UMass Lowell
+2026 Evolution Meeting, Cleveland, OH  
+2026 SICB, Portland, OR  
+2025 Cornell EEB Research Symposium\*  
+2025 JMIH, St. Paul, MN  
+2024 Cornell EEB Research Symposium\*  
+2023 Evolution Meeting, Albuquerque, NM  
+2023 Herpetological Association of Africa, Mpumalanga, South Africa  
+2022 JMIH, Spokane, WA  
+2021 Evolution Meeting, online  
+2020 First International Symposium for Tadpole Evolution\*  
+2020 SICB, Austin, TX\*  
+2019 SICB Northeast DVM, Boston College  
+2019 HAA, Eastern Cape, South Africa\*  
+2019 JMIH, Snowbird, UT  
+2018 SICB Northeast DVM, Brown University  
+2018 JMIH, Rochester, NY  
+2017 SICB Northeast DVM, UMass Lowell
 
 ## Honors and awards
 
@@ -138,12 +153,12 @@ were created for several of these courses and are available on request.
 Saty Paynter-Tavares, Emma Lynn Poplyk, Chloe Adaggio, Justine Watkins
 
 **Utah State University, 2020 to 2024**  
-Sifiso Shane Ngwenya (now pursuing a master's degree in South Africa), Gary Kyle
-Nicolau (now pursuing a PhD in South Africa), Emily Anne Jackson (now working in
+Sifiso Shane Ngwenya (now pursuing a master's degree in South Africa), Gary Kyle  
+Nicolau (now pursuing a PhD in South Africa), Emily Anne Jackson (now working in  
 environmental assessment across Africa)
 
 **University of Connecticut, 2016 to 2019**  
-Amanda Hewes (now a visiting professor at Colorado College), Jaimie Simmons,
+Amanda Hewes (now a visiting professor at Colorado College), Jaimie Simmons,  
 Emilee Wooldridge, Andre Jang, Elle Parks, Gabrielle Fabian
 
 Several of these students have co-authored publications or presented posters at
@@ -184,5 +199,5 @@ Journal covers: *Oikos* (January 2025), *Integrative and Comparative Biology*
 
 ## References
 
-**Dr. Molly Womack**, PhD advisor · mcwomack@cornell.edu  
-**Dr. Kurt Schwenk**, MSc and undergraduate honors thesis advisor · kurt.schwenk@uconn.edu
+**Dr. Molly Womack**, PhD advisor · [mcwomack@cornell.edu](mailto:mcwomack@cornell.edu)  
+**Dr. Kurt Schwenk**, MSc and undergraduate honors thesis advisor · [kurt.schwenk@uconn.edu](mailto:kurt.schwenk@uconn.edu)
