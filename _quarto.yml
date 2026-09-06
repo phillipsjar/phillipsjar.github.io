@@ -6,6 +6,7 @@ project:
   output-dir: _site
   resources:
     - robots.txt
+    - CNAME
   # Only .qmd files become pages. Without this, README.md and EDITING.md would
   # be published as pages on the live site.
   render:
@@ -14,7 +15,7 @@ project:
 
 website:
   title: "Jackson Phillips"
-  site-url: "https://phillipsjar.github.io"   # replace when you buy a domain
+  site-url: "https://tadpology.com"
   description: "Evolutionary biologist studying how frogs and their tadpoles breathe, feed, and evolve."
   favicon: assets/favicon.png
   open-graph: true
