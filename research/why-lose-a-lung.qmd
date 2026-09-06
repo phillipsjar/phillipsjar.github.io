@@ -19,10 +19,14 @@ completely normal, fully lunged, air-breathing adult frogs. The loss is
 specific to the tadpole stage. Whatever machinery it takes to build a lung is
 still in there. It just doesn't get switched on until later.
 
-::: {.todo}
-FIGURE PLACEHOLDER: side-by-side dissection photos, a typical lunged tadpole
-with large, vascular lungs next to a lungless tadpole with a tiny, smooth lung
-bud (your Figure 1 material from the Evolution paper works well here).
+::: {.video-figure}
+![](../assets/images/tadpole-lung-comparison.jpg){fig-alt="Two dissection photos with zoomed insets: a large, densely branching, vascular lung outlined in yellow in a lunged tadpole (Notaden nicholsi), and a tiny thread-like lung bud outlined in yellow in a lungless tadpole (Odontobatrachus natator)"}
+
+**Same organ, two very different amounts of it**
+Top: *Notaden nicholsi*, with a large, richly vascularized lung, typical of
+an ordinary lunged tadpole. Bottom: *Odontobatrachus natator*, a lungless,
+suctorial species, whose "lung" is a non-functional thread, outlined in
+yellow both times so you know what you're looking at.
 :::
 
 ## A lung is a balloon, and balloons are bad news in a current
@@ -44,10 +48,14 @@ wonderful word for this: gastromyzophorous, from Greek roots meaning
 belly-sucker-bearing. Some gastromyzophorous tadpoles can hold on to, and even
 climb, wet vertical rock in the spray zone next to a waterfall.
 
-::: {.todo}
-FIGURE PLACEHOLDER: ventral close-up of a sucker-mouthed (gastromyzophorous)
-tadpole, ideally one of yours, showing the oral disc modified into a suction
-cup.
+::: {.video-figure}
+![](../assets/images/otophryne-sucker-mouth.jpg){fig-alt="Line drawing of a gastromyzophorous Otophryne tadpole, showing a large ventral oral disc modified into a suction cup, alongside a full-body illustration of the tadpole"}
+
+**A mouth built to not let go**
+*Otophryne*, one of the sand-dwelling, sucker-mouthed lineages. That
+ringed structure on the left is the oral disc face-on: a suction cup with
+rows of tiny keratinized teeth, standing in for the soft, ordinary tadpole
+mouth entirely.
 :::
 
 Other lungless tadpoles solve the current a different way, by not being out
@@ -71,10 +79,14 @@ climbers and the sand-and-gravel dwellers, plus a handful of fully
 terrestrial tadpoles that never experience standing water long enough to need
 buoyancy control at all.
 
-::: {.todo}
-FIGURE PLACEHOLDER: the phylogeny figure showing the 28 independent losses of
-larval lungs mapped across the frog tree, color-coded by lotic specialist,
-lentic, and terrestrial (your Figure 2/4 material from the Evolution paper).
+::: {.video-figure}
+![](../assets/images/lung-loss-phylogeny.jpg){fig-alt="Circular phylogenetic tree of frog genera, with 28 branches marked as independent losses of tadpole lungs, color-coded and labeled as 17 lotic specialists, 3 lentic, and 8 terrestrial lineages, with tadpole photos around the outside"}
+
+**All 28 losses, in one tree**
+Purple branches are lotic specialists (the sucker-mouthed climbers and
+sand-burrowers), red is lentic (still water), and brown, underlined names
+are terrestrial. Seventeen, three, and eight, respectively, and every one of
+them arrived at lunglessness on its own.
 :::
 
 The exceptions are almost more interesting than the rule. A few lungless
