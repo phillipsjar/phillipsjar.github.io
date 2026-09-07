@@ -26,7 +26,7 @@ Scientist, Educator, and Photographer
 ::: {}
 Hi and welcome, I'm Jack. If you're here, you're probably either interested in  my [research](research.qmd) or my photography. If you're looking for photos of rare tadpole specimens, look [here](tadpoles.qmd). If you're after wildlife shots, look [here](wildlife.qmd).
 
-If you don't know me, I'm an evolutionary biologist with a special interest and expertise in tadpoles (larval frogs). I study tadpoles because they hold so many  scientific secrets that have yet to be revealed.
+If you don't know me, I'm an evolutionary biologist with a special interest and expertise in tadpoles (larval frogs). I use tadpoles as models for understanding how the the way you grow up (development) influences what you can evolve into.
 
 If you're interested in my research into bubble-sucking tadpoles, lungless tadpoles, beakless tadpoles, suctorial tadpoles, or any of my other projects, please reach out.
 
