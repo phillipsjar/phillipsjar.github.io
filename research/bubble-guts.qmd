@@ -1,148 +1,143 @@
 ---
 title: "Bubble guts"
-subtitle: "A lungless tadpole that found a second way to breathe air"
-description: "Some tadpoles never grow lungs, and that loss never reverses. So what do you make of a lungless tadpole that clearly breathes air anyway? Read on to see where the air actually goes, and what it might mean for how the first vertebrates ever learned to breathe."
+subtitle: "Re-evolution of air breathing in a lungless tadpole"
+description: "Once lost, lungs have never re-evolved, so far as we know. When I saw a lungless tadpole breathing air in the wild, I couldn't believe my eyes. Then I looked inside..."
 order: 4
 image: ../assets/images/research-thumbs/bubble-guts.jpg
 ---
 
-Last time, I told you about tadpoles that never develop working lungs, and
-mentioned in passing that a couple of lungless species living in still water
-had each independently evolved their own weird workaround: a patch of
-well-vascularized skin standing in for the lung they never grew. One of
-those was the African red toad, *Schismaderma carens*, with its odd,
-vein-laced fold of skin across the top of the head.
+In [this post on lungless tadpoles](why-lose-a-lung.qmd) I told you about tadpoles that never develop working lungs, and I finished my explaining that once lost, lungs have never re-evolved. 
 
-It turns out that crest was not the interesting part.
+That is technically true, but there is one kind of weird case.
 
-## A pond full of tadpoles, breaking the surface
+## Looking for re-evolutions of lungs
 
-A few years ago, my colleague Molly Womack and I were watching a deep,
-roadside pond in Limpopo, South Africa, when we noticed something moving in
-the water. Huge, roughly spherical schools of tadpoles, each one thirty
-centimeters or so across, were periodically rising toward the surface as a
-unit, then sinking back down. With a long lens, we could see they were
-*Schismaderma carens*, easy to identify even at a distance by that
-distinctive head crest. And when a school reached the surface, tadpole after
-tadpole broke through headfirst, mouths open, in exactly the kind of breach
-I described in the very first post on this site.
+You see, after studying lungless tadpoles in the museum, there was one species that just didn't make any sense to me. Its tadpole was lungless (I checked a specimen), but it was specialized to live in low oxygen habitats. There, it supposedly used a respiratory crest on its head to get oxygen from the surface. This crest is really remarkable, even in preserved specimens.
+
+::: {.video-figure}
+![](../assets/images/schismaderma-preserved-crest.jpg){fig-alt="A preserved Schismaderma carens tadpole in lateral view against a black background, showing a broad fin-like crest rising from the top of its head"}
+
+**Even preserved, the crest is hard to miss**
+:::
+
+But lungless bufonids are very negatively buoyant: how would a tadpole like that be able to press a crest against a surface without constantly swimming?
+
+
+This species is *Schismaderma carens* the African red toad. In the austral summer of 2022-23, I spent several months in South Africa doing fieldwork. Most of that time was spent doing [this study](https://www.researchgate.net/publication/379862165_Habitat_and_respiratory_strategy_effects_on_hypoxia_performance_in_anuran_tadpoles) looking at different respiratory performance of lunged and lungless tadpoles in ponds and streams, but I also was looking for *Schismaderma* tadpoles in the field. 
+
+While in the field, I saw several amazing behaviors. When you see *Schismaderma* tadpoles in the field, they're usually in dense schools that look like dark balls in the water. During the day, these balls are out about, moving constantly through the water.
+
+When we went back to the same ponds in the early morning, however, we found that the various schools had collapsed into a much larger sheet of tadpoles that covered the surface of the small pond. Every single tadpole had its crest pressed up against the surface, just like people had hypothesized. Why? Oxygen levels crash overnight in many ponds, because photosynthesis stops. With such low oxygen levels, these lungless tadpoles did indeed seem to be using their headcrests for respiration. 
+
+INSERT SCHIS VIDEO 1
+
+And they just sat right at the surface, effortlessly! I'd never seen anything like it for a supposedly lungless tadpole. 
+
+
+## Looking for breathing
+
+As I kept traveling around South Africa for the project, I couldn't get *Schismaderma* out of my head. What were they doing? 
+
+One day, while driving on a highway up in Limpopo, the most Northern, tropical province in South Africa, I spied a large roadside pond. I got out to take a look and quickly found evidence of several tadpole species along the edge. Further out in the water, I saw what I thought were seveal large fishes, but then I realized they were actually schools of tadpoles: *Schismaderma*!
+
+I pulled out my birding lens and tried to get some pictures of the behavior, including this series:
 
 ::: {.video-figure}
 {{< video ../assets/video/schismaderma-breathing-sequence.mp4 >}}
 
-**A school of tadpoles, all coming up for air at once, then sinking back down**
+***Schismaderma* tadpoles schooling**
 Filmed with a 600mm lens at a roadside pond in Limpopo, South Africa. There
 were at least ten schools like this one visible at the same pond, each about
-the size of a beach ball, all surfacing and submerging on their own
-schedule.
+the size of a basketball.
 :::
+
+When I got the pictures back, I saw something on the back of my camera I'll never forget.
+
 
 ::: {.video-figure}
 ![](../assets/images/schismaderma-tadpole-mob.jpg){fig-alt="A dense school of tadpoles breaking the surface of a pond, each with its head crest visible above the water"}
 
-**A closer look, mid-breath**
-The same behavior, paused: heads breaking the surface, mouths open, crests
-just visible.
+**What do you see?**
 :::
 
-Taken alone, this isn't shocking. Plenty of tadpoles breathe air, and I've
-already spent two posts on this site making that case. But *Schismaderma* is
-a toad, and toad tadpoles (family Bufonidae) are one of the lineages that
-lost their lungs outright, and, as I explained last time, never got them
-back. A lungless tadpole surfacing to gulp air shouldn't be possible. So we
-did what any reasonable person would do: we caught some and cut them open.
+Need a closer look?
 
-## Breathing, without a lung to breathe into
+::: {.video-figure}
+![](../assets/images/schismaderma-mob-closeup.jpg){fig-alt="Close-up of a dense mass of tadpoles at the water's surface, each head crest breaking through as a smooth dark bump, a few eyes visible above the waterline"}
 
-Here is what a completely ordinary air breath looks like up close, filmed
-in a different tadpole species (*Spea intermontana*) for comparison. Mouth
-open, straight up through the surface, gulp, done.
+**A closer look**
+:::
+
+
+Was that air breathing?? It sure looked like it; check it out compared to a regular tadpole breathing air into lungs.
+
 
 ::: {.video-figure .half}
 {{< video ../assets/video/spea-intermontana-breath-comparison.mp4 >}}
 
-**An ordinary air breath, from a tadpole with ordinary lungs**
+***Spea intermontana* tadpole breathing air**
 *Spea intermontana*, filmed for comparison. Visually, this is exactly what
-the *Schismaderma* school above was doing. The only difference is that
-toad tadpoles are not supposed to have anything to fill.
+
 :::
 
 ::: {.video-pair style="--cols: 0.88fr 1.08fr"}
 <!-- column widths track each image's shape (788x900 and 900x832) so the two
      finish the same height; delete the style to go 50/50 -->
 ::: {.video-figure}
-![](../assets/images/schismaderma-crest-at-surface.jpg){fig-alt="A tadpole seen from below, its head held flat against the underside of the water's surface"}
+![](../assets/images/schismaderma-crest-at-surface.jpg){fig-alt="screenshot of Spea intermontana tadpole breathing air"}
 
-**Held against the surface, seen from below**
-The same posture from underneath, with the crest flat against the underside
-of the surface film.
+**Screenshot of the Spea video showing the breathing moment*
+
 :::
 
 ::: {.video-figure}
 ![](../assets/images/schismaderma-school-closeup.jpg){fig-alt="Close-up of tadpoles packed at the surface of a pond, one breaking through headfirst with its mouth at the air"}
 
-**And in the pond, at close range**
-One tadpole breaking through headfirst out of the crowd, mouth at the air.
+**Closeup of one *Schismaderma* tadpole**
 :::
 :::
 
-Ten fresh dissections confirmed what the family history predicted: no
-functional lungs. Small, undeveloped buds, exactly where you'd expect a
-proper lung to be, and nothing more.
 
-What we did not expect was what else was in there. Running the entire length
-of each tadpole's long, coiled gut, from just behind the mouth all the way
-to the vent, was a series of separate air bubbles, evenly spaced like beads
-on a string.
+That sure looked like breathing to me, but how to be sure? And where was the air going?
+
+
+We grabbed some of the tadpoles using a very long net handle (and nearly losing [Gary](https://www.nicolauecology.com/) into some pretty gross water in the process). I brought them back to our makeshift research station for the night, where I euthanized a tadpole and opened it up. 
+
+The title might have given it away, but I was absolutely blown away.
+
+Instead of lungs, the tadpoles' guts were full of... 
+
+## Bubbles!
 
 ::: {.video-figure}
-![](../assets/images/schismaderma-lung-vs-gut.jpg){fig-alt="Dissection photos: (I) a Schismaderma tadpole's small, undeveloped lung bud outlined in yellow, and (J) a distinct air bubble outlined in yellow inside the coiled gut"}
+![](../assets/images/schismaderma-gut-bubbles.jpg){fig-alt="A dissected tadpole's coiled gut pinned open, showing a row of silvery, bead-like air bubbles spaced evenly along its length"}
 
-**Exhibit A: no lung. Exhibit B: an awful lot of air, somewhere else**
-Top: the lung bud (dashed outline), present but tiny and clearly
-non-functional. Bottom: one of several distinct air bubbles (dashed outline)
-sitting inside the gut itself.
+**Beads on a string**
 :::
 
-That spacing and regularity is what convinced us this was swallowed air and
-not a byproduct of digestion (gut microbes produce gas too, but not in
-neat, evenly sized, evenly spaced bubbles). Combined with tadpoles visibly
-surfacing and gulping at the air-water interface, the conclusion was hard to
-avoid: these tadpoles were breathing air into their gut.
+Running the entire length of each tadpole's long, coiled gut was a series of air bubbles, evenly spaced like beads on a string. 
 
-Gut air breathing is not unheard of in the animal kingdom. A handful of
-fishes, and even one shark, do something similar. But it had never been
-documented in a tetrapod before, and it is a genuinely strange thing for a
-tadpole to do, because these tadpoles already have a perfectly good,
-unrelated air-breathing structure sitting right on top of their heads.
 
-## Two air-breathing systems, one animal, and neither one is a lung
+## Why breathe?
 
-This is the part I find hard to get over. *Schismaderma* tadpoles have not
-one but two independently evolved ways of dealing with air: the vascular
-head crest from the last post, and now a gut full of swallowed bubbles.
-Neither is a lung. And when those same tadpoles grow up, they'll go on to
-breathe with ordinary frog lungs their whole adult lives, just like every
-other toad. The lung program never left. It's just switched off for an
-entire life stage that has, apparently, found two better options.
-
-We only saw crest-pressing behavior under a specific set of conditions.
-During the day, when dissolved oxygen in the pond was reasonably high
-(about 50%), tadpoles formed loose, roving schools that moved through the
-water and surfaced now and then. Early in the morning, after oxygen had
-crashed overnight to around 9%, we found something different: those same
-schools had packed together into dense surface mats, every tadpole pressed
-crest-first against the underside of the air, holding that position for
-minutes at a stretch.
+So why are these tadpoles breathing air? Well, I think it's for buoyancy. I think they fill their guts with air so they can swim in the middle and top of the water column. Without lungs, they would otherwise be stuck on the bottom of the water, and breathing air into the guts lets them use their vascular crest for respiration.
 
 ::: {.video-figure}
 ![](../assets/images/schismaderma-vascular-crest.jpg){fig-alt="Close-up of several tadpole heads at the water's surface, each showing a dense network of red blood vessels across a fold of skin on top of the head"}
 
-**The crest, doing its job**
+**The respiratory crest in action**
 Each of those red, branching lines is a blood vessel, sitting directly
 against the underside of the water's surface film to pull oxygen out of the
 thin, well-oxygenated boundary layer where air meets water.
 :::
+
+Now, this is a mouthful, but that essentially means that *Schismaderma* tadpoles have evolved a new form of air breathing to facilitate gas exchange with a totally different respiratory organ. So weird, right?
+
+The reason we think this, is that *Schismaderma* tadpoles don't respond to low oxygen by breathing air, they respond by coming up to the surface and pressing their crests. This makes sense, since if they just kept breathing, the guts would be totally full of air and they'd be way too buoyant to swim properly. Instead, they breathe just enough to stay at the surface effortlessly.
+
+This matters because the surface layer of water, even really hypoxic, gross water, is always perfectly oxygenated from the air that it's touching. This boundary layer is often super thin, just a few molecules thick, but that's where the crest is touching. As they sit there, the tadpoles suck water in and out of the nostrils, moving water across the crest, just like water is pulled across a gill. 
+
+INSERT SCHIS VIDEO 2
 
 What stood out was how effortless it looked. A typical toad tadpole is
 negatively buoyant. Left alone, it sinks, and staying at the surface means
@@ -150,78 +145,10 @@ actively swimming there and holding position with its tail. These tadpoles
 just... stayed. No visible propulsion, no obvious effort, sometimes for
 minutes on end.
 
-## So maybe the gut air isn't for breathing at all
+## Breathing for buoyancy
 
-Here's the hypothesis we landed on: the gut bubbles aren't there for gas
-exchange. They're there for buoyancy, and their job is to make the crest's
-job easier.
+A little basic math backs up the buoyancy idea. Calculating off the size and weight of the tadpoles we collected, the bubbles we observed would make the tadpoles neutrally buoyant. 
 
-A little basic math backs this up. Based on the weight of preserved tadpoles
-and the size of the bubbles we could measure from photographs, it would only
-take something like four to seven swallowed bubbles to bring a tadpole to
-neutral buoyancy, effectively canceling out its own weight in water. One of
-our dissection photos above shows five distinct bubbles running down just
-one side of the gut. If a tadpole is carrying that much air, it doesn't need
-to swim to stay at the surface. It just floats there, crest pressed against
-the air, breathing passively for as long as it wants.
-
-A few other clues point the same direction. When we exposed tadpoles to
-low-oxygen water in the lab, they swam straight to the surface and stayed
-there indefinitely, but they did not gulp air the way a lunged tadpole
-does under the same stress (a classic test for whether air-breathing is
-serving a respiratory function, which I described using this exact
-experiment in the last post). A closer look at gut tissue under a scanner
-also didn't turn up the kind of extra blood vessels you'd expect if the gut
-itself were doing serious gas exchange, the way it does in a handful of
-air-breathing catfish. Buoyancy control, not lung-style respiration, best
-fits what we're seeing.
-
-Bufonid tadpoles also tend to be toxic and foul-tasting, for what it's
-worth, which might be exactly what lets *Schismaderma* get away with parking
-itself at the surface, an easy target for anything that eats tadpoles, for
-minutes at a time without becoming lunch.
-
-## What the very first air-breathers might have looked like
-
-This is the part where a weird toad tadpole in a South African roadside
-pond connects to a much bigger question: how did any vertebrate first learn
-to breathe air, over 400 million years ago?
-
-Most of what we know about the origins of vertebrate air breathing comes
-from fish that already had a pre-existing air-filled organ, usually a gas
-bladder inherited from way back, and then repurposed it for something new.
-That's a useful comparison, but it isn't quite the same experiment as the
-original one, because those fish never had to solve the harder problem:
-getting air into a body that has no air-filled space in it at all.
-
-*Schismaderma* had to solve exactly that problem, from scratch, using
-whatever was available. It didn't inherit a bladder or a spare lung. It
-just started swallowing air into an ordinary gut, the same organ system
-where the very first vertebrate lungs are thought to have originated as
-simple pouches, hundreds of millions of years ago. In that sense, *Schismaderma*
-tadpoles might be a decent working model for what those very first
-air-breathing steps looked like, long before anything we'd call a lung
-existed: a plain digestive tract, some swallowed air, and buoyancy as the
-first payoff, with any respiratory benefit arriving later, if at all.
-
-::: {.video-figure}
-![](../assets/images/air-breathing-phylogeny.jpg){fig-alt="Phylogenetic diagram showing the evolution of air breathing across vertebrates, color-coded by respiratory, buoyancy-only, and non-air-breathing lineages, with a lungless, gut-breathing Schismaderma tadpole marked partway up the tree"}
-
-**A family tree of air, and all the different places it ended up**
-Blue branches breathe air to help them breathe (in the usual sense). Yellow
-branches breathe air purely for buoyancy. *Schismaderma* (small silhouette,
-center-left) is unusual for having lost its ancestral lung, then re-evolved
-air breathing anyway, splitting the job between a crest built for gas
-exchange and a gut full of bubbles built for floating.
-:::
-
-It's a small case study, one tadpole species in one pond, but it's a rare
-opportunity to watch air breathing get reinvented from nothing, in real
-time, in a lineage we can still study today. And it leaves an obvious
-question hanging over everything I wrote in the last post: if lungs, once
-lost, never come back, why did this tadpole go to the trouble of
-re-evolving air breathing at all, just through a different door? That's a
-question about how reversible loss really is, and it deserves its own post.
 
 ---
 
