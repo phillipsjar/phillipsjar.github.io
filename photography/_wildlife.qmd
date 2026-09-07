@@ -121,8 +121,8 @@
  "image": [
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Acontias_meleagris.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Acontias_meleagris.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Acontias_meleagris.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Acontias_meleagris.jpg",
    "name": "Acontias meleagris",
    "creator": {
     "@type": "Person",
@@ -133,8 +133,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Agkistrodon_contortrix_PA_2023_2.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Agkistrodon_contortrix_PA_2023_2.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Agkistrodon_contortrix_PA_2023_2.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Agkistrodon_contortrix_PA_2023_2.jpg",
    "name": "Agkistrodon contortrix, PA 2023",
    "creator": {
     "@type": "Person",
@@ -145,8 +145,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Alligator_mississippiensis_1.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Alligator_mississippiensis_1.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Alligator_mississippiensis_1.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Alligator_mississippiensis_1.jpg",
    "name": "Alligator mississippiensis",
    "creator": {
     "@type": "Person",
@@ -157,8 +157,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Aplopeltura_boa_Sayap_Borneo_2.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Aplopeltura_boa_Sayap_Borneo_2.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Aplopeltura_boa_Sayap_Borneo_2.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Aplopeltura_boa_Sayap_Borneo_2.jpg",
    "name": "Aplopeltura boa, Sayap Borneo",
    "creator": {
     "@type": "Person",
@@ -169,8 +169,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Apolone_ferox_1.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Apolone_ferox_1.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Apolone_ferox_1.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Apolone_ferox_1.jpg",
    "name": "Apolone ferox",
    "creator": {
     "@type": "Person",
@@ -181,8 +181,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Bitis_arietans_topdown.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Bitis_arietans_topdown.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Bitis_arietans_topdown.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Bitis_arietans_topdown.jpg",
    "name": "Bitis arietans",
    "creator": {
     "@type": "Person",
@@ -193,8 +193,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Bitis_caudalis_7.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Bitis_caudalis_7.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Bitis_caudalis_7.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Bitis_caudalis_7.jpg",
    "name": "Bitis caudalis",
    "creator": {
     "@type": "Person",
@@ -205,8 +205,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Bitis_peringueyi_3.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Bitis_peringueyi_3.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Bitis_peringueyi_3.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Bitis_peringueyi_3.jpg",
    "name": "Bitis peringueyi",
    "creator": {
     "@type": "Person",
@@ -217,8 +217,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Bradypodion_transvaalensis_woodbush_green.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Bradypodion_transvaalensis_woodbush_green.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Bradypodion_transvaalensis_woodbush_green.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Bradypodion_transvaalensis_woodbush_green.jpg",
    "name": "Bradypodion transvaalensis, woodbush",
    "creator": {
     "@type": "Person",
@@ -229,8 +229,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Brooks_king_road_Everglades.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Brooks_king_road_Everglades.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Brooks_king_road_Everglades.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Brooks_king_road_Everglades.jpg",
    "name": "Lampropeltis getula brooksi, Everglades, Florida",
    "creator": {
     "@type": "Person",
@@ -241,8 +241,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Chamaeleo_dilepis_juvenile.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Chamaeleo_dilepis_juvenile.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Chamaeleo_dilepis_juvenile.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Chamaeleo_dilepis_juvenile.jpg",
    "name": "Chamaeleo dilepis",
    "creator": {
     "@type": "Person",
@@ -253,8 +253,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Crotalus_horridus_PA_2023_1.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Crotalus_horridus_PA_2023_1.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Crotalus_horridus_PA_2023_1.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Crotalus_horridus_PA_2023_1.jpg",
    "name": "Crotalus horridus, PA 2023",
    "creator": {
     "@type": "Person",
@@ -265,8 +265,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Crotalus_lepidus_klauberi_SWRS_2.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Crotalus_lepidus_klauberi_SWRS_2.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Crotalus_lepidus_klauberi_SWRS_2.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Crotalus_lepidus_klauberi_SWRS_2.jpg",
    "name": "Crotalus lepidus, klauberi SWRS",
    "creator": {
     "@type": "Person",
@@ -277,8 +277,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Crotalus_pyrrhus_AZ_2026-10.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Crotalus_pyrrhus_AZ_2026-10.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Crotalus_pyrrhus_AZ_2026-10.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Crotalus_pyrrhus_AZ_2026-10.jpg",
    "name": "Crotalus pyrrhus, AZ 2026",
    "creator": {
     "@type": "Person",
@@ -289,8 +289,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/IMG_2005.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/IMG_2005.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/IMG_2005.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/IMG_2005.jpg",
    "name": "Reptiles",
    "creator": {
     "@type": "Person",
@@ -301,8 +301,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/QB7A7975.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/QB7A7975.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/QB7A7975.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/QB7A7975.jpg",
    "name": "Reptiles",
    "creator": {
     "@type": "Person",
@@ -313,8 +313,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Stigmochelys_pardalis_adults_2.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Stigmochelys_pardalis_adults_2.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Stigmochelys_pardalis_adults_2.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Stigmochelys_pardalis_adults_2.jpg",
    "name": "Stigmochelys pardalis",
    "creator": {
     "@type": "Person",
@@ -325,8 +325,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/Tropidolaemus_subannulatus_sarawak_female.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/reptiles/thumbs/Tropidolaemus_subannulatus_sarawak_female.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/reptiles/Tropidolaemus_subannulatus_sarawak_female.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/reptiles/thumbs/Tropidolaemus_subannulatus_sarawak_female.jpg",
    "name": "Tropidolaemus subannulatus, sarawak",
    "creator": {
     "@type": "Person",
@@ -337,8 +337,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Agalychnis_callidryas_Sierpe_3_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Agalychnis_callidryas_Sierpe_3_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Agalychnis_callidryas_Sierpe_3_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Agalychnis_callidryas_Sierpe_3_CR_26.jpg",
    "name": "Agalychnis callidryas, Sierpe CR",
    "creator": {
     "@type": "Person",
@@ -349,8 +349,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Ambystoma_maculatum_NY_2025_4.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Ambystoma_maculatum_NY_2025_4.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Ambystoma_maculatum_NY_2025_4.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Ambystoma_maculatum_NY_2025_4.jpg",
    "name": "Ambystoma maculatum, NY 2025",
    "creator": {
     "@type": "Person",
@@ -361,8 +361,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Anaxyrus_americanus_CT_2020.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Anaxyrus_americanus_CT_2020.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Anaxyrus_americanus_CT_2020.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Anaxyrus_americanus_CT_2020.jpg",
    "name": "Anaxyrus americanus, CT 2020",
    "creator": {
     "@type": "Person",
@@ -373,8 +373,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Atelopus_varius_Orko_Bata_1_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Atelopus_varius_Orko_Bata_1_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Atelopus_varius_Orko_Bata_1_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Atelopus_varius_Orko_Bata_1_CR_26.jpg",
    "name": "Atelopus varius, Orko Bata CR",
    "creator": {
     "@type": "Person",
@@ -385,8 +385,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Atelopus_varius_Orko_Bata_2_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Atelopus_varius_Orko_Bata_2_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Atelopus_varius_Orko_Bata_2_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Atelopus_varius_Orko_Bata_2_CR_26.jpg",
    "name": "Atelopus varius, Orko Bata CR",
    "creator": {
     "@type": "Person",
@@ -397,8 +397,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Dendrobates_aureus_Orko_Bata_1_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Dendrobates_aureus_Orko_Bata_1_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Dendrobates_aureus_Orko_Bata_1_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Dendrobates_aureus_Orko_Bata_1_CR_26.jpg",
    "name": "Dendrobates aureus, Orko Bata CR",
    "creator": {
     "@type": "Person",
@@ -409,8 +409,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Dendropsophus_ebraccatus_Sierpe_1_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Dendropsophus_ebraccatus_Sierpe_1_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Dendropsophus_ebraccatus_Sierpe_1_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Dendropsophus_ebraccatus_Sierpe_1_CR_26.jpg",
    "name": "Dendropsophus ebraccatus, Sierpe CR",
    "creator": {
     "@type": "Person",
@@ -421,8 +421,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Ensatina_eschscholtzii_oregonensis_CA_2024_2.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Ensatina_eschscholtzii_oregonensis_CA_2024_2.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Ensatina_eschscholtzii_oregonensis_CA_2024_2.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Ensatina_eschscholtzii_oregonensis_CA_2024_2.jpg",
    "name": "Ensatina eschscholtzii, oregonensis CA 2024",
    "creator": {
     "@type": "Person",
@@ -433,8 +433,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Espadarana_prosoblepon_Orko_Bata_2_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Espadarana_prosoblepon_Orko_Bata_2_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Espadarana_prosoblepon_Orko_Bata_2_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Espadarana_prosoblepon_Orko_Bata_2_CR_26.jpg",
    "name": "Espadarana prosoblepon, Orko Bata CR",
    "creator": {
     "@type": "Person",
@@ -445,8 +445,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Gyrinophilus_porphyriticus_Ithaca_2025.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Gyrinophilus_porphyriticus_Ithaca_2025.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Gyrinophilus_porphyriticus_Ithaca_2025.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Gyrinophilus_porphyriticus_Ithaca_2025.jpg",
    "name": "Gyrinophilus porphyriticus, Ithaca 2025",
    "creator": {
     "@type": "Person",
@@ -457,8 +457,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Hadromophryne_natalensis_LIMP_2023.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Hadromophryne_natalensis_LIMP_2023.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Hadromophryne_natalensis_LIMP_2023.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Hadromophryne_natalensis_LIMP_2023.jpg",
    "name": "Hadromophryne natalensis, LIMP 2023",
    "creator": {
     "@type": "Person",
@@ -469,8 +469,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Hemisus_marmoratus_LIMP_2023.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Hemisus_marmoratus_LIMP_2023.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Hemisus_marmoratus_LIMP_2023.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Hemisus_marmoratus_LIMP_2023.jpg",
    "name": "Hemisus marmoratus, LIMP 2023",
    "creator": {
     "@type": "Person",
@@ -481,8 +481,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Hyperolius_pusillus_Eastern_Cape_South_Africa_2022.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Hyperolius_pusillus_Eastern_Cape_South_Africa_2022.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Hyperolius_pusillus_Eastern_Cape_South_Africa_2022.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Hyperolius_pusillus_Eastern_Cape_South_Africa_2022.jpg",
    "name": "Hyperolius pusillus, Eastern Cape South Africa 2022",
    "creator": {
     "@type": "Person",
@@ -493,8 +493,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Kassina_senegalensis_KwaZulu_Natal_South_Africa_2023.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Kassina_senegalensis_KwaZulu_Natal_South_Africa_2023.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Kassina_senegalensis_KwaZulu_Natal_South_Africa_2023.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Kassina_senegalensis_KwaZulu_Natal_South_Africa_2023.jpg",
    "name": "Kassina senegalensis, KwaZulu Natal South Africa 2023",
    "creator": {
     "@type": "Person",
@@ -505,8 +505,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Leptopelis_natalensis_KZN_2022_2.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Leptopelis_natalensis_KZN_2022_2.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Leptopelis_natalensis_KZN_2022_2.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Leptopelis_natalensis_KZN_2022_2.jpg",
    "name": "Leptopelis natalensis, KZN 2022",
    "creator": {
     "@type": "Person",
@@ -517,8 +517,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_2_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_2_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_2_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_2_CR_26.jpg",
    "name": "Oophaga granulifera, Sierpe CR",
    "creator": {
     "@type": "Person",
@@ -529,8 +529,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_3_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_3_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_3_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_3_CR_26.jpg",
    "name": "Oophaga granulifera, Sierpe CR",
    "creator": {
     "@type": "Person",
@@ -541,8 +541,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_4_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_4_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_4_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Oophaga_granulifera_Sierpe_4_CR_26.jpg",
    "name": "Oophaga granulifera, Sierpe CR",
    "creator": {
     "@type": "Person",
@@ -553,8 +553,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Pelobatrachus_nasutus_Sabah_Malaysia_2024.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Pelobatrachus_nasutus_Sabah_Malaysia_2024.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Pelobatrachus_nasutus_Sabah_Malaysia_2024.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Pelobatrachus_nasutus_Sabah_Malaysia_2024.jpg",
    "name": "Pelobatrachus nasutus, Sabah Malaysia 2024",
    "creator": {
     "@type": "Person",
@@ -565,8 +565,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Pelophryne_minuta_Borneohighlands_2024_1.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Pelophryne_minuta_Borneohighlands_2024_1.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Pelophryne_minuta_Borneohighlands_2024_1.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Pelophryne_minuta_Borneohighlands_2024_1.jpg",
    "name": "Pelophryne minuta, Borneohighlands 2024",
    "creator": {
     "@type": "Person",
@@ -577,8 +577,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_1_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Phyllobates_vittatus_Sierpe_1_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_1_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Phyllobates_vittatus_Sierpe_1_CR_26.jpg",
    "name": "Phyllobates vittatus, Sierpe CR",
    "creator": {
     "@type": "Person",
@@ -589,8 +589,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_2_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Phyllobates_vittatus_Sierpe_2_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_2_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Phyllobates_vittatus_Sierpe_2_CR_26.jpg",
    "name": "Phyllobates vittatus, Sierpe CR",
    "creator": {
     "@type": "Person",
@@ -601,8 +601,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg",
    "name": "Pristimantis cruentus, stack cloudbridge CR",
    "creator": {
     "@type": "Person",
@@ -613,8 +613,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/QB7A6177.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/QB7A6177.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/QB7A6177.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/QB7A6177.jpg",
    "name": "Amphibians",
    "creator": {
     "@type": "Person",
@@ -625,8 +625,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Rana_klauberi_lilypad.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Rana_klauberi_lilypad.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Rana_klauberi_lilypad.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Rana_klauberi_lilypad.jpg",
    "name": "Rana klauberi",
    "creator": {
     "@type": "Person",
@@ -637,8 +637,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Scinax_boulengeri_Sierpe_1_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Scinax_boulengeri_Sierpe_1_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Scinax_boulengeri_Sierpe_1_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Scinax_boulengeri_Sierpe_1_CR_26.jpg",
    "name": "Scinax boulengeri, Sierpe CR",
    "creator": {
     "@type": "Person",
@@ -649,8 +649,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Staurois_latopalmatus_Sayap_Borneo_2024.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Staurois_latopalmatus_Sayap_Borneo_2024.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Staurois_latopalmatus_Sayap_Borneo_2024.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Staurois_latopalmatus_Sayap_Borneo_2024.jpg",
    "name": "Staurois latopalmatus, Sayap Borneo 2024",
    "creator": {
     "@type": "Person",
@@ -661,8 +661,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Teratohyla_pulverata_Sierpe_1_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Teratohyla_pulverata_Sierpe_1_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Teratohyla_pulverata_Sierpe_1_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Teratohyla_pulverata_Sierpe_1_CR_26.jpg",
    "name": "Teratohyla pulverata, Sierpe CR",
    "creator": {
     "@type": "Person",
@@ -673,8 +673,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/Tlalcohyla_picta_Belize_2025.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/amphibians/thumbs/Tlalcohyla_picta_Belize_2025.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Tlalcohyla_picta_Belize_2025.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Tlalcohyla_picta_Belize_2025.jpg",
    "name": "Tlalcohyla picta, Belize 2025",
    "creator": {
     "@type": "Person",
@@ -685,8 +685,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Bay_breasted_warbler.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Bay_breasted_warbler.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/Bay_breasted_warbler.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/Bay_breasted_warbler.jpg",
    "name": "Setophaga castanea",
    "creator": {
     "@type": "Person",
@@ -697,8 +697,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Chestnut_mandibled_toucan_1_Cloudbridge_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Chestnut_mandibled_toucan_1_Cloudbridge_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/Chestnut_mandibled_toucan_1_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/Chestnut_mandibled_toucan_1_Cloudbridge_CR_26.jpg",
    "name": "Ramphastos ambiguus, Cloudbridge, Costa Rica",
    "creator": {
     "@type": "Person",
@@ -709,8 +709,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Green_honeycreeper_2_Cloudbridge_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Green_honeycreeper_2_Cloudbridge_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/Green_honeycreeper_2_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/Green_honeycreeper_2_Cloudbridge_CR_26.jpg",
    "name": "Chlorophanes spiza, Cloudbridge, Costa Rica",
    "creator": {
     "@type": "Person",
@@ -721,8 +721,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Lesser_violet_ear_savegre_1_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Lesser_violet_ear_savegre_1_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/Lesser_violet_ear_savegre_1_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/Lesser_violet_ear_savegre_1_CR_26.jpg",
    "name": "Colibri cyanotus, Savegre, Costa Rica",
    "creator": {
     "@type": "Person",
@@ -733,8 +733,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Lessons_motmot_1_Cloudbridge_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Lessons_motmot_1_Cloudbridge_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/Lessons_motmot_1_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/Lessons_motmot_1_Cloudbridge_CR_26.jpg",
    "name": "Momotus lessonii, Cloudbridge, Costa Rica",
    "creator": {
     "@type": "Person",
@@ -745,8 +745,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Palm_tanager_1_Cloudbridge_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Palm_tanager_1_Cloudbridge_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/Palm_tanager_1_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/Palm_tanager_1_Cloudbridge_CR_26.jpg",
    "name": "Thraupis palmarum, Cloudbridge, Costa Rica",
    "creator": {
     "@type": "Person",
@@ -757,8 +757,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A0514.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A0514.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/QB7A0514.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/QB7A0514.jpg",
    "name": "Birds",
    "creator": {
     "@type": "Person",
@@ -769,8 +769,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A0801.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A0801.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/QB7A0801.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/QB7A0801.jpg",
    "name": "Birds",
    "creator": {
     "@type": "Person",
@@ -781,8 +781,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A1488.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A1488.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/QB7A1488.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/QB7A1488.jpg",
    "name": "Birds",
    "creator": {
     "@type": "Person",
@@ -793,8 +793,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A1821-Enhanced-NR.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A1821-Enhanced-NR.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/QB7A1821-Enhanced-NR.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/QB7A1821-Enhanced-NR.jpg",
    "name": "Birds",
    "creator": {
     "@type": "Person",
@@ -805,8 +805,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A3734-Enhanced-NR.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A3734-Enhanced-NR.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/QB7A3734-Enhanced-NR.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/QB7A3734-Enhanced-NR.jpg",
    "name": "Birds",
    "creator": {
     "@type": "Person",
@@ -817,8 +817,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A5105-Enhanced-NR.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A5105-Enhanced-NR.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/QB7A5105-Enhanced-NR.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/QB7A5105-Enhanced-NR.jpg",
    "name": "Birds",
    "creator": {
     "@type": "Person",
@@ -829,8 +829,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A8359.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A8359.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/QB7A8359.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/QB7A8359.jpg",
    "name": "Birds",
    "creator": {
     "@type": "Person",
@@ -841,8 +841,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A8432.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A8432.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/QB7A8432.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/QB7A8432.jpg",
    "name": "Birds",
    "creator": {
     "@type": "Person",
@@ -853,8 +853,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/QB7A8449.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/QB7A8449.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/QB7A8449.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/QB7A8449.jpg",
    "name": "Birds",
    "creator": {
     "@type": "Person",
@@ -865,8 +865,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Resplendent_Quetzal_savegre_1_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Resplendent_Quetzal_savegre_1_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/Resplendent_Quetzal_savegre_1_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/Resplendent_Quetzal_savegre_1_CR_26.jpg",
    "name": "Pharomachrus mocinno, Savegre, Costa Rica",
    "creator": {
     "@type": "Person",
@@ -877,8 +877,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Resplendent_Quetzal_savegre_2_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Resplendent_Quetzal_savegre_2_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/Resplendent_Quetzal_savegre_2_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/Resplendent_Quetzal_savegre_2_CR_26.jpg",
    "name": "Pharomachrus mocinno, Savegre, Costa Rica",
    "creator": {
     "@type": "Person",
@@ -889,8 +889,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Snow_bellied_hummingbird_Cloudbridge_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Snow_bellied_hummingbird_Cloudbridge_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/Snow_bellied_hummingbird_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/Snow_bellied_hummingbird_Cloudbridge_CR_26.jpg",
    "name": "Saucerottia edward, Cloudbridge, Costa Rica",
    "creator": {
     "@type": "Person",
@@ -901,8 +901,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Speckled_tanager_1_Cloudbridge_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Speckled_tanager_1_Cloudbridge_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/Speckled_tanager_1_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/Speckled_tanager_1_Cloudbridge_CR_26.jpg",
    "name": "Ixothraupis guttata, Cloudbridge, Costa Rica",
    "creator": {
     "@type": "Person",
@@ -913,8 +913,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Speckled_tanager_2_Cloudbridge_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Speckled_tanager_2_Cloudbridge_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/Speckled_tanager_2_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/Speckled_tanager_2_Cloudbridge_CR_26.jpg",
    "name": "Ixothraupis guttata, Cloudbridge, Costa Rica",
    "creator": {
     "@type": "Person",
@@ -925,8 +925,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/birds/Yellow.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/birds/thumbs/Yellow.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/birds/Yellow.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/birds/thumbs/Yellow.jpg",
    "name": "Birds",
    "creator": {
     "@type": "Person",
@@ -937,8 +937,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/African_elephant_KZN_2019_2.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/African_elephant_KZN_2019_2.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/African_elephant_KZN_2019_2.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/African_elephant_KZN_2019_2.jpg",
    "name": "Loxodonta africana, KwaZulu-Natal, South Africa 2019",
    "creator": {
     "@type": "Person",
@@ -949,8 +949,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Collared_Peccary_Cloudbridge_CR_26.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Collared_Peccary_Cloudbridge_CR_26.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Collared_Peccary_Cloudbridge_CR_26.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Collared_Peccary_Cloudbridge_CR_26.jpg",
    "name": "Dicotyles tajacu, Cloudbridge, Costa Rica",
    "creator": {
     "@type": "Person",
@@ -961,8 +961,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Colugo_Singapore_2024.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Colugo_Singapore_2024.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Colugo_Singapore_2024.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Colugo_Singapore_2024.jpg",
    "name": "Galeopterus variegatus, Singapore 2024",
    "creator": {
     "@type": "Person",
@@ -973,8 +973,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Elephants_Kruger_2018_1.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Elephants_Kruger_2018_1.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Elephants_Kruger_2018_1.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Elephants_Kruger_2018_1.jpg",
    "name": "Loxodonta africana, Kruger, South Africa 2018",
    "creator": {
     "@type": "Person",
@@ -985,8 +985,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Gemsbok_Namibia_2019_1.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Gemsbok_Namibia_2019_1.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Gemsbok_Namibia_2019_1.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Gemsbok_Namibia_2019_1.jpg",
    "name": "Oryx gazella, Namibia 2019",
    "creator": {
     "@type": "Person",
@@ -997,8 +997,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Giraffe_Namibia_2019_2.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Giraffe_Namibia_2019_2.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Giraffe_Namibia_2019_2.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Giraffe_Namibia_2019_2.jpg",
    "name": "Giraffa, Namibia 2019",
    "creator": {
     "@type": "Person",
@@ -1009,8 +1009,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Howler_Monkey_Belize_2019_3.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Howler_Monkey_Belize_2019_3.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Howler_Monkey_Belize_2019_3.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Howler_Monkey_Belize_2019_3.jpg",
    "name": "Alouatta pigra, Belize 2019",
    "creator": {
     "@type": "Person",
@@ -1021,8 +1021,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Hyena_Kruger_2023_3.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Hyena_Kruger_2023_3.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Hyena_Kruger_2023_3.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Hyena_Kruger_2023_3.jpg",
    "name": "Crocuta crocuta, Kruger, South Africa 2023",
    "creator": {
     "@type": "Person",
@@ -1033,8 +1033,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Kudu_Kruger_2018.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Kudu_Kruger_2018.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Kudu_Kruger_2018.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Kudu_Kruger_2018.jpg",
    "name": "Tragelaphus strepsiceros, Kruger, South Africa 2018",
    "creator": {
     "@type": "Person",
@@ -1045,8 +1045,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Leo_Kruger_2023_1.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Leo_Kruger_2023_1.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Leo_Kruger_2023_1.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Leo_Kruger_2023_1.jpg",
    "name": "Panthera leo, Kruger, South Africa 2023",
    "creator": {
     "@type": "Person",
@@ -1057,8 +1057,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Leo_Kruger_2023_3.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Leo_Kruger_2023_3.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Leo_Kruger_2023_3.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Leo_Kruger_2023_3.jpg",
    "name": "Panthera leo, Kruger, South Africa 2023",
    "creator": {
     "@type": "Person",
@@ -1069,8 +1069,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Leo_Kruger_2023_4.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Leo_Kruger_2023_4.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Leo_Kruger_2023_4.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Leo_Kruger_2023_4.jpg",
    "name": "Panthera leo, Kruger, South Africa 2023",
    "creator": {
     "@type": "Person",
@@ -1081,8 +1081,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Leo_Kruger_2023_6.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Leo_Kruger_2023_6.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Leo_Kruger_2023_6.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Leo_Kruger_2023_6.jpg",
    "name": "Panthera leo, Kruger, South Africa 2023",
    "creator": {
     "@type": "Person",
@@ -1093,8 +1093,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Long_tailed_macaque_Sabah_3.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Long_tailed_macaque_Sabah_3.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Long_tailed_macaque_Sabah_3.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Long_tailed_macaque_Sabah_3.jpg",
    "name": "Macaca fascicularis, Sabah, Malaysia",
    "creator": {
     "@type": "Person",
@@ -1105,8 +1105,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Orangutan_Sabah_2024.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Orangutan_Sabah_2024.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Orangutan_Sabah_2024.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Orangutan_Sabah_2024.jpg",
    "name": "Pongo pygmaeus, Sabah, Malaysia 2024",
    "creator": {
     "@type": "Person",
@@ -1117,8 +1117,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Proboscis_monkey_Sabah_2024_2.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Proboscis_monkey_Sabah_2024_2.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Proboscis_monkey_Sabah_2024_2.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Proboscis_monkey_Sabah_2024_2.jpg",
    "name": "Nasalis larvatus, Sabah, Malaysia 2024",
    "creator": {
     "@type": "Person",
@@ -1129,8 +1129,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Rhinos_siyafunda_2023_2.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Rhinos_siyafunda_2023_2.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Rhinos_siyafunda_2023_2.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Rhinos_siyafunda_2023_2.jpg",
    "name": "Rhinoceros, Siyafunda, South Africa 2023",
    "creator": {
     "@type": "Person",
@@ -1141,8 +1141,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Skunk_CT_2020_1.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Skunk_CT_2020_1.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Skunk_CT_2020_1.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Skunk_CT_2020_1.jpg",
    "name": "Mephitis mephitis, Connecticut 2020",
    "creator": {
     "@type": "Person",
@@ -1153,8 +1153,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Skunk_CT_2020_2.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Skunk_CT_2020_2.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Skunk_CT_2020_2.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Skunk_CT_2020_2.jpg",
    "name": "Mephitis mephitis, Connecticut 2020",
    "creator": {
     "@type": "Person",
@@ -1165,8 +1165,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Skunk_CT_2020_3.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Skunk_CT_2020_3.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Skunk_CT_2020_3.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Skunk_CT_2020_3.jpg",
    "name": "Mephitis mephitis, Connecticut 2020",
    "creator": {
     "@type": "Person",
@@ -1177,8 +1177,8 @@
   },
   {
    "@type": "ImageObject",
-   "contentUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/Tarsier_Sarawak_2024.jpg",
-   "thumbnailUrl": "https://phillipsjar.github.io/photography/wildlife/mammals/thumbs/Tarsier_Sarawak_2024.jpg",
+   "contentUrl": "https://tadpology.com/photography/wildlife/mammals/Tarsier_Sarawak_2024.jpg",
+   "thumbnailUrl": "https://tadpology.com/photography/wildlife/mammals/thumbs/Tarsier_Sarawak_2024.jpg",
    "name": "Cephalopachus bancanus, Sarawak, Malaysia 2024",
    "creator": {
     "@type": "Person",
