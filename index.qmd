@@ -2,6 +2,8 @@
 title: ""
 page-layout: full
 toc: false
+include-in-header:
+  - assets/person-schema.html
 ---
 
 <!-- ===================== THE HOMEPAGE BANNER =====================

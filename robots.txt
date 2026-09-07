@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://phillipsjar.github.io/sitemap.xml
+Sitemap: https://tadpology.com/sitemap.xml
