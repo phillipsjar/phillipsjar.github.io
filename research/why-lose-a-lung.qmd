@@ -1,23 +1,22 @@
 ---
 title: "Why lose a lung?"
 subtitle: "Lungless tadpoles and life in fast water"
-description: "Most tadpoles have lungs. Some definitely do not, and they never will, even though the frogs they turn into breathe just fine. Read on to learn why, what a \"gastromyzophorous\" tadpole is, and why losing the habit of breathing might matter more than losing the lung itself."
+description: "While most tadpoles have lungs, some definitely don't. Read on to learn about the crazy habitats where a tadpole might not want to breathe air."
 order: 2
 image: ../assets/images/research-thumbs/why-lose-a-lung.jpg
 ---
 
-In the last post I told you that most tadpoles breathe air with lungs, starting
-almost as soon as they hatch. That's true, and it's the rule. But like most
-rules in biology, it has exceptions, and the exceptions are the interesting
-part.
+Read [here](do-tadpoles-have-lungs.qmd) to learn about tadpole air breathing, where I talk about the fact that, contrary to public opinion, tadpoles do have lungs. 
 
-Some tadpoles never develop working lungs at all. Not "not yet," not "small
-and forming," but functionally absent: tiny, non-vascularized nubs that never
-inflate, sitting where a real lung would be. And here's the part that makes it
-strange rather than just a fun fact: those same tadpoles grow up into
-completely normal, fully lunged, air-breathing adult frogs. The loss is
-specific to the tadpole stage. Whatever machinery it takes to build a lung is
-still in there. It just doesn't get switched on until later.
+::: {.video-figure}
+{{< video ../assets/video/spea-intermontana-breath-comparison.mp4 >}}
+
+***Spea intermontana* tadpole breathing air in slow motion.**
+:::
+
+It's true that most tadpoles breathe air, but like most things in biology, there are always exceptions.
+
+Indeed, some tadpoles never make working lungs. They often develop tiny, non-vascular and uninflated lung "buds", and rely on their gills and skin to get the oxygen they need. But now I'm getting ahead of myself.
 
 ::: {.video-figure}
 ![](../assets/images/tadpole-lung-comparison.jpg){fig-alt="Two dissection photos with zoomed insets: a large, densely branching, vascular lung outlined in yellow in a lunged tadpole (Notaden nicholsi), and a tiny thread-like lung bud outlined in yellow in a lungless tadpole (Odontobatrachus natator)"}
@@ -29,185 +28,151 @@ suctorial species, whose "lung" is a non-functional thread, outlined in
 yellow both times so you know what you're looking at.
 :::
 
-## A lung is a balloon, and balloons are bad news in a current
 
-So who are these tadpoles, and why would they do this?
 
-Almost all of them live in fast water: mountain streams, rapids, torrents,
-the kind of current that will sweep away anything that lets go for a moment.
-And a lung, mechanically speaking, is a bag of air. Bags of air float. An
-animal trying to stay pinned to a rock in a torrent does not want to be
-buoyant, and it definitely does not want to leave that rock every few minutes
-to go refill the bag at the surface.
+## Why should you care about lungless tadpoles?
 
-Tadpoles that live this way tend to look the part. Most have flattened
-bodies, and many have evolved a sucker-like mouth, essentially a suction cup
-where a normal tadpole would have a soft, fleshy disc, that lets them cling to
-rock faces in current strong enough to knock a person over. There's a
-wonderful word for this: gastromyzophorous, from Greek roots meaning
-belly-sucker-bearing. Some gastromyzophorous tadpoles can hold on to, and even
-climb, wet vertical rock in the spray zone next to a waterfall.
+I study lungless tadpoles for two main reasons. Lungless tadpoles provide evolutionary experiments in the evolution of trait loss, a major evolutionary mystery, and because lungless tadpoles are often, but not always, species of special conservation concern. I want to understand why animals lose things like lungs over evolutionary time and when they do, how do they need to be protected? 
+
+
+## Crash course in evolutionary trait loss
+
+If you don't know what trait loss is, it is when an animal (or any kind of organism) evolves to lose a structure its ancestor had. Famous examples include eyeless animals in caves, the tail-less great apes, and parasitic plants that no longer have green, photosynthetic leaves. 
+
+Why lose? This is still an open area of research, but it seems like one key ingredient in trait loss is *relaxed selection*. When selection is relaxed, it means that the ancestral function a trait or organ served (eyes: seeing) is not as useful as it used to be (like in dark caves!). In the old habitat, natural selection (differential survival and breeding of animals with trait variation) would have maintained a trait, because organims born without it (or with a reduced version) would be less successful. 
+Once selection is relaxed however, that selection is less strong, and more variation can creep into the population and eventually evolve an eyeless fish or tail-less monkey. 
+
+## Back to lungs
+
+If you know much about amphibian biology, what do you think of when I say lungless? Lungs aren't really a thing that most animals are willing to give up, but there is one group that has done so, pretty famously. That is the plethodontid salamanders, a group aptly called the "lungless salamanders".
 
 ::: {.video-figure}
-![](../assets/images/otophryne-sucker-mouth.jpg){fig-alt="Line drawing of a gastromyzophorous Otophryne tadpole, showing a large ventral oral disc modified into a suction cup, alongside a full-body illustration of the tadpole"}
+![](../assets/images/ensatina-lungless-salamander.jpg){fig-alt="An Ensatina salamander, orange-bodied with a dark head and tail, standing on mossy redwood bark"}
 
-**A mouth built to not let go**
-*Otophryne*, one of the sand-dwelling, sucker-mouthed lineages. That
-ringed structure on the left is the oral disc face-on: a suction cup with
-rows of tiny keratinized teeth, standing in for the soft, ordinary tadpole
-mouth entirely.
+**A lungless salamander: *Ensatina eschscholtzii*, coastal California.**
 :::
 
-Other lungless tadpoles solve the current a different way, by not being out
-in it at all: they wedge themselves into sand, gravel, or leaf litter at the
-stream bottom instead of clinging to the surface of a rock. Either way, the
-habitat is the same, and a lung is the same kind of liability.
+The origins of this group is an old mystery: why lose your lungs? As you might know, lungs are pretty handy. There are two main hypotheses proposed for where and why lungless salamanders got their start. 
 
-## So how often does this actually happen?
+::: {.todo}
+PHOTO NEEDED: a small, half-width shot of a clear, cold, fast stream. I
+couldn't find one anywhere in the photo library. Drop one in
+`assets/images/` and tell me the filename, or add it to
+`photos-source/Wildlife/` and I'll wire it up.
+:::
 
-To find out whether that story actually holds up, my coauthors and I put
-together the largest dataset of its kind: larval lung presence or absence
-across 529 frog species in 44 families, mapped onto a modern, time-calibrated
-family tree of frogs.
+The first is that plethodontid ancestors evolved in a region like the modern day Smoky Mountains, a region covered in clear, cold, and well-oxygenated streams. Tadpoles living in those streams probably didn't need lungs for oxygen, so any downsides of lungs could lead to their loss. 
 
-We found at least 28 independent origins of tadpole lunglessness scattered
-across the anuran tree. That's not one weird lineage doing something strange.
-That's dozens of unrelated groups arriving at the same solution on their own.
-And the pattern was exactly what the mechanical story predicts: lung loss is
-overwhelmingly concentrated in stream specialists, both the sucker-mouthed
-climbers and the sand-and-gravel dwellers, plus a handful of fully
-terrestrial tadpoles that never experience standing water long enough to need
-buoyancy control at all.
+The alternative view was that plethodontid salamanders were actually becoming more terrestrial when they lost their lungs. This might seem counter-intuitive, but lungs can often be more important in water than on land, depending who you are. The atmosphere of Earth has a *ton* of oxygen, produced by all the green things in your yard. Way more oxygen, in fact, than any body of water on the planet, since oxygen is not very soluble in water. Check out [this chapter on vertebrate respiration](https://pressbooks.palni.org/comparativevertebrateandhumananatomy/chapter/respiratory-system/) I co-wrote for more info on concentration gradients and why lungs are really useful in the water. But, long story short, if you are small enough, have a big enough surface area, and your skin can take up oxygen well, then lungs might not be that important out of the water. 
+
+These hypotheses have been really hard to test in salamanders because there aren't very many lungless groups. Plethodontids are big, but they all represent a single loss "event". And even so, plethdontids are split, with many stream lineages and many terrestrial lineages. 
+
+## Lungless tadpoles present another evolutionary system to understand why lungs are lost.
+
+In a study I published in the journal [Evolution](https://drive.google.com/file/d/1PZB4Vz54pCSAdVQSWUlmjAtCG5JA9dvL/view), I found that lungs have been lost nearly 28 times in tadpoles: way more than in salamanders! I found that about 20% of tadpoles are lungless, and these tads be split into three major types: typical tadpoles you'd never suspect were lungless, stream-specialized tadpoles living in fast-flowing torrents, and tadpoles that spend a lot of time on land (terrestrial/semi-terrestrial).
 
 ::: {.video-figure}
 ![](../assets/images/lung-loss-phylogeny.jpg){fig-alt="Circular phylogenetic tree of frog genera, with 28 branches marked as independent losses of tadpole lungs, color-coded and labeled as 17 lotic specialists, 3 lentic, and 8 terrestrial lineages, with tadpole photos around the outside"}
 
-**All 28 losses, in one tree**
+**All 28 independent losses**
 Purple branches are lotic specialists (the sucker-mouthed climbers and
 sand-burrowers), red is lentic (still water), and brown, underlined names
-are terrestrial. Seventeen, three, and eight, respectively, and every one of
-them arrived at lunglessness on its own.
+are terrestrial. 
 :::
 
-The exceptions are almost more interesting than the rule. A few lungless
-lineages live in still water, where none of the current-and-buoyancy logic
-applies, and those species have each independently evolved their own strange
-workaround for getting oxygen without lungs. The African forest toad
-*Mertensophryne* has a bizarre, doughnut-shaped crest on its head. The red toad
-*Schismaderma* has evolved a fold of skin across the top of its head, dense
-with blood vessels, that appears to work like an external gill for pulling
-oxygen straight from the air. Neither one needed to reinvent the lung. They
-just needed a patch of well-vascularized skin in the right place.
+
+## Tadpoles lose lungs in streams
+
+17 of those losses pretty clearly happened in fast-flowing streams, as predicted in plethodontid salamanders! This makes a lot of sense: cold, fast-flowing streams are the best-oxygenated waterbodies in the world. Tadpoles can probably get all the oxygen they need, year-round, so long as the streams keep flowing. 
+
+This should *relax selection* on lungs.
+
+Once selection is relaxed, costs can lead to loss. 
+
+What kinds of costs could this be? Imagine you're in a nice deep pond and want to float at the surface without spending energy: what do you do? You might get a floating device of some kind, which are often just plastic bags full of air. Think about the bright yellow ducks that parents put on little kids at the pool. Lungs do the same thing: air is very light, so a full lung increases *buoyancy*. 
+
+In a pond, that might be great, but being positively buoyant in a fast-flowing stream makes it really hard to hold on, especially under the water. 
+
+And where do all streams lead, eventually? *the ocean* and tadpoles do not do very well in the ocean (or big lakes for that matter).
+
+For suctorial tadpoles, this explanation makes some sense. 
+
+What is a suctorial tadpole? It is a kind of tadpole that has specifically evolved to live in the fastest parts of the fastest streams.
 
 ::: {.video-figure}
-![](../assets/images/schismaderma-vascular-crest.jpg){fig-alt="Close-up of several Schismaderma tadpole heads at the water's surface, each showing a dense network of red blood vessels across a fold of skin on top of the head"}
+![](../assets/images/meristogenys-suctorial-tadpole.jpg){fig-alt="Ventral view of a live Meristogenys tadpole against a black background, showing the large oral disc with dark tooth rows and a broad, flattened underside"}
 
-**_Schismaderma carens_, crest pressed against the air**
-That red, branching pattern is a dense network of blood vessels, sitting
-right against the underside of the surface film. More on exactly what this
-tadpole is up to in a later post.
+**A suctorial tadpole, *Meristogenys*, seen from below.**
+Just about the whole underside is given over to the business of holding on.
 :::
 
-## Two ghost frogs, same river, very different lungs
+These tadpoles have suction cups they use to hold onto rocks in fast flow, where they are protected from predators, can feed on algae other tadpoles can't reach, and get all the oxygen they could want. 
 
-Here's a case that makes the whole picture messier, in the best way.
-
-South Africa's ghost frogs (family Heleophrynidae) are about as
-torrent-adapted as tadpoles get: flattened bodies, big sucker mouths, life
-spent gripping rock in cold, fast mountain streams. The family has two
-genera, *Heleophryne* and *Hadromophryne*, and they diverged from each other
-around 64 million years ago. By the logic above, you'd expect both to have
-ditched their lungs long ago.
-
-Only one of them did. When we dissected tadpoles of both genera, *Heleophryne*
-turned out to be essentially lungless, just like the pattern predicts. But
-*Hadromophryne natalensis*, living in the same kind of stream, doing the same
-sucker-mouthed rock-clinging, has small, thin-walled lungs that are clearly
-inflated and functional.
+Some use their mouths to hold onto stuff
 
 ::: {.todo}
-FIGURE PLACEHOLDER: side-by-side dissection comparison of a lungless
-*Heleophryne* tadpole and a lunged *Hadromophryne* tadpole (your Figure 2/3
-material from the ghost frog note).
+FIGURE PLACEHOLDER: your composite of mouth-holding suctorial tadpoles. Send
+it over whenever it's ready and I'll drop it in here.
 :::
 
-Why would one torrent specialist keep its lungs while its closest relative
-lost them entirely? We don't know for certain, but there's a suggestive clue:
-*Hadromophryne* tadpoles are known to climb right out of the water onto wet,
-vertical rock faces, something *Heleophryne* tadpoles have never been observed
-doing. Out of the water, gills stop working, but a lung would still function
-just fine. It's possible that willingness to leave the stream, even briefly,
-is exactly what has kept the lungs of *Hadromophryne* in business.
+And others use a suction cup on their belly to hold on, leaving their mouths free to do whatever they'd like. These tadpoles are called "gastromyzophorous": just an excellent word.
 
-## Maybe it's not really about the air
+::: {.video-figure}
+![](../assets/images/huia-gastromyzophorous-sucker.jpg){fig-alt="Lateral view of a Huia cavitympanum tadpole against a black background, showing a large pale oval abdominal sucker on its belly behind the head"}
 
-The standard explanation for lung loss has always been about gas exchange:
-streams are cold and full of dissolved oxygen, so a tadpole living there
-doesn't need lungs to survive, and eventually stops making them. That's a
-perfectly reasonable story, but it doesn't quite explain why lung loss is so
-narrowly concentrated in the suckered and burrowing specialists, rather than
-showing up broadly across every tadpole that lives in a well-oxygenated
-stream. Plenty of ordinary, lunged tadpoles share those same streams without
-any apparent problem.
+**A gastromyzophorous tadpole, *Huia cavitympanum*.**
+That pale oval tucked under the body, just behind the head, is the belly
+sucker seen from the side.
+:::
 
-We think there's a piece missing, and it isn't about oxygen levels at all.
-It's about how dangerous or costly it is to actually go breathe.
+These tadpoles are frequently lungless, perhaps because holding on in the current is difficult enough without an internal air bag that you need to let go our favorite rock to come up and fill with air.
 
-For a sucker-mouthed tadpole gripping a rock in strong current, letting go to
-swim up for a breath means risking getting swept downstream, and the return
-trip against the current is not guaranteed. For a tadpole buried in sand or
-gravel, coming up to the surface means becoming visible to everything that
-would like to eat it. In both cases, the behavior of air-breathing itself,
-not the need for oxygen, is what got expensive.
 
-That distinction matters because a lung isn't a passive structure that just
-sits there ready to go. It needs to actually be used, inflated with real
-breaths, to develop properly. Experiments have shown that if you prevent a
-tadpole from air-breathing, even one that would normally be a strong,
-frequent breather, its lungs fail to develop normally. So if a lineage stops
-finding it worthwhile to come up for air, whether because it's dangerous,
-exhausting, or simply unnecessary, the lungs don't need to be actively
-selected against to disappear. They just stop being built.
 
-## Does losing a lung ever cost you anything?
+## Tadpoles lose lungs on land
 
-All of this raises an obvious question: if lungless tadpoles are doing fine
-without lungs, does it ever come back to bite them?
+The other type of lungless tadpole with plenty of exampels across the frog tree are terrestrial tadpoles, which live either along streams, where waterfalls mist the rocks, or in nests built by adult frogs. In both cases, the tadpoles' skin can stay moist enough to get oxygen directly from the atmosphere, relaxing selection on lungs.
 
-To test this, we caught wild tadpoles representing 15 genera and 10 families,
-some lunged and some naturally lungless, some from ponds and some from
-streams, and dropped them into a low-oxygen environment to see how well they
-coped.
+Unlike the suctorial tadpoles, these terrestrial tadpoles don't have another reason to lose lungs, so why do it? The truth is, we don't really know! Roughly half the terrestrial tadpoles we sampled had and didn't have lungs, with no obvious differences between the two. 
 
-Pond-living lungless tadpoles, like the toads with their weird head
-ornaments, handled low oxygen just fine. That tracks: they evolved their
-lunglessness alongside a backup plan for exactly this scenario. Stream-living
-tadpoles were a different story entirely. Both lunged and lungless
-stream-dwellers were more strongly affected by low oxygen than their pond
-relatives, and the lungless stream tadpoles fared the worst of every group we
-tested.
+
+## And then, the others
+
+Now that we've gone from tadpoles have lungs, but some tadpoles don't have lungs, to certain kinds of tadpoles don't have lungs, it is time for the final wrinkle. As I said before, exceptions to rules are where really interesting biology lives. 
+
+
+There are several lungless lineages with totally normal tadpoles. They are usually pretty non-buoyant and live on the bottom of ponds, but are otherwise usually pretty ordinary. 
+
+The most famous such group are the bufonids, members of the frog family Bufonidae. These are also called the "true toads". Toad tadpoles don't have lungs, and we have no idea why! Just like plethodontid salamanders, this group is full of different kinds of tadpoles, but all of them are lungless and descended from some mysterious ancestor more than 50 million years ago!
 
 ::: {.todo}
-FIGURE PLACEHOLDER: simplified version of the responsiveness-under-hypoxia
-comparison across lunged/lungless and pond/stream tadpoles (your Figure 1
-material from the hypoxia paper).
+LINK NEEDED: the education page on frogs vs. toads doesn't exist yet. Once
+it does, point "true toads" above at it.
 :::
 
-That makes sense once you think about it from the tadpole's perspective.
-Streams and torrents are almost never low in oxygen, so a stream-living
-species has never needed to evolve a way to cope when oxygen drops, lungs or
-no lungs. That's a fine bet to make, right up until something changes the
-water itself. Dam construction, groundwater pumping, and drought can all
-reduce or interrupt streamflow, and stagnant water gets hypoxic fast. The
-critically endangered Table Mountain ghost frog, *Heleophryne rosei*, has
-declined sharply alongside reservoir construction that reduced flow in the
-streams it depends on. A tadpole that lost its lungs because breathing air
-was once dangerous may now be stuck without one, in a stream that no longer
-behaves the way it did when that trade was made.
+## What do we learn about lung loss?
 
-Which leaves an obvious follow-up question: once a tadpole's lineage has gone
-this route, is there any way back? That turns out to be a much bigger
-question than it sounds, and it's worth a post of its own.
+To our surprise, our research provided support to both hypotheses of lung loss in plethodontids: streams and terrestriality. In tadpoles, both routes were clearly possible. This study increases our confidence in both mechanisms, but the answer in plethodontids may always be a mystery, lost to time.
+
+
+## What about the conservation of lungless tadpoles?
+
+Check out [this study](https://www.researchgate.net/publication/379862165_Habitat_and_respiratory_strategy_effects_on_hypoxia_performance_in_anuran_tadpoles) I performed looking at how lungless, lunged, stream, and pond tadpoles tolerate low oxygen.
+
+We found that lungless, stream tadpoles were by far the most vulnerable to hypoxia. Stream tadpoles with lungs tolerated hypoxia much better than their lungless counterparts, and lungless pond tadpoles also did much better, implying they have evolved other ways of getting oxygen besids the lungs. 
+
+That study calls for stronger protections of stream flows for endangered species like the Hewitt's Ghost Frog, as lungless tadpoles cannot tolerate even temporary periods of no flow.
+
+::: {.video-figure}
+![](../assets/images/heleophryne-hewitti.jpg){fig-alt="A Heleophryne hewitti ghost frog, mottled gold and dark brown with a vertical pupil and broad finger discs, sitting on wet algae-covered rock in a stream"}
+
+**Hewitt's ghost frog, *Heleophryne hewitti*, Eastern Cape, 2022.**
+:::
+
+## Once they're gone, are lungs gone forever?
+
+After losing them, lungs have never come back. Check out [this post](once-lost-gone-forever.qmd) for a discussion of irreversibility in evolution, and [this post](bubble-guts.qmd) for a discussion of the only bufonid tadpole that has come close. 
+
 
 ---
 
