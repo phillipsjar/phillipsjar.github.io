@@ -1,6 +1,6 @@
 ---
 title: "Do tadpoles even have lungs?"
-subtitle: "Yes, and also suck!"
+subtitle: "Yes, and they also suck!"
 description: "Most tadpoles start breathing air right after hatching, well before they grow legs or leave the water. Breathing air at such tiny sizes is no picnic, however. Tiny tads have to fight relatively giant forces, like surface tension. Read on to learn how they use a special type of air breathing to deal with that."
 order: 1
 image: ../assets/images/research-thumbs/do-tadpoles-have-lungs-bubble-suck.jpg
@@ -8,7 +8,7 @@ image: ../assets/images/research-thumbs/do-tadpoles-have-lungs-bubble-suck.jpg
 
 Just ask any frog-obsessed kid, and they'll tell you: tadpoles don't have lungs, they have gills! Well, I'm here to tell you, as a former frog-obsessed child, that pretty much everyone is wrong about tadpole lungs. 
 
-Most tadpoles do have lungs, and they start using them almost immediately.
+Most tadpoles have lungs, and they start using them almost immediately.
 Across the species I've looked at, tadpoles start filling their lungs with
 air within three or four days of hatching, at body lengths of about three
 millimeters (smaller than a grain of rice). 
@@ -78,7 +78,7 @@ A breach is breath more similar to what whales do: breathing by coming up quickl
 
 ## Bubble-sucking
 
-But what about before then? I've now told you that tiny tadpoles breathe air, but they are also too small to overcome surface tension.
+But what about before then? I've now told you that while tiny tadpoles breathe air,  they are also too small to overcome surface tension.
 
 If a tadpole can't break through the surface, how does it breathe at all?
 
@@ -114,13 +114,13 @@ tadpole sucks the surface itself downward, pulling a pocket of the air-water int
 Look closely and you can see each phase of bubble sucking. Watch the lungs empty mid-breath and then fill afterwards.
 :::
 
-We looked at breathing across development and found a statistical relationship between bubble-sucking and size that translated across species. Nearly every tadpole we looked at started breaching (not bubble sucking) at around the same size (~8 mm), suggesting that size might be the driving force here.
+We looked at breathing across development and found a statistical relationship between bubble sucking and size that translated across species. Nearly every tadpole we looked at started breaching (not bubble sucking) at around the same size (~10 mm), suggesting that size might be the driving force here.
 
 ::: {.video-figure}
 ![](../assets/images/bubble-suck-to-breach-size.png){fig-alt="Histogram of tadpole snout-vent length, with bubble-sucking breaths in black and breaching breaths in purple"}
 
 **Statistical relationship between tadpole size and onset of breaching**
-Black bars are bubble-sucking breaths, purple bars are breaches. Tadpoles' first breaths are usually bubble sucks, because they are too small to do anything else. As they get bigger, around 8 mm body length, they start to breach, and then quickly are almost always breaching when they breathe. 
+Black bars are bubble-sucking breaths, purple bars are breaches. Tadpoles' first breaths are usually bubble sucks, because they are too small to do anything else. As they get bigger, around 10 mm body length, they start to breach, and then quickly are almost always breaching when they breathe. 
 :::
 
 
