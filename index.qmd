@@ -26,7 +26,7 @@ Scientist, Educator, and Photographer
 ::: {}
 Hi and welcome, I'm Jack. If you're here, you're probably either interested in  my [research](research.qmd) or my photography. If you're looking for photos of rare tadpole specimens, look [here](tadpoles.qmd). If you're after wildlife shots, look [here](wildlife.qmd).
 
-If you don't know me, I'm an evolutionary biologist with a special interest and expertise in tadpoles (larval frogs). I use tadpoles as models for understanding how the the way you grow up (development) influences what you can evolve into.
+If you don't know me, I'm an evolutionary biologist with a special interest and expertise in tadpoles (larval frogs). I use tadpoles as models for understanding how the way you grow up (development) influences what you can evolve into.
 
 If you're interested in my research into bubble-sucking tadpoles, lungless tadpoles, beakless tadpoles, suctorial tadpoles, or any of my other projects, please reach out.
 
@@ -60,7 +60,8 @@ No, not like the Ben Stiller movie. One of my favorite parts of being a scientis
 
 [![](assets/images/research-thumbs/bubble-guts.jpg){fig-alt="A dense school of tadpoles breaking the surface of a pond"}](research/bubble-guts.qmd){.thumb-link}
 [**Bubble guts**](research/bubble-guts.qmd)
-Some tadpoles never grow lungs, and that loss never reverses. So what do you make of a lungless tadpole that clearly breathes air anyway? Read on to see where the air actually goes.
+Want to hear about the latest kind of air breathing?
+Gut-breathing is all the rage, I hear.
 
 [![](assets/images/research-thumbs/once-lost-gone-forever.jpg){fig-alt="A tadpole photographed against a black background"}](research/once-lost-gone-forever.qmd){.thumb-link}
 [**Once lost, is a trait gone forever?**](research/once-lost-gone-forever.qmd)
