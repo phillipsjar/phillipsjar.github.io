@@ -6,18 +6,19 @@ order: 4
 image: ../assets/images/research-thumbs/bubble-guts.jpg
 ---
 
-In [this post on lungless tadpoles](why-lose-a-lung.qmd) I told you about tadpoles that never develop working lungs, and I finished my explaining that once lost, lungs have never re-evolved. 
+In [this post on lungless tadpoles](why-lose-a-lung.qmd), I wrote about tadpoles that never develop working lungs, and I finished by explaining that once lost, lungs have never returned. 
 
-That is technically true, but there is one kind of weird case.
+While that is technically true, there is one kind of weird case.
 
 ## Looking for re-evolutions of lungs
 
-You see, after studying lungless tadpoles in the museum, there was one species that just didn't make any sense to me. Its tadpole was lungless (I checked a specimen), but it was specialized to live in low oxygen habitats. There, it supposedly used a respiratory crest on its head to get oxygen from the surface. This crest is really remarkable, even in preserved specimens.
+You see, after studying lungless tadpoles for a while, there was one species that just never made any sense to me. Its tadpole was lungless (I checked a specimen to be sure), but it was specialized to live in low oxygen habitats. In those low oxygen habitats, it supposedly used a respiratory crest on its head to get oxygen from the surface. This crest is really remarkable, even in preserved specimens.
 
 ::: {.video-figure}
 ![](../assets/images/schismaderma-preserved-crest.jpg){fig-alt="A preserved Schismaderma carens tadpole in lateral view against a black background, showing a broad fin-like crest rising from the top of its head"}
 
 **Even preserved, the crest is hard to miss**
+Preserved *Schismaderma carens* tadpole
 :::
 
 But lungless bufonids are very negatively buoyant: how would a tadpole like that be able to press a crest against a surface without constantly swimming?
