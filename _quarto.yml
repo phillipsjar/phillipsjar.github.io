@@ -28,13 +28,14 @@ website:
         text: "Home"
       - href: research.qmd
         text: "Research"
+      - href: education.qmd
+        text: "Education"
       - href: tadpoles.qmd
         text: "Tadpoles"
       - href: wildlife.qmd
         text: "Wildlife"
-      # Uncomment once videos.qmd has something in it:
-      # - href: videos.qmd
-      #   text: "Video"
+      - href: videos.qmd
+        text: "Life in Motion"
       - href: cv.qmd
         text: "CV"
       - href: contact.qmd

@@ -1,46 +1,71 @@
 ---
-title: "Video"
+title: "Life in motion"
+subtitle: "Every video on this site, in one place"
 toc: false
 page-layout: full
 ---
 
-<!-- ==========================================================================
-  This page is NOT in the site navigation yet. To turn it on, uncomment the
-  Video line in _quarto.yml.
-
-  To add a video, copy one of the blocks below and change the three lines.
-  Quarto's video shortcode handles YouTube, Vimeo, and local files.
-
-  WHERE TO PUT THE FILE
-  ---------------------
-  Under about 20 MB: drop it in assets/video/ and reference it by path.
-  Anything larger: upload it to YouTube or Vimeo as unlisted and paste the URL
-  instead. GitHub refuses single files over 100 MB, and a repo full of video
-  makes every clone and every site build slow.
-=========================================================================== -->
-
-Footage from the lab and the field. High-speed and x-ray video of tadpoles
-breathing, and whatever else is worth seeing in motion.
-
-::: {.todo}
-Placeholder page. Nothing here yet. Delete this box when you add your first
-video, and uncomment the Video entry in `_quarto.yml`.
-:::
-
-<!-- ---------- COPY FROM HERE ------------------------------------------------
+Footage from the lab and the field, mostly high-speed and slowed way down. Scroll through, or jump to a full writeup: [Do tadpoles even have lungs?](research/do-tadpoles-have-lungs.qmd), [Why lose a lung?](research/why-lose-a-lung.qmd), and [Bubble guts](research/bubble-guts.qmd).
 
 ::: {.video-figure}
-{{< video https://www.youtube.com/embed/VIDEO_ID_HERE >}}
+{{< video assets/video/schismaderma-breathing-sequence.mp4 >}}
 
-**Xenopus laevis tadpole taking a breath**  
-High-speed video at 1000 fps. The bubble never breaks the surface film.
+**A whole school of tadpoles surfacing for air at once, then sinking back down**
+Filmed with a 600mm lens at a roadside pond in Limpopo, South Africa. Each school is roughly the size of a beach ball. More in [Bubble guts](research/bubble-guts.qmd).
 :::
 
 ::: {.video-figure}
-{{< video assets/video/your-file.mp4 >}}
+{{< video assets/video/rana-clamitans-breach-bounce.mp4 >}}
 
-**A caption for the local file**  
-A sentence about what the viewer is looking at.
+**A small green frog tadpole (*Rana clamitans*) tries to breach**
+It swims up mouth-first, but the surface doesn't break. It stretches under the impact and springs back, sending the tadpole down without a breath. From [Do tadpoles even have lungs?](research/do-tadpoles-have-lungs.qmd)
 :::
 
----------- TO HERE ------------------------------------------------------- -->
+::: {.video-figure}
+{{< video assets/video/rana-clamitans-bubble-suck.mp4 >}}
+
+**An older, much larger *Rana clamitans* tadpole successfully breaches**
+Breaching is closer to what whales do: coming up quickly through the surface and exchanging air while briefly above it. From [Do tadpoles even have lungs?](research/do-tadpoles-have-lungs.qmd)
+:::
+
+::: {.video-figure}
+{{< video assets/video/xenopus-laevis-bubble-suck.mp4 >}}
+
+**A young tadpole bubble sucking**
+Instead of breaking through the surface, the tadpole presses its mouth to the underside and sucks a pocket of the air-water interface down into its mouth. From [Do tadpoles even have lungs?](research/do-tadpoles-have-lungs.qmd)
+:::
+
+::: {.video-figure}
+{{< video assets/video/rana-sylvatica-bubble-suck.mp4 >}}
+
+**Bubble sucking, a second view**
+The same behavior from a different angle: mouth pressed to the surface, bubble pulled downward, then pinched off and swallowed. From [Do tadpoles even have lungs?](research/do-tadpoles-have-lungs.qmd)
+:::
+
+::: {.video-figure}
+{{< video assets/video/xenopus-laevis-bubble-suck-detail.mp4 >}}
+
+**Bubble sucking, up close**
+Watch closely and you can see each phase of the breath, including the lungs emptying mid-suck and refilling afterward. From [Do tadpoles even have lungs?](research/do-tadpoles-have-lungs.qmd)
+:::
+
+::: {.video-figure}
+{{< video assets/video/pond-snail-under-surface-film.mp4 >}}
+
+**A pond snail walking along the underside of the surface**
+The same surface tension that lets water striders stand on top of the water acts as a ceiling from below, and this snail is using it as a walking surface. From [Do tadpoles even have lungs?](research/do-tadpoles-have-lungs.qmd)
+:::
+
+::: {.video-figure}
+{{< video assets/video/snail-bubble-suck.mp4 >}}
+
+**A pond snail (*Physa heterostrophus*) bubble-sucking**
+No mouth involved this time: the pulmonary siphon does the same job, pulling the surface down and sealing off a bubble before drawing it in. From [Do tadpoles even have lungs?](research/do-tadpoles-have-lungs.qmd)
+:::
+
+::: {.video-figure}
+{{< video assets/video/spea-intermontana-breath-comparison.mp4 >}}
+
+**An ordinary air breath, from a tadpole with ordinary lungs**
+*Spea intermontana*, filmed for comparison against the lungless breathing in [Bubble guts](research/bubble-guts.qmd) and [Why lose a lung?](research/why-lose-a-lung.qmd). Mouth open, straight up through the surface, gulp, done.
+:::

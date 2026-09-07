@@ -1,0 +1,26 @@
+---
+# Copy this file, rename it to something-descriptive.qmd, and delete this
+# comment block. Files starting with an underscore are never published, so
+# this template stays invisible on the live site.
+
+title: "The term or concept, plainly named"
+subtitle: "A few words on where it comes up"
+description: "One sentence. This is what shows up on the Education index page and in link previews, so make it do some work."
+order: 9          # position in the list; lower numbers come first
+image: ../photography/tadpoles/thumbs/Ascaphus.jpg   # optional thumbnail
+---
+
+## The short version
+
+Explain the term or concept the way you'd explain it to a smart
+non-specialist in one paragraph, before getting into nuance.
+
+## Where this comes up
+
+Which research posts lean on this, and why it matters there. Link back to
+them with `[link text](../research/the-post.qmd)`.
+
+## Digging deeper
+
+Optional: a caveat, a common misconception, or a pointer to something more
+technical for the reader who wants more.
