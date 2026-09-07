@@ -1,7 +1,7 @@
 ---
 title: "Do tadpoles even have lungs?"
-subtitle: "Yes, and they breathe by sucking bubbles"
-description: "Most tadpoles start breathing air within a few days of hatching, long before they grow legs. At the size they're doing it, though, breathing means fighting the surface of the water itself. Here's how they get around that, and why the same trick keeps turning up in animals that have almost nothing else in common."
+subtitle: "Yes, and also suck!"
+description: "Most tadpoles start breathing air right after hatching, well before they grow legs or leave the water. Breathing air at such tiny sizes is no picnic, however. Tiny tads have to fight relatively giant forces, like surface tension. Read on to learn how they use a special type of air breathing to deal with that."
 order: 1
 image: ../assets/images/research-thumbs/do-tadpoles-have-lungs-bubble-suck.jpg
 ---
