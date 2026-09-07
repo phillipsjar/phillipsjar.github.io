@@ -30,7 +30,12 @@ While in the field, I saw several amazing behaviors. When you see *Schismaderma*
 
 When we went back to the same ponds in the early morning, however, we found that the various schools had collapsed into a much larger sheet of tadpoles that covered the surface of the small pond. Every single tadpole had its crest pressed up against the surface, just like people had hypothesized. Why? Oxygen levels crash overnight in many ponds, because photosynthesis stops. With such low oxygen levels, these lungless tadpoles did indeed seem to be using their headcrests for respiration. 
 
-INSERT SCHIS VIDEO 1
+::: {.video-figure}
+{{< video ../assets/video/schismaderma-surface-sheet.mp4 >}}
+
+**A pond's surface, packed edge to edge**
+By early morning the separate schools had merged into one continuous sheet, every tadpole's crest pressed against the underside of the surface film.
+:::
 
 And they just sat right at the surface, effortlessly! I'd never seen anything like it for a supposedly lungless tadpole. 
 
@@ -138,7 +143,12 @@ The reason we think this, is that *Schismaderma* tadpoles don't respond to low o
 
 This matters because the surface layer of water, even really hypoxic, gross water, is always perfectly oxygenated from the air that it's touching. This boundary layer is often super thin, just a few molecules thick, but that's where the crest is touching. As they sit there, the tadpoles suck water in and out of the nostrils, moving water across the crest, just like water is pulled across a gill. 
 
-INSERT SCHIS VIDEO 2
+::: {.video-figure}
+{{< video ../assets/video/schismaderma-crest-ventilation.mp4 >}}
+
+**Ventilating the crest**
+Watch the nostrils: water is pulled in and pushed back out, passing it across the crest the same way a gill pulls water across its own surface.
+:::
 
 What stood out was how effortless it looked. A typical toad tadpole is
 negatively buoyant. Left alone, it sinks, and staying at the surface means
