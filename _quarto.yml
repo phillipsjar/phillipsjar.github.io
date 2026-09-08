@@ -48,6 +48,7 @@ website:
 
   page-footer:
     left: "© 2026 Jackson Phillips. All photographs are my own."
+    center: "[Usage & licensing](license.qmd)"
     right: "Built with [Quarto](https://quarto.org)"
 
 format:

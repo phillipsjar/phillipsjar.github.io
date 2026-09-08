@@ -480,6 +480,9 @@ def tadpole_library(folder):
             "name": alt,
             "creator": {"@type": "Person", "name": CREATOR},
             "copyrightNotice": f"\u00a9 {CREATOR}",
+            "creditText": CREATOR,
+            "license": f"{base}/license.html" if base else "license.html",
+            "acquireLicensePage": f"{base}/license.html" if base else "license.html",
         })
 
     families = sorted(k for k in by_family if k != "Not yet identified")
@@ -571,6 +574,8 @@ def tiles_for(folder, web_prefix, gallery, carried=None):
             "creator": {"@type": "Person", "name": CREATOR},
             "copyrightNotice": f"© {CREATOR}",
             "creditText": CREATOR,
+            "license": f"{base}/license.html" if base else "license.html",
+            "acquireLicensePage": f"{base}/license.html" if base else "license.html",
         })
         keep = sci or common
         if keep and keep not in species:

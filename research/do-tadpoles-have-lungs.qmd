@@ -6,6 +6,136 @@ order: 1
 image: ../assets/images/research-thumbs/do-tadpoles-have-lungs-bubble-suck.jpg
 ---
 
+<!-- VIDEO-SCHEMA:START -->
+```{=html}
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "VideoObject",
+ "name": "A pond snail walking along the underside of the surface",
+ "description": "The same surface tension that lets water striders stand on top of the water acts as a ceiling from below, and this snail is using it as a walking surface. From Do tadpoles even have lungs?",
+ "contentUrl": "https://tadpology.com/assets/video/pond-snail-under-surface-film.mp4",
+ "thumbnailUrl": "https://tadpology.com/assets/video/thumbs/pond-snail-under-surface-film.jpg",
+ "creator": {
+  "@type": "Person",
+  "name": "Jackson Phillips"
+ },
+ "copyrightNotice": "\u00a9 Jackson Phillips",
+ "creditText": "Jackson Phillips",
+ "license": "https://tadpology.com/license.html",
+ "acquireLicensePage": "https://tadpology.com/license.html"
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "VideoObject",
+ "name": "A small green frog tadpole (Rana clamitans) tries to breach",
+ "description": "It swims up mouth-first, but the surface doesn't break. It stretches under the impact and springs back, sending the tadpole down without a breath. From Do tadpoles even have lungs?",
+ "contentUrl": "https://tadpology.com/assets/video/rana-clamitans-breach-bounce.mp4",
+ "thumbnailUrl": "https://tadpology.com/assets/video/thumbs/rana-clamitans-breach-bounce.jpg",
+ "creator": {
+  "@type": "Person",
+  "name": "Jackson Phillips"
+ },
+ "copyrightNotice": "\u00a9 Jackson Phillips",
+ "creditText": "Jackson Phillips",
+ "license": "https://tadpology.com/license.html",
+ "acquireLicensePage": "https://tadpology.com/license.html"
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "VideoObject",
+ "name": "An older, much larger Rana clamitans tadpole successfully breaches",
+ "description": "Breaching is closer to what whales do: coming up quickly through the surface and exchanging air while briefly above it. From Do tadpoles even have lungs?",
+ "contentUrl": "https://tadpology.com/assets/video/rana-clamitans-bubble-suck.mp4",
+ "thumbnailUrl": "https://tadpology.com/assets/video/thumbs/rana-clamitans-bubble-suck.jpg",
+ "creator": {
+  "@type": "Person",
+  "name": "Jackson Phillips"
+ },
+ "copyrightNotice": "\u00a9 Jackson Phillips",
+ "creditText": "Jackson Phillips",
+ "license": "https://tadpology.com/license.html",
+ "acquireLicensePage": "https://tadpology.com/license.html"
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "VideoObject",
+ "name": "A young tadpole bubble sucking",
+ "description": "Instead of breaking through the surface, the tadpole presses its mouth to the underside and sucks a pocket of the air-water interface down into its mouth. From Do tadpoles even have lungs?",
+ "contentUrl": "https://tadpology.com/assets/video/xenopus-laevis-bubble-suck.mp4",
+ "thumbnailUrl": "https://tadpology.com/assets/video/thumbs/xenopus-laevis-bubble-suck.jpg",
+ "creator": {
+  "@type": "Person",
+  "name": "Jackson Phillips"
+ },
+ "copyrightNotice": "\u00a9 Jackson Phillips",
+ "creditText": "Jackson Phillips",
+ "license": "https://tadpology.com/license.html",
+ "acquireLicensePage": "https://tadpology.com/license.html"
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "VideoObject",
+ "name": "Bubble sucking, a second view",
+ "description": "The same behavior from a different angle: mouth pressed to the surface, bubble pulled downward, then pinched off and swallowed. From Do tadpoles even have lungs?",
+ "contentUrl": "https://tadpology.com/assets/video/rana-sylvatica-bubble-suck.mp4",
+ "thumbnailUrl": "https://tadpology.com/assets/video/thumbs/rana-sylvatica-bubble-suck.jpg",
+ "creator": {
+  "@type": "Person",
+  "name": "Jackson Phillips"
+ },
+ "copyrightNotice": "\u00a9 Jackson Phillips",
+ "creditText": "Jackson Phillips",
+ "license": "https://tadpology.com/license.html",
+ "acquireLicensePage": "https://tadpology.com/license.html"
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "VideoObject",
+ "name": "Bubble sucking, up close",
+ "description": "Watch closely and you can see each phase of the breath, including the lungs emptying mid-suck and refilling afterward. From Do tadpoles even have lungs?",
+ "contentUrl": "https://tadpology.com/assets/video/xenopus-laevis-bubble-suck-detail.mp4",
+ "thumbnailUrl": "https://tadpology.com/assets/video/thumbs/xenopus-laevis-bubble-suck-detail.jpg",
+ "creator": {
+  "@type": "Person",
+  "name": "Jackson Phillips"
+ },
+ "copyrightNotice": "\u00a9 Jackson Phillips",
+ "creditText": "Jackson Phillips",
+ "license": "https://tadpology.com/license.html",
+ "acquireLicensePage": "https://tadpology.com/license.html"
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "VideoObject",
+ "name": "A pond snail (Physa heterostrophus) bubble-sucking",
+ "description": "No mouth involved this time: the pulmonary siphon does the same job, pulling the surface down and sealing off a bubble before drawing it in. From Do tadpoles even have lungs?",
+ "contentUrl": "https://tadpology.com/assets/video/snail-bubble-suck.mp4",
+ "thumbnailUrl": "https://tadpology.com/assets/video/thumbs/snail-bubble-suck.jpg",
+ "creator": {
+  "@type": "Person",
+  "name": "Jackson Phillips"
+ },
+ "copyrightNotice": "\u00a9 Jackson Phillips",
+ "creditText": "Jackson Phillips",
+ "license": "https://tadpology.com/license.html",
+ "acquireLicensePage": "https://tadpology.com/license.html"
+}
+</script>
+```
+<!-- VIDEO-SCHEMA:END -->
 Just ask any frog-obsessed kid, and they'll tell you: tadpoles don't have lungs, they have gills! Well, I'm here to tell you, as a former frog-obsessed child, that pretty much everyone is wrong about tadpole lungs. 
 
 Most tadpoles have lungs, and they start using them almost immediately.

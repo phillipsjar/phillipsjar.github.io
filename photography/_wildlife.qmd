@@ -129,7 +129,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -141,7 +143,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -153,7 +157,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -165,7 +171,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -177,7 +185,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -189,7 +199,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -201,7 +213,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -213,7 +227,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -225,7 +241,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -237,7 +255,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -249,7 +269,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -261,7 +283,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -273,7 +297,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -285,7 +311,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -297,7 +325,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -309,7 +339,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -321,7 +353,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -333,7 +367,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -345,7 +381,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -357,7 +395,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -369,7 +409,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -381,7 +423,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -393,7 +437,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -405,7 +451,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -417,7 +465,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -429,7 +479,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -441,7 +493,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -453,7 +507,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -465,7 +521,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -477,7 +535,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -489,7 +549,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -501,7 +563,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -513,7 +577,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -525,7 +591,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -537,7 +605,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -549,7 +619,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -561,7 +633,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -573,7 +647,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -585,7 +661,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -597,7 +675,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -609,7 +689,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -621,7 +703,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -633,7 +717,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -645,7 +731,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -657,7 +745,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -669,7 +759,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -681,7 +773,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -693,7 +787,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -705,7 +801,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -717,7 +815,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -729,7 +829,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -741,7 +843,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -753,7 +857,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -765,7 +871,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -777,7 +885,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -789,7 +899,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -801,7 +913,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -813,7 +927,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -825,7 +941,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -837,7 +955,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -849,7 +969,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -861,7 +983,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -873,7 +997,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -885,7 +1011,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -897,7 +1025,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -909,7 +1039,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -921,7 +1053,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -933,7 +1067,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -945,7 +1081,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -957,7 +1095,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -969,7 +1109,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -981,7 +1123,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -993,7 +1137,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1005,7 +1151,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1017,7 +1165,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1029,7 +1179,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1041,7 +1193,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1053,7 +1207,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1065,7 +1221,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1077,7 +1235,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1089,7 +1249,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1101,7 +1263,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1113,7 +1277,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1125,7 +1291,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1137,7 +1305,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1149,7 +1319,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1161,7 +1333,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1173,7 +1347,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   },
   {
    "@type": "ImageObject",
@@ -1185,7 +1361,9 @@
     "name": "Jackson Phillips"
    },
    "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips"
+   "creditText": "Jackson Phillips",
+   "license": "https://tadpology.com/license.html",
+   "acquireLicensePage": "https://tadpology.com/license.html"
   }
  ]
 }

@@ -2,7 +2,7 @@
 title: "Lost and found in the museum"
 subtitle: "How a jar of \"unidentified\" tadpoles became a new genus"
 description: "No, not like the Ben Stiller movie. A jar of strange tadpoles sat in a museum collection for years before anyone realized what they were looking at. Read on to see how a closer look turned an odd specimen into a brand new genus of frog."
-order: 3
+order: 4
 image: ../assets/images/research-thumbs/lost-and-found-in-the-museum.jpg
 ---
 

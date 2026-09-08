@@ -2,10 +2,86 @@
 title: "Bubble guts"
 subtitle: "Re-evolution of air breathing in a lungless tadpole"
 description: "Once lost, lungs have never re-evolved, so far as we know. When I saw a lungless tadpole breathing air in the wild, I couldn't believe my eyes. Then I looked inside..."
-order: 4
+order: 3
 image: ../assets/images/research-thumbs/bubble-guts.jpg
 ---
 
+<!-- VIDEO-SCHEMA:START -->
+```{=html}
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "VideoObject",
+ "name": "A pond's surface, packed edge to edge",
+ "description": "By early morning the separate schools had merged into one continuous sheet, every tadpole's crest pressed against the underside of the surface film.",
+ "contentUrl": "https://tadpology.com/assets/video/schismaderma-surface-sheet.mp4",
+ "thumbnailUrl": "https://tadpology.com/assets/video/thumbs/schismaderma-surface-sheet.jpg",
+ "creator": {
+  "@type": "Person",
+  "name": "Jackson Phillips"
+ },
+ "copyrightNotice": "\u00a9 Jackson Phillips",
+ "creditText": "Jackson Phillips",
+ "license": "https://tadpology.com/license.html",
+ "acquireLicensePage": "https://tadpology.com/license.html"
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "VideoObject",
+ "name": "A whole school of tadpoles surfacing for air at once, then sinking back down",
+ "description": "Filmed with a 600mm lens at a roadside pond in Limpopo, South Africa. Each school is roughly the size of a beach ball. More in Bubble guts.",
+ "contentUrl": "https://tadpology.com/assets/video/schismaderma-breathing-sequence.mp4",
+ "thumbnailUrl": "https://tadpology.com/assets/video/thumbs/schismaderma-breathing-sequence.jpg",
+ "creator": {
+  "@type": "Person",
+  "name": "Jackson Phillips"
+ },
+ "copyrightNotice": "\u00a9 Jackson Phillips",
+ "creditText": "Jackson Phillips",
+ "license": "https://tadpology.com/license.html",
+ "acquireLicensePage": "https://tadpology.com/license.html"
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "VideoObject",
+ "name": "An ordinary air breath, from a tadpole with ordinary lungs",
+ "description": "Spea intermontana, filmed for comparison against the lungless breathing in Bubble guts and Why lose a lung?. Mouth open, straight up through the surface, gulp, done.",
+ "contentUrl": "https://tadpology.com/assets/video/spea-intermontana-breath-comparison.mp4",
+ "thumbnailUrl": "https://tadpology.com/assets/video/thumbs/spea-intermontana-breath-comparison.jpg",
+ "creator": {
+  "@type": "Person",
+  "name": "Jackson Phillips"
+ },
+ "copyrightNotice": "\u00a9 Jackson Phillips",
+ "creditText": "Jackson Phillips",
+ "license": "https://tadpology.com/license.html",
+ "acquireLicensePage": "https://tadpology.com/license.html"
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "VideoObject",
+ "name": "Ventilating the crest",
+ "description": "Watch the nostrils: water is pulled in and pushed back out, passing it across the crest the same way a gill pulls water across its own surface.",
+ "contentUrl": "https://tadpology.com/assets/video/schismaderma-crest-ventilation.mp4",
+ "thumbnailUrl": "https://tadpology.com/assets/video/thumbs/schismaderma-crest-ventilation.jpg",
+ "creator": {
+  "@type": "Person",
+  "name": "Jackson Phillips"
+ },
+ "copyrightNotice": "\u00a9 Jackson Phillips",
+ "creditText": "Jackson Phillips",
+ "license": "https://tadpology.com/license.html",
+ "acquireLicensePage": "https://tadpology.com/license.html"
+}
+</script>
+```
+<!-- VIDEO-SCHEMA:END -->
 In [this post on lungless tadpoles](why-lose-a-lung.qmd), I wrote about tadpoles that never develop working lungs, and I finished by explaining that once lost, lungs have never returned. 
 
 While that is technically true, there is one kind of weird case.

@@ -6,6 +6,28 @@ order: 2
 image: ../assets/images/research-thumbs/why-lose-a-lung.jpg
 ---
 
+<!-- VIDEO-SCHEMA:START -->
+```{=html}
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "VideoObject",
+ "name": "An ordinary air breath, from a tadpole with ordinary lungs",
+ "description": "Spea intermontana, filmed for comparison against the lungless breathing in Bubble guts and Why lose a lung?. Mouth open, straight up through the surface, gulp, done.",
+ "contentUrl": "https://tadpology.com/assets/video/spea-intermontana-breath-comparison.mp4",
+ "thumbnailUrl": "https://tadpology.com/assets/video/thumbs/spea-intermontana-breath-comparison.jpg",
+ "creator": {
+  "@type": "Person",
+  "name": "Jackson Phillips"
+ },
+ "copyrightNotice": "\u00a9 Jackson Phillips",
+ "creditText": "Jackson Phillips",
+ "license": "https://tadpology.com/license.html",
+ "acquireLicensePage": "https://tadpology.com/license.html"
+}
+</script>
+```
+<!-- VIDEO-SCHEMA:END -->
 Read [here](do-tadpoles-have-lungs.qmd) to learn about tadpole air breathing, where I talk about the fact that, contrary to public opinion, tadpoles do have lungs. 
 
 ::: {.video-figure}

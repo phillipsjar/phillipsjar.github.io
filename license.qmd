@@ -1,0 +1,10 @@
+---
+title: "Usage & Licensing"
+toc: false
+---
+
+All photographs, video, and other original media on this site are © Jackson R Phillips.
+
+Nothing here may be reproduced, copied, distributed, publicly displayed, or otherwise used, in whole or in part, for any purpose, without prior written permission. This applies to full-resolution files and to anything captured directly from the page (including screenshots and screen recordings), regardless of the presence or absence of a visible watermark.
+
+**To request permission**, email [{{< var email >}}](mailto:{{< var email >}}) with which image(s) or video(s) you'd like to use and what for.
