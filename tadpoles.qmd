@@ -17,7 +17,8 @@ body-classes: gallery
 I spend a lot of time looking at tadpoles, either in the field or in museums. Many tadpoles don't have published photos, so I hope people find this resource useful. Search taxonomy below and hover over a photograph to see what it is. Click it to open it full size.
 
 These images are free to use for teaching, identification keys, and
-research papers. Please [ask first](contact.qmd) so I can send you a version
-without the watermark, and credit them to Jackson R. Phillips.
+research papers, with permission. [Ask first](contact.qmd) and I can send you
+a version without the watermark; credit them to Jackson R. Phillips. See the
+[usage policy](license.qmd) for details.
 
 {{< include photography/_tadpoles.qmd >}}

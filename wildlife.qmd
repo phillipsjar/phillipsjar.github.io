@@ -16,6 +16,6 @@ body-classes: gallery
 Animals photographed in the field, mostly while doing something else. Hover a
 photograph for the species; click it to see it full size.
 
-Licensing for education, conservation, and outreach: just [ask](contact.qmd).
+Licensing for education, conservation, and outreach: just [ask](contact.qmd). See the [usage policy](license.qmd) for details.
 
 {{< include photography/_wildlife.qmd >}}
