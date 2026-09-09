@@ -4,6 +4,7 @@ subtitle: "Dollo's law, lungs and beaks"
 description: "For the more serious-minded reader, read on for a discussion of Dollo's Law and how my research into tadpole lungs and beaks may shed light on why some kinds of loss are more irreversible than others over evolutionary time."
 order: 5
 image: ../assets/images/research-thumbs/once-lost-gone-forever.jpg
+draft: true
 ---
 
 ::: {.todo}

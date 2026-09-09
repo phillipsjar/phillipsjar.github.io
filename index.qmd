@@ -63,9 +63,6 @@ No, not like the Ben Stiller movie. One of my favorite parts of being a scientis
 Want to hear about the latest kind of air breathing?
 Gut-breathing is all the rage, I hear.
 
-[![](assets/images/research-thumbs/once-lost-gone-forever.jpg){fig-alt="A tadpole photographed against a black background"}](research/once-lost-gone-forever.qmd){.thumb-link}
-[**Once lost, is a trait gone forever?**](research/once-lost-gone-forever.qmd)
-For the more serious-minded reader, read on for a discussion of Dollo's Law and how my research into tadpole lungs and beaks may shed light on why some kinds of loss are more irreversible than others over evolutionary time.
 :::
 
 [All research writing →](research.qmd){.more-link}
