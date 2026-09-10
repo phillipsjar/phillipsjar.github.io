@@ -1,6 +1,6 @@
 ---
 title: "Education"
-subtitle: "Short explainers, for background the research posts lean on"
+subtitle: "Coming soon"
 listing:
   contents: education
   type: default
@@ -12,14 +12,8 @@ listing:
 toc: false
 ---
 
-The [research](research.qmd) posts on this site try to stay readable without
-a biology degree, but some background comes up again and again: what makes a
-frog a frog and not a toad, what "relaxed selection" actually means, why
-biologists keep saying *Dollo's law*. Rather than re-explain it every time,
-short posts here will do it once, and the research posts will link back to
-them.
+
 
 ::: {.todo}
-Coming soon. This page will fill in as those explainers get written, and each
-one that exists will be linked to directly from wherever it's relevant.
+Coming soon.
 :::
