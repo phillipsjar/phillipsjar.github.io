@@ -173,12 +173,6 @@ page-layout: full
 <!-- VIDEO-SCHEMA:END -->
 Footage from the lab and the field, mostly high-speed and slowed way down. Scroll through, or jump to a full writeup: [Do tadpoles even have lungs?](research/do-tadpoles-have-lungs.qmd), [Why lose a lung?](research/why-lose-a-lung.qmd), and [Bubble guts](research/bubble-guts.qmd).
 
-::: {.video-figure}
-{{< video assets/video/schismaderma-breathing-sequence.mp4 >}}
-
-**A whole school of tadpoles surfacing for air at once, then sinking back down**
-Filmed with a 600mm lens at a roadside pond in Limpopo, South Africa. Each school is roughly the size of a beach ball. More in [Bubble guts](research/bubble-guts.qmd).
-:::
 
 ::: {.video-figure}
 {{< video assets/video/rana-clamitans-breach-bounce.mp4 >}}
