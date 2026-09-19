@@ -609,6 +609,48 @@ def banner_block(paths, element_id):
             "  }, 5000);\n})();\n</script>")
 
 
+def image_sitemap_entry(page_url, images):
+    """One <url> block (Google image-sitemap extension) covering every photo
+    on a single page."""
+    from xml.sax.saxutils import escape
+    parts = [f"  <url>\n    <loc>{escape(page_url)}</loc>\n"]
+    for img in images:
+        parts.append(
+            "    <image:image>\n"
+            f"      <image:loc>{escape(img['contentUrl'])}</image:loc>\n"
+            f"      <image:caption>{escape(img['name'])}</image:caption>\n"
+            f"      <image:license>{escape(img['license'])}</image:license>\n"
+            "    </image:image>\n"
+        )
+    parts.append("  </url>\n")
+    return "".join(parts)
+
+
+def write_image_sitemap(tad_images, wild_images):
+    """A supplementary sitemap (Google's image extension) so Google Images
+    has an explicit loc/caption/license for every photo, independent of
+    whatever Quarto's own page sitemap.xml does. Referenced from robots.txt.
+    Written straight to _site/ at render time, same as CNAME/robots.txt --
+    see project: resources: in _quarto.yml."""
+    base = site_url()
+    if not base or not (tad_images or wild_images):
+        return
+    body = ""
+    if tad_images:
+        body += image_sitemap_entry(f"{base}/tadpoles.html", tad_images)
+    if wild_images:
+        body += image_sitemap_entry(f"{base}/wildlife.html", wild_images)
+    xml = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"\n'
+        '        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n'
+        + body + "</urlset>\n"
+    )
+    (ROOT / "sitemap-images.xml").write_text(xml, encoding="utf-8")
+    n = len(tad_images) + len(wild_images)
+    print(f"  Wrote sitemap-images.xml ({n} photos)")
+
+
 def build():
     OUT.mkdir(parents=True, exist_ok=True)
     carried = all_captions()          # read before anything is rewritten
@@ -616,6 +658,7 @@ def build():
 
     # ---- Tadpole specimen library ------------------------------------------
     tad = OUT / "tadpoles"
+    tad_images = []
     if tad.is_dir() and any(tad.glob("*.jpg")):
         cover = make_cover(tad)
         (OUT / "_tadpoles-cover.qmd").write_text(
@@ -623,6 +666,7 @@ def build():
             f'<div class="still-cover"><img src="{cover}" alt="A plate of anuran '
             'larvae from the reference collection"></div>\n```\n', encoding="utf-8")
         html, images, families = tadpole_library(tad)
+        tad_images = images
         (OUT / "_tadpoles.qmd").write_text(
             "```{=html}\n" + html + "\n"
             + ld_block("Tadpole specimen library", images) + "\n```\n",
@@ -668,6 +712,8 @@ def build():
         (OUT / "_wildlife-meta.txt").write_text(
             "Wildlife photographs of " + ", ".join(all_species[:8])
             + (" and others" if len(all_species) > 8 else "") + ".", encoding="utf-8")
+
+    write_image_sitemap(tad_images, all_images)
 
     print(f"\n{total} photographs. Run: quarto preview")
 

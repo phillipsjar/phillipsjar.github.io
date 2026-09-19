@@ -3,3 +3,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://tadpology.com/sitemap.xml
+Sitemap: https://tadpology.com/sitemap-images.xml

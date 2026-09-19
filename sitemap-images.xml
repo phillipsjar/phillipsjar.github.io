@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://tadpology.com/tadpoles.html</loc>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Cardioglossa.jpg</image:loc>
+      <image:caption>Cardioglossa sp</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Cardioglossa_sp_MCZ_A139946_dorsal.jpg</image:loc>
+      <image:caption>Cardioglossa</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Cardioglossa_sp_MCZ_A139946_ventral.jpg</image:loc>
+      <image:caption>Cardioglossa</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptodactylodon_sp_A139563_dorsal.jpg</image:loc>
+      <image:caption>Leptodactylodon</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptodactylodon_sp_A139563_side.jpg</image:loc>
+      <image:caption>Leptodactylodon</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptopelis_natalensis_tadpole_side.jpg</image:loc>
+      <image:caption>Leptopelis natalensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptopelis_natalensis_ventral.jpg</image:loc>
+      <image:caption>Leptopelis natalensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Trichobatrachus_robustus_1.jpg</image:loc>
+      <image:caption>Trichobatrachus robustus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Trichobatrachus_robustus_2.jpg</image:loc>
+      <image:caption>Trichobatrachus robustus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ascaphus.jpg</image:loc>
+      <image:caption>Ascaphus truei</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ascaphus_truei_tadpole_Oregon_26-2.jpg</image:loc>
+      <image:caption>Ascaphus truei, Oregon</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/ascaphus_mouthparts.jpg</image:loc>
+      <image:caption>Ascaphus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Adhaerobufo_cf_nasicus.jpg</image:loc>
+      <image:caption>Adhaerobufo cf. nasicus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Adhaerobufo_cf_nasicus_dorsal.jpg</image:loc>
+      <image:caption>Adhaerobufo cf. nasicus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ansonia_sp_Sarawak_Malaysia.jpg</image:loc>
+      <image:caption>Ansonia sp, Sarawak Malaysia</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Rhaebo_caeruleostictus.jpg</image:loc>
+      <image:caption>Rhaebo caeruleostictus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Rhaebo_haematiticus_lateral.jpg</image:loc>
+      <image:caption>Rhaebo haematiticus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Rhinella_amabilis.jpg</image:loc>
+      <image:caption>Rhinella amabilis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Rhinella_chrysophora_1.jpg</image:loc>
+      <image:caption>Rhinella chrysophora</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Rhinella_chrysophora_2.jpg</image:loc>
+      <image:caption>Rhinella chrysophora</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Rhinella_veraguensis.jpg</image:loc>
+      <image:caption>Rhinella veraguensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Schismaderma_carens.jpg</image:loc>
+      <image:caption>Schismaderma carens</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Schismaderma_carens_Limpopo_23.jpg</image:loc>
+      <image:caption>Schismaderma carens, Limpopo</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Schismaderma_carens_Limpopo_23_2.jpg</image:loc>
+      <image:caption>Schismaderma carens, Limpopo</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Schismaderma_carens_Limpopo_South_Africa_2023_1.jpg</image:loc>
+      <image:caption>Schismaderma carens, Limpopo South Africa 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Schismaderma_carens_Mpumalanga_small_individual_2023.jpg</image:loc>
+      <image:caption>Schismaderma carens, Mpumalanga</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Sclerophrys_sp_KZN_South_Africa_2023.jpg</image:loc>
+      <image:caption>Sclerophrys sp, KZN South Africa 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Werneria_1.jpg</image:loc>
+      <image:caption>Werneria bambutensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Werneria_2.jpg</image:loc>
+      <image:caption>Werneria bambutensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Chacophrys.jpg</image:loc>
+      <image:caption>Chacophrys pierottii</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Conraua_robusta_1.jpg</image:loc>
+      <image:caption>Conraua robusta</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Conraua_robusta_2.jpg</image:loc>
+      <image:caption>Conraua robusta</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Thoropa_petropolitana.jpg</image:loc>
+      <image:caption>Thoropa petropolitana</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Hadromophryne_natalensis_Woodbush_forest_Limpopo_South_Africa_2023.jpg</image:loc>
+      <image:caption>Hadromophryne natalensis, Woodbush forest Limpopo South Africa 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Heleophryne_purcelli.jpg</image:loc>
+      <image:caption>Heleophryne purcelli</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Heleophryne_regis.jpg</image:loc>
+      <image:caption>Heleophryne regis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Heleophryne_regis_JRP_2.jpg</image:loc>
+      <image:caption>Heleophryne regis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Heleophryne_regis_JRP_3.jpg</image:loc>
+      <image:caption>Heleophryne regis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Heleophryne_regis_tadpole_side.jpg</image:loc>
+      <image:caption>Heleophryne regis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/hadro.jpg</image:loc>
+      <image:caption>Hadromophryne natalensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Hemisus_marmoratus_tadpole_side.jpg</image:loc>
+      <image:caption>Hemisus marmoratus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Hemisus_marmoratus_tadpole_side_KZN.jpg</image:loc>
+      <image:caption>Hemisus marmoratus, KZN</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Isthmohyla_tica.jpg</image:loc>
+      <image:caption>Isthmohyla tica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Megastomatohyla_mixe.jpg</image:loc>
+      <image:caption>Megastomatohyla mixe</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Megastomatohyla_mixe_ventral.jpg</image:loc>
+      <image:caption>Megastomatohyla mixe</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Nyctimystes_cheesmani_tad_side.jpg</image:loc>
+      <image:caption>Nyctimystes cheesmani</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Kassina_senegalensis_tadpole_side.jpg</image:loc>
+      <image:caption>Kassina senegalensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptobrachella_pelodytoides.jpg</image:loc>
+      <image:caption>Leptobrachella pelodytoides</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pelobatrachus.jpg</image:loc>
+      <image:caption>Pelobatrachus sp</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pelobatrachus_nasutus_Sabah_Malaysia_2024_above.jpg</image:loc>
+      <image:caption>Pelobatrachus nasutus, Sabah Malaysia 2024</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pelobatrachus_nasutus_Sabah_Malaysia_2024_side.jpg</image:loc>
+      <image:caption>Pelobatrachus nasutus, Sabah Malaysia 2024</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pelobatrachus_topdown.jpg</image:loc>
+      <image:caption>Pelobatrachus sp</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Anura_Microhylidae_Borneo_Highlands_Sarawak_Malaysia.jpg</image:loc>
+      <image:caption>Borneo Highlands Sarawak Malaysia</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Gastrophryne_carolinensis_KU_spec_1.jpg</image:loc>
+      <image:caption>Gastrophryne carolinensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Gastrophryne_carolinensis_KU_spec_2.jpg</image:loc>
+      <image:caption>Gastrophryne carolinensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Gastrophryne_carolinensis_KU_spec_3.jpg</image:loc>
+      <image:caption>Gastrophryne carolinensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Otophryne_robusta.jpg</image:loc>
+      <image:caption>Otophryne robusta</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Otophryne_robusta_zoom.jpg</image:loc>
+      <image:caption>Otophryne robusta</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Otophryne_sp.jpg</image:loc>
+      <image:caption>Otophryne sp</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Crinia.jpg</image:loc>
+      <image:caption>Crinia signifera</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Odontobatrachus_natator.jpg</image:loc>
+      <image:caption>Odontobatrachus natator</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Phrynobatrachus_natalensis_A139879_dorsal.jpg</image:loc>
+      <image:caption>Phrynobatrachus natalensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Phrynobatrachus_natalensis_A139879_side.jpg</image:loc>
+      <image:caption>Phrynobatrachus natalensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Phrynobatrachus_natalensis_A139879_ventral.jpg</image:loc>
+      <image:caption>Phrynobatrachus natalensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Xenopus_laevis.jpg</image:loc>
+      <image:caption>Xenopus laevis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Amietia_fuscigula_Eastern_Cape_South_Africa_2023.jpg</image:loc>
+      <image:caption>Amietia fuscigula, Eastern Cape South Africa 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Amietia_fuscigula_JRP_1.jpg</image:loc>
+      <image:caption>Amietia fuscigula</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Amietia_fuscigula_JRP_2.jpg</image:loc>
+      <image:caption>Amietia fuscigula</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Amietia_fuscigula_JRP_3.jpg</image:loc>
+      <image:caption>Amietia fuscigula</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Huia_cavitympanum.jpg</image:loc>
+      <image:caption>Huia cavitympanum</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Meristogenys_sp_Sarawak_Malaysia.jpg</image:loc>
+      <image:caption>Meristogenys sp, Sarawak Malaysia</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Meristogenys_ventral_live.jpg</image:loc>
+      <image:caption>Meristogenys</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Nyctixalus_pictus_Tawau_Sabah_Malaysia.jpg</image:loc>
+      <image:caption>Nyctixalus pictus, Tawau Sabah Malaysia</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Polypedetes_sp_Sarawak_Malaysia.jpg</image:loc>
+      <image:caption>Polypedates sp, Sarawak Malaysia</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Sooglossus_seychellensis.jpg</image:loc>
+      <image:caption>Sooglossus seychellensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Telmatobius_atahualpai_1.jpg</image:loc>
+      <image:caption>Telmatobius atahualpai</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Telmatobius_atahualpai_2.jpg</image:loc>
+      <image:caption>Telmatobius atahualpai</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tadpology.com/wildlife.html</loc>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Acontias_meleagris.jpg</image:loc>
+      <image:caption>Acontias meleagris</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Agkistrodon_contortrix_PA_2023_2.jpg</image:loc>
+      <image:caption>Agkistrodon contortrix, PA 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Alligator_mississippiensis_1.jpg</image:loc>
+      <image:caption>Alligator mississippiensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Aplopeltura_boa_Sayap_Borneo_2.jpg</image:loc>
+      <image:caption>Aplopeltura boa, Sayap Borneo</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Apolone_ferox_1.jpg</image:loc>
+      <image:caption>Apolone ferox</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Bitis_arietans_topdown.jpg</image:loc>
+      <image:caption>Bitis arietans</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Bitis_caudalis_7.jpg</image:loc>
+      <image:caption>Bitis caudalis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Bitis_peringueyi_3.jpg</image:loc>
+      <image:caption>Bitis peringueyi</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Bradypodion_transvaalensis_woodbush_green.jpg</image:loc>
+      <image:caption>Bradypodion transvaalensis, woodbush</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Brooks_king_road_Everglades.jpg</image:loc>
+      <image:caption>Lampropeltis getula brooksi, Everglades, Florida</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Chamaeleo_dilepis_juvenile.jpg</image:loc>
+      <image:caption>Chamaeleo dilepis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Crotalus_horridus_PA_2023_1.jpg</image:loc>
+      <image:caption>Crotalus horridus, PA 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Crotalus_lepidus_klauberi_SWRS_2.jpg</image:loc>
+      <image:caption>Crotalus lepidus, klauberi SWRS</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Crotalus_pyrrhus_AZ_2026-10.jpg</image:loc>
+      <image:caption>Crotalus pyrrhus, AZ 2026</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/IMG_2005.jpg</image:loc>
+      <image:caption>Reptiles</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/QB7A7975.jpg</image:loc>
+      <image:caption>Reptiles</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Stigmochelys_pardalis_adults_2.jpg</image:loc>
+      <image:caption>Stigmochelys pardalis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/reptiles/Tropidolaemus_subannulatus_sarawak_female.jpg</image:loc>
+      <image:caption>Tropidolaemus subannulatus, sarawak</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Agalychnis_callidryas_Sierpe_3_CR_26.jpg</image:loc>
+      <image:caption>Agalychnis callidryas, Sierpe CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Ambystoma_maculatum_NY_2025_4.jpg</image:loc>
+      <image:caption>Ambystoma maculatum, NY 2025</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Anaxyrus_americanus_CT_2020.jpg</image:loc>
+      <image:caption>Anaxyrus americanus, CT 2020</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Atelopus_varius_Orko_Bata_1_CR_26.jpg</image:loc>
+      <image:caption>Atelopus varius, Orko Bata CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Atelopus_varius_Orko_Bata_2_CR_26.jpg</image:loc>
+      <image:caption>Atelopus varius, Orko Bata CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Dendrobates_aureus_Orko_Bata_1_CR_26.jpg</image:loc>
+      <image:caption>Dendrobates aureus, Orko Bata CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Dendropsophus_ebraccatus_Sierpe_1_CR_26.jpg</image:loc>
+      <image:caption>Dendropsophus ebraccatus, Sierpe CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Ensatina_eschscholtzii_oregonensis_CA_2024_2.jpg</image:loc>
+      <image:caption>Ensatina eschscholtzii, oregonensis CA 2024</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Espadarana_prosoblepon_Orko_Bata_2_CR_26.jpg</image:loc>
+      <image:caption>Espadarana prosoblepon, Orko Bata CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Gyrinophilus_porphyriticus_Ithaca_2025.jpg</image:loc>
+      <image:caption>Gyrinophilus porphyriticus, Ithaca 2025</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Hadromophryne_natalensis_LIMP_2023.jpg</image:loc>
+      <image:caption>Hadromophryne natalensis, LIMP 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Hemisus_marmoratus_LIMP_2023.jpg</image:loc>
+      <image:caption>Hemisus marmoratus, LIMP 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Hyperolius_pusillus_Eastern_Cape_South_Africa_2022.jpg</image:loc>
+      <image:caption>Hyperolius pusillus, Eastern Cape South Africa 2022</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Kassina_senegalensis_KwaZulu_Natal_South_Africa_2023.jpg</image:loc>
+      <image:caption>Kassina senegalensis, KwaZulu Natal South Africa 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Leptopelis_natalensis_KZN_2022_2.jpg</image:loc>
+      <image:caption>Leptopelis natalensis, KZN 2022</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_2_CR_26.jpg</image:loc>
+      <image:caption>Oophaga granulifera, Sierpe CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_3_CR_26.jpg</image:loc>
+      <image:caption>Oophaga granulifera, Sierpe CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Oophaga_granulifera_Sierpe_4_CR_26.jpg</image:loc>
+      <image:caption>Oophaga granulifera, Sierpe CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Pelobatrachus_nasutus_Sabah_Malaysia_2024.jpg</image:loc>
+      <image:caption>Pelobatrachus nasutus, Sabah Malaysia 2024</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Pelophryne_minuta_Borneohighlands_2024_1.jpg</image:loc>
+      <image:caption>Pelophryne minuta, Borneohighlands 2024</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_1_CR_26.jpg</image:loc>
+      <image:caption>Phyllobates vittatus, Sierpe CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_2_CR_26.jpg</image:loc>
+      <image:caption>Phyllobates vittatus, Sierpe CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg</image:loc>
+      <image:caption>Pristimantis cruentus, stack cloudbridge CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/QB7A6177.jpg</image:loc>
+      <image:caption>Amphibians</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Rana_klauberi_lilypad.jpg</image:loc>
+      <image:caption>Rana klauberi</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Scinax_boulengeri_Sierpe_1_CR_26.jpg</image:loc>
+      <image:caption>Scinax boulengeri, Sierpe CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Staurois_latopalmatus_Sayap_Borneo_2024.jpg</image:loc>
+      <image:caption>Staurois latopalmatus, Sayap Borneo 2024</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Teratohyla_pulverata_Sierpe_1_CR_26.jpg</image:loc>
+      <image:caption>Teratohyla pulverata, Sierpe CR</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/amphibians/Tlalcohyla_picta_Belize_2025.jpg</image:loc>
+      <image:caption>Tlalcohyla picta, Belize 2025</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/Bay_breasted_warbler.jpg</image:loc>
+      <image:caption>Setophaga castanea</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/Chestnut_mandibled_toucan_1_Cloudbridge_CR_26.jpg</image:loc>
+      <image:caption>Ramphastos ambiguus, Cloudbridge, Costa Rica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/Green_honeycreeper_2_Cloudbridge_CR_26.jpg</image:loc>
+      <image:caption>Chlorophanes spiza, Cloudbridge, Costa Rica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/Lesser_violet_ear_savegre_1_CR_26.jpg</image:loc>
+      <image:caption>Colibri cyanotus, Savegre, Costa Rica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/Lessons_motmot_1_Cloudbridge_CR_26.jpg</image:loc>
+      <image:caption>Momotus lessonii, Cloudbridge, Costa Rica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/Palm_tanager_1_Cloudbridge_CR_26.jpg</image:loc>
+      <image:caption>Thraupis palmarum, Cloudbridge, Costa Rica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/QB7A0514.jpg</image:loc>
+      <image:caption>Birds</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/QB7A0801.jpg</image:loc>
+      <image:caption>Birds</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/QB7A1488.jpg</image:loc>
+      <image:caption>Birds</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/QB7A1821-Enhanced-NR.jpg</image:loc>
+      <image:caption>Birds</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/QB7A3734-Enhanced-NR.jpg</image:loc>
+      <image:caption>Birds</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/QB7A5105-Enhanced-NR.jpg</image:loc>
+      <image:caption>Birds</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/QB7A8359.jpg</image:loc>
+      <image:caption>Birds</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/QB7A8432.jpg</image:loc>
+      <image:caption>Birds</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/QB7A8449.jpg</image:loc>
+      <image:caption>Birds</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/Resplendent_Quetzal_savegre_1_CR_26.jpg</image:loc>
+      <image:caption>Pharomachrus mocinno, Savegre, Costa Rica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/Resplendent_Quetzal_savegre_2_CR_26.jpg</image:loc>
+      <image:caption>Pharomachrus mocinno, Savegre, Costa Rica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/Snow_bellied_hummingbird_Cloudbridge_CR_26.jpg</image:loc>
+      <image:caption>Saucerottia edward, Cloudbridge, Costa Rica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/Speckled_tanager_1_Cloudbridge_CR_26.jpg</image:loc>
+      <image:caption>Ixothraupis guttata, Cloudbridge, Costa Rica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/Speckled_tanager_2_Cloudbridge_CR_26.jpg</image:loc>
+      <image:caption>Ixothraupis guttata, Cloudbridge, Costa Rica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/birds/Yellow.jpg</image:loc>
+      <image:caption>Birds</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/African_elephant_KZN_2019_2.jpg</image:loc>
+      <image:caption>Loxodonta africana, KwaZulu-Natal, South Africa 2019</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Collared_Peccary_Cloudbridge_CR_26.jpg</image:loc>
+      <image:caption>Dicotyles tajacu, Cloudbridge, Costa Rica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Colugo_Singapore_2024.jpg</image:loc>
+      <image:caption>Galeopterus variegatus, Singapore 2024</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Elephants_Kruger_2018_1.jpg</image:loc>
+      <image:caption>Loxodonta africana, Kruger, South Africa 2018</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Gemsbok_Namibia_2019_1.jpg</image:loc>
+      <image:caption>Oryx gazella, Namibia 2019</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Giraffe_Namibia_2019_2.jpg</image:loc>
+      <image:caption>Giraffa, Namibia 2019</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Howler_Monkey_Belize_2019_3.jpg</image:loc>
+      <image:caption>Alouatta pigra, Belize 2019</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Hyena_Kruger_2023_3.jpg</image:loc>
+      <image:caption>Crocuta crocuta, Kruger, South Africa 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Kudu_Kruger_2018.jpg</image:loc>
+      <image:caption>Tragelaphus strepsiceros, Kruger, South Africa 2018</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Leo_Kruger_2023_1.jpg</image:loc>
+      <image:caption>Panthera leo, Kruger, South Africa 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Leo_Kruger_2023_3.jpg</image:loc>
+      <image:caption>Panthera leo, Kruger, South Africa 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Leo_Kruger_2023_4.jpg</image:loc>
+      <image:caption>Panthera leo, Kruger, South Africa 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Leo_Kruger_2023_6.jpg</image:loc>
+      <image:caption>Panthera leo, Kruger, South Africa 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Long_tailed_macaque_Sabah_3.jpg</image:loc>
+      <image:caption>Macaca fascicularis, Sabah, Malaysia</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Orangutan_Sabah_2024.jpg</image:loc>
+      <image:caption>Pongo pygmaeus, Sabah, Malaysia 2024</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Proboscis_monkey_Sabah_2024_2.jpg</image:loc>
+      <image:caption>Nasalis larvatus, Sabah, Malaysia 2024</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Rhinos_siyafunda_2023_2.jpg</image:loc>
+      <image:caption>Rhinoceros, Siyafunda, South Africa 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Skunk_CT_2020_1.jpg</image:loc>
+      <image:caption>Mephitis mephitis, Connecticut 2020</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Skunk_CT_2020_2.jpg</image:loc>
+      <image:caption>Mephitis mephitis, Connecticut 2020</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Skunk_CT_2020_3.jpg</image:loc>
+      <image:caption>Mephitis mephitis, Connecticut 2020</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/wildlife/mammals/Tarsier_Sarawak_2024.jpg</image:loc>
+      <image:caption>Cephalopachus bancanus, Sarawak, Malaysia 2024</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+  </url>
+</urlset>
