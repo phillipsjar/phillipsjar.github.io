@@ -1,7 +1,9 @@
-<!-- A small full-screen image viewer. About eighty lines, no library.
-     It picks up any <a class="lightbox" data-gallery="..."> in the page, which
-     is what scripts/prepare_photos.py writes. -->
+<!-- A small full-screen image viewer. No library. It picks up any
+     <a class="lightbox" data-gallery="..."> in the page, which is what
+     scripts/prepare_photos.py writes. Click (or tap) the photograph to zoom
+     to full resolution and scroll/drag to pan around it. -->
 <div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="Photograph viewer">
+  <button class="lb-zoom" type="button" aria-pressed="false" aria-label="Zoom in">Zoom in <span aria-hidden="true">&#43;</span></button>
   <button class="lb-close" type="button" aria-label="Close viewer">Close <span aria-hidden="true">&#10005;</span></button>
   <button class="lb-prev" type="button" aria-label="Previous photograph">&#8249;</button>
   <button class="lb-next" type="button" aria-label="Next photograph">&#8250;</button>
@@ -17,17 +19,57 @@
 (function () {
   var box   = document.getElementById("lb");
   if (!box) return;
+  var stage = box.querySelector(".lb-stage");
   var img   = box.querySelector(".lb-img");
   var cap   = box.querySelector(".lb-cap");
   var count = box.querySelector(".lb-count");
-  var group = [], at = 0, opener = null;
+  var hint  = box.querySelector(".lb-hint");
+  var zoomBtn = box.querySelector(".lb-zoom");
+  var group = [], at = 0, opener = null, zoomed = false;
+  var coarsePointer = window.matchMedia && window.matchMedia("(pointer: coarse)").matches;
 
   function links(name) {
     return Array.prototype.slice.call(
       document.querySelectorAll('a.lightbox[data-gallery="' + name + '"]'));
   }
 
+  // Zooming shows the photograph at its full resolution (up to 1800px on
+  // its long edge -- see scripts/prepare_photos.py) inside a scrollable
+  // stage, rather than fit to the window. fracX/fracY (0..1) say where in
+  // the image to center the view, so zooming in lands on what you clicked.
+  function setZoom(on, fracX, fracY) {
+    zoomed = on;
+    box.classList.toggle("is-zoomed", on);
+    zoomBtn.setAttribute("aria-pressed", on ? "true" : "false");
+    zoomBtn.setAttribute("aria-label", on ? "Zoom out" : "Zoom in");
+    zoomBtn.innerHTML = on
+      ? 'Zoom out <span aria-hidden="true">&#8722;</span>'
+      : 'Zoom in <span aria-hidden="true">&#43;</span>';
+    if (on) {
+      var fx = fracX == null ? 0.5 : fracX, fy = fracY == null ? 0.5 : fracY;
+      // Wait a frame so the image has already grown to full size before we
+      // set the scroll position against its new dimensions.
+      requestAnimationFrame(function () {
+        stage.scrollLeft = fx * img.offsetWidth  - stage.clientWidth  / 2;
+        stage.scrollTop  = fy * img.offsetHeight - stage.clientHeight / 2;
+      });
+    } else {
+      stage.scrollLeft = stage.scrollTop = 0;
+    }
+  }
+
+  function toggleZoom(e) {
+    if (zoomed) return setZoom(false);
+    var fx = 0.5, fy = 0.5;
+    if (e && e.target === img && img.clientWidth && img.clientHeight) {
+      fx = e.offsetX / img.clientWidth;
+      fy = e.offsetY / img.clientHeight;
+    }
+    setZoom(true, fx, fy);
+  }
+
   function show(i) {
+    setZoom(false);
     at = (i + group.length) % group.length;
     var a = group[at];
     var thumb = a.querySelector("img");
@@ -49,11 +91,15 @@
     opener = a;
     box.hidden = false;
     document.body.style.overflow = "hidden";
+    hint.textContent = coarsePointer
+      ? "Tap the photograph to zoom"
+      : "Esc or click the background to close  ·  ← → to browse  ·  click photo to zoom";
     show(group.indexOf(a));
     box.querySelector(".lb-close").focus();
   }
 
   function close() {
+    setZoom(false);
     box.hidden = true;
     img.removeAttribute("src");
     document.body.style.overflow = "";
@@ -67,6 +113,8 @@
 
   box.addEventListener("click", function (e) {
     if (e.target.closest(".lb-close")) return close();
+    if (e.target.closest(".lb-zoom"))  return toggleZoom();
+    if (e.target === img)              return toggleZoom(e);
     if (e.target.closest(".lb-next"))  return show(at + 1);
     if (e.target.closest(".lb-prev"))  return show(at - 1);
     // A click on the backdrop, rather than on the photograph, closes.
@@ -76,8 +124,8 @@
   document.addEventListener("keydown", function (e) {
     if (box.hidden) return;
     if (e.key === "Escape")     { e.preventDefault(); close(); }
-    if (e.key === "ArrowRight") { e.preventDefault(); show(at + 1); }
-    if (e.key === "ArrowLeft")  { e.preventDefault(); show(at - 1); }
+    if (!zoomed && e.key === "ArrowRight") { e.preventDefault(); show(at + 1); }
+    if (!zoomed && e.key === "ArrowLeft")  { e.preventDefault(); show(at - 1); }
     if (e.key === "Tab") {                       // keep focus inside the dialog
       var f = box.querySelectorAll("button");
       var first = f[0], last = f[f.length - 1];
@@ -86,8 +134,13 @@
     }
   });
 
+  // Swiping browses between photographs, but only when not zoomed in --
+  // while zoomed a swipe pans the image instead (the browser handles that
+  // natively, since .lb-stage just scrolls).
   var x0 = null;
-  box.addEventListener("touchstart", function (e) { x0 = e.touches[0].clientX; }, {passive: true});
+  box.addEventListener("touchstart", function (e) {
+    x0 = zoomed ? null : e.touches[0].clientX;
+  }, {passive: true});
   box.addEventListener("touchend", function (e) {
     if (x0 === null) return;
     var dx = e.changedTouches[0].clientX - x0;
