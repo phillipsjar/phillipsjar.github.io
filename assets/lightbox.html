@@ -1,7 +1,8 @@
 <!-- A small full-screen image viewer. No library. It picks up any
      <a class="lightbox" data-gallery="..."> in the page, which is what
-     scripts/prepare_photos.py writes. Click (or tap) the photograph to zoom
-     to full resolution and scroll/drag to pan around it. -->
+     scripts/prepare_photos.py writes. Click the photograph (or use the
+     zoom button) to zoom to full resolution, and scroll-wheel/pinch to
+     zoom continuously, then scroll or drag to pan around it. -->
 <div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="Photograph viewer">
   <button class="lb-zoom" type="button" aria-pressed="false" aria-label="Zoom in">Zoom in <span aria-hidden="true">&#43;</span></button>
   <button class="lb-close" type="button" aria-label="Close viewer">Close <span aria-hidden="true">&#10005;</span></button>
@@ -25,55 +26,97 @@
   var count = box.querySelector(".lb-count");
   var hint  = box.querySelector(".lb-hint");
   var zoomBtn = box.querySelector(".lb-zoom");
-  var group = [], at = 0, opener = null, zoomed = false;
+  var group = [], at = 0, opener = null;
   var coarsePointer = window.matchMedia && window.matchMedia("(pointer: coarse)").matches;
+
+  // Continuous zoom: `scale` ranges from 1 (fit to the window, the CSS
+  // default) up to `maxScale` (the photograph at its full saved
+  // resolution -- see scripts/prepare_photos.py, which caps images at
+  // 1800px on the long edge). `fitW`/`fitH` are the pixel size the image
+  // renders at when scale is 1, measured fresh for each photograph so the
+  // range always matches its own resolution.
+  var scale = 1, minScale = 1, maxScale = 1, fitW = 0, fitH = 0;
+  var EPS = 0.02;
+  function isZoomed() { return scale > minScale + EPS; }
 
   function links(name) {
     return Array.prototype.slice.call(
       document.querySelectorAll('a.lightbox[data-gallery="' + name + '"]'));
   }
 
-  // Zooming shows the photograph at its full resolution (up to 1800px on
-  // its long edge -- see scripts/prepare_photos.py) inside a scrollable
-  // stage, rather than fit to the window. fracX/fracY (0..1) say where in
-  // the image to center the view, so zooming in lands on what you clicked.
-  function setZoom(on, fracX, fracY) {
-    zoomed = on;
-    box.classList.toggle("is-zoomed", on);
-    zoomBtn.setAttribute("aria-pressed", on ? "true" : "false");
-    zoomBtn.setAttribute("aria-label", on ? "Zoom out" : "Zoom in");
-    zoomBtn.innerHTML = on
+  function measureFit() {
+    requestAnimationFrame(function () {
+      fitW = img.clientWidth || 1;
+      fitH = img.clientHeight || 1;
+      var nW = img.naturalWidth || fitW, nH = img.naturalHeight || fitH;
+      maxScale = Math.max(1, (nW / fitW) || 1, (nH / fitH) || 1);
+    });
+  }
+
+  // Applies a zoom level (clamped to [minScale, maxScale]). fracX/fracY
+  // (0..1 across the image) say which point to keep centered as it grows
+  // or shrinks -- that's what makes zooming, whether by click, wheel, or
+  // pinch, land on whatever you were pointing at instead of jumping to
+  // the middle every time.
+  function setScale(next, fracX, fracY) {
+    var clamped = Math.min(maxScale, Math.max(minScale, next));
+    if (Math.abs(clamped - scale) < 0.001) return;
+    scale = clamped;
+    var zoomedNow = isZoomed();
+    box.classList.toggle("is-zoomed", zoomedNow);
+    zoomBtn.setAttribute("aria-pressed", zoomedNow ? "true" : "false");
+    zoomBtn.setAttribute("aria-label", zoomedNow ? "Zoom out" : "Zoom in");
+    zoomBtn.innerHTML = zoomedNow
       ? 'Zoom out <span aria-hidden="true">&#8722;</span>'
       : 'Zoom in <span aria-hidden="true">&#43;</span>';
-    if (on) {
+    if (zoomedNow) {
+      img.style.width  = (fitW * scale) + "px";
+      img.style.height = (fitH * scale) + "px";
       var fx = fracX == null ? 0.5 : fracX, fy = fracY == null ? 0.5 : fracY;
-      // Wait a frame so the image has already grown to full size before we
-      // set the scroll position against its new dimensions.
+      // Wait a frame so the image has already resized before we set the
+      // scroll position against its new dimensions.
       requestAnimationFrame(function () {
         stage.scrollLeft = fx * img.offsetWidth  - stage.clientWidth  / 2;
         stage.scrollTop  = fy * img.offsetHeight - stage.clientHeight / 2;
       });
     } else {
+      img.style.width = img.style.height = "";
       stage.scrollLeft = stage.scrollTop = 0;
     }
   }
 
+  // Where a viewport point (clientX/clientY) currently falls within the
+  // image, as a 0..1 fraction of its width/height -- used to keep wheel-
+  // and pinch-zooming anchored under the cursor or fingers.
+  function fracAt(clientX, clientY) {
+    var r = img.getBoundingClientRect();
+    if (!r.width || !r.height) return [0.5, 0.5];
+    return [
+      Math.min(1, Math.max(0, (clientX - r.left) / r.width)),
+      Math.min(1, Math.max(0, (clientY - r.top)  / r.height))
+    ];
+  }
+
   function toggleZoom(e) {
-    if (zoomed) return setZoom(false);
-    var fx = 0.5, fy = 0.5;
-    if (e && e.target === img && img.clientWidth && img.clientHeight) {
-      fx = e.offsetX / img.clientWidth;
-      fy = e.offsetY / img.clientHeight;
-    }
-    setZoom(true, fx, fy);
+    if (isZoomed()) return setScale(minScale);
+    var f = [0.5, 0.5];
+    if (e && e.target === img) f = fracAt(e.clientX, e.clientY);
+    setScale(maxScale, f[0], f[1]);
   }
 
   function show(i) {
-    setZoom(false);
+    scale = 1; minScale = 1; maxScale = 1;
+    img.style.width = img.style.height = "";
+    box.classList.remove("is-zoomed");
+    zoomBtn.setAttribute("aria-pressed", "false");
+    zoomBtn.setAttribute("aria-label", "Zoom in");
+    zoomBtn.innerHTML = 'Zoom in <span aria-hidden="true">&#43;</span>';
     at = (i + group.length) % group.length;
     var a = group[at];
     var thumb = a.querySelector("img");
+    img.onload = measureFit;
     img.src = a.getAttribute("href");
+    if (img.complete) measureFit();
     img.alt = thumb ? thumb.getAttribute("alt") || "" : "";
     var fig = a.parentElement.querySelector("figcaption");
     cap.innerHTML = fig ? fig.innerHTML : "";
@@ -92,14 +135,14 @@
     box.hidden = false;
     document.body.style.overflow = "hidden";
     hint.textContent = coarsePointer
-      ? "Tap the photograph to zoom"
-      : "Esc or click the background to close  ·  ← → to browse  ·  click photo to zoom";
+      ? "Tap the photograph to zoom, or pinch to zoom continuously"
+      : "Esc or click the background to close  ·  ← → to browse  ·  click to zoom, or scroll/pinch to zoom continuously";
     show(group.indexOf(a));
     box.querySelector(".lb-close").focus();
   }
 
   function close() {
-    setZoom(false);
+    setScale(minScale);
     box.hidden = true;
     img.removeAttribute("src");
     document.body.style.overflow = "";
@@ -124,8 +167,8 @@
   document.addEventListener("keydown", function (e) {
     if (box.hidden) return;
     if (e.key === "Escape")     { e.preventDefault(); close(); }
-    if (!zoomed && e.key === "ArrowRight") { e.preventDefault(); show(at + 1); }
-    if (!zoomed && e.key === "ArrowLeft")  { e.preventDefault(); show(at - 1); }
+    if (!isZoomed() && e.key === "ArrowRight") { e.preventDefault(); show(at + 1); }
+    if (!isZoomed() && e.key === "ArrowLeft")  { e.preventDefault(); show(at - 1); }
     if (e.key === "Tab") {                       // keep focus inside the dialog
       var f = box.querySelectorAll("button");
       var first = f[0], last = f[f.length - 1];
@@ -134,14 +177,54 @@
     }
   });
 
+  // Trackpad pinch, and ctrl/cmd + scroll wheel (the desktop-browser
+  // convention for "zoom"), drive continuous zoom -- browsers report both
+  // as wheel events with ctrlKey set. A plain wheel keeps doing what it
+  // already did: scrolling the stage to pan when zoomed.
+  box.addEventListener("wheel", function (e) {
+    if (box.hidden || !e.ctrlKey) return;
+    e.preventDefault();
+    var f = fracAt(e.clientX, e.clientY);
+    var factor = Math.exp(-e.deltaY * 0.0018);
+    setScale(scale * factor, f[0], f[1]);
+  }, {passive: false});
+
   // Swiping browses between photographs, but only when not zoomed in --
-  // while zoomed a swipe pans the image instead (the browser handles that
-  // natively, since .lb-stage just scrolls).
+  // while zoomed a one-finger swipe pans the image instead (the browser
+  // handles that natively, since .lb-stage just scrolls). A two-finger
+  // touch pinch-zooms continuously, the touchscreen equivalent of the
+  // wheel handler above.
   var x0 = null;
+  var pinch = null; // {dist, startScale}
+
+  function touchDist(t) {
+    var dx = t[0].clientX - t[1].clientX, dy = t[0].clientY - t[1].clientY;
+    return Math.sqrt(dx * dx + dy * dy);
+  }
+
   box.addEventListener("touchstart", function (e) {
-    x0 = zoomed ? null : e.touches[0].clientX;
+    if (e.touches.length === 2) {
+      x0 = null;
+      pinch = { dist: touchDist(e.touches), startScale: scale };
+    } else {
+      pinch = null;
+      x0 = isZoomed() ? null : e.touches[0].clientX;
+    }
   }, {passive: true});
+
+  box.addEventListener("touchmove", function (e) {
+    if (pinch && e.touches.length === 2) {
+      e.preventDefault();
+      var d = touchDist(e.touches);
+      var mid = [(e.touches[0].clientX + e.touches[1].clientX) / 2,
+                 (e.touches[0].clientY + e.touches[1].clientY) / 2];
+      var f = fracAt(mid[0], mid[1]);
+      setScale(pinch.startScale * (d / pinch.dist), f[0], f[1]);
+    }
+  }, {passive: false});
+
   box.addEventListener("touchend", function (e) {
+    if (e.touches.length < 2) pinch = null;
     if (x0 === null) return;
     var dx = e.changedTouches[0].clientX - x0;
     if (Math.abs(dx) > 50) show(at + (dx < 0 ? 1 : -1));

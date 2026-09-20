@@ -154,7 +154,13 @@ div.quarto-post .listing-description { color: $ink-soft; }
 }
 .lb[hidden] { display: none; }
 
-.lb-stage { margin: 0; max-width: 92vw; max-height: 86vh; text-align: center; }
+.lb-stage {
+  margin: 0; max-width: 92vw; max-height: 86vh; text-align: center;
+  /* Let one-finger drags keep scrolling/panning natively, but hand
+     two-finger pinches to lightbox.html's own continuous-zoom handler
+     instead of letting the browser pinch-zoom the whole page. */
+  touch-action: pan-x pan-y;
+}
 .lb-img {
   max-width: 92vw;
   max-height: 78vh;
