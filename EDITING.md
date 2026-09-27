@@ -115,18 +115,37 @@ To add a section, make the folder and add its name to `SECTIONS` at the top of
 `scripts/prepare_photos.py`. That list also sets the order they appear in.
 Empty sections are skipped, which is why Birds isn't showing yet.
 
-**A video.** Open `videos.qmd`, copy one of the commented blocks, and uncomment
-the Video line in `_quarto.yml`.
-
-**A video inside a research post.** Put the file in `assets/video/` and write:
+**A video, on `videos.qmd` or inside a research post.** Put the file in
+`assets/video/` and write:
 
 ```
 ::: {.video-figure}
-{{< video ../assets/video/your-clip.mp4 >}}
+```{=html}
+<video controls preload="metadata" playsinline poster="../assets/video/thumbs/your-clip.jpg">
+<source src="../assets/video/your-clip.mp4" type="video/mp4">
+</video>
+```
 
 **Bold lead-in** Then the caption.
 :::
 ```
+
+(Drop the `../` on both paths if you're writing this in `videos.qmd` itself,
+rather than a page inside `research/`.)
+
+Deliberately a plain `<video>` tag, not Quarto's `{{< video >}}` shortcode --
+that shortcode always pulls in Video.js, a full JS video-player library,
+for every single clip, which is exactly what was making the video and photo
+tabs feel laggy. A plain tag has no such overhead, and `preload="metadata"`
+means the browser only fetches enough to know the video's size, not the
+whole file, until the reader actually presses play or scrolls it into view.
+
+Then run `python3 scripts/build_video_schema.py`. It grabs a real frame from
+the file for the poster/thumbnail (so you don't have to make one by hand --
+the `poster=` path above just needs to already point at where it will put
+it) and fills in the licensing and search metadata for the new clip on every
+page it appears on, between the `<!-- VIDEO-SCHEMA:START/END -->` markers.
+Safe to re-run any time; it only touches those markers.
 
 Clips wrapped this way start playing and looping when the reader scrolls them
 into view, and pause when they scroll away. They are always silent, the player

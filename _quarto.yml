@@ -8,6 +8,7 @@ project:
     - robots.txt
     - CNAME
     - sitemap-images.xml
+    - assets/video/thumbs/
   # Only .qmd files become pages. Without this, README.md and EDITING.md would
   # be published as pages on the live site.
   render:

@@ -31,7 +31,11 @@ image: ../assets/images/research-thumbs/why-lose-a-lung.jpg
 Read [here](do-tadpoles-have-lungs.qmd) to learn about tadpole air breathing, where I talk about the fact that, contrary to public opinion, tadpoles do have lungs. 
 
 ::: {.video-figure}
-{{< video ../assets/video/spea-intermontana-breath-comparison.mp4 >}}
+```{=html}
+<video controls preload="metadata" playsinline poster="../assets/video/thumbs/spea-intermontana-breath-comparison.jpg">
+<source src="../assets/video/spea-intermontana-breath-comparison.mp4" type="video/mp4">
+</video>
+```
 
 ***Spea intermontana* tadpole breathing air in slow motion.**
 :::

@@ -173,7 +173,11 @@ But there's also a flip side of surface tension, which most people never think
 about. Tiny aquatic animals experience surface tension as a ceiling.
 
 ::: {.video-figure}
-{{< video ../assets/video/pond-snail-under-surface-film.mp4 >}}
+```{=html}
+<video controls preload="metadata" playsinline poster="../assets/video/thumbs/pond-snail-under-surface-film.jpg">
+<source src="../assets/video/pond-snail-under-surface-film.mp4" type="video/mp4">
+</video>
+```
 
 **A snail walks along the underside of the surface tension**
 A snail walks along the underside of the surface, using the tension as a physical surface to travel along.
@@ -187,7 +191,11 @@ For a tadpole just days out of the egg, the size of a grain of rice, that ceilin
 Watch a young tadpole try to breathe at the surface:
 
 ::: {.video-figure}
-{{< video ../assets/video/rana-clamitans-breach-bounce.mp4 >}}
+```{=html}
+<video controls preload="metadata" playsinline poster="../assets/video/thumbs/rana-clamitans-breach-bounce.jpg">
+<source src="../assets/video/rana-clamitans-breach-bounce.mp4" type="video/mp4">
+</video>
+```
 
 **A small green frog tadpole (*Rana clamitans*) tries to breach**
 It swims up to the surface, mouth-first, but the surface doesn't break. Instead, it stretches under the impact and springs back, sending the tadpole down without a mouthful of air.
@@ -198,7 +206,11 @@ It swims up to the surface, mouth-first, but the surface doesn't break. Instead,
 We found that large tadpoles (a couple inches long) breathed a lot like whales, people, and other animals at least that big. 
 
 ::: {.video-figure}
-{{< video ../assets/video/rana-clamitans-bubble-suck.mp4 >}}
+```{=html}
+<video controls preload="metadata" playsinline poster="../assets/video/thumbs/rana-clamitans-bubble-suck.jpg">
+<source src="../assets/video/rana-clamitans-bubble-suck.mp4" type="video/mp4">
+</video>
+```
 
 **An older, much larger *Rana clamitans* tadpole successfully breaches**
 
@@ -221,13 +233,21 @@ bubble sucking.
 <!-- column widths track each clip's shape (1152x928 and 620x848) so the
      two players finish the same height; delete the style to go 50/50 -->
 ::: {.video-figure}
-{{< video ../assets/video/xenopus-laevis-bubble-suck.mp4 >}}
+```{=html}
+<video controls preload="metadata" playsinline poster="../assets/video/thumbs/xenopus-laevis-bubble-suck.jpg">
+<source src="../assets/video/xenopus-laevis-bubble-suck.mp4" type="video/mp4">
+</video>
+```
 
 **A young *Rana sylvatica* tadpole bubble sucking**
 :::
 
 ::: {.video-figure}
-{{< video ../assets/video/rana-sylvatica-bubble-suck.mp4 >}}
+```{=html}
+<video controls preload="metadata" playsinline poster="../assets/video/thumbs/rana-sylvatica-bubble-suck.jpg">
+<source src="../assets/video/rana-sylvatica-bubble-suck.mp4" type="video/mp4">
+</video>
+```
 **A small *Xenopus laevis* tadpole bubble sucking**
 
 :::
@@ -238,7 +258,11 @@ underside of the surface and starts to suck on it like a rock, holding itself in
 tadpole sucks the surface itself downward, pulling a pocket of the air-water interface (a *bubble*) into its mouth. The bubble stays connected to the open air above, and the lungs (which were full before the breath began) empty mid-suck, allowing the air to be mostly refreshed. Once the mouth is full of air and the lungs are empty, the tadpole can simply close its mouth. That pinches the bubble off from the surface, and the air can then be squeezed through the glottis and into the lungs. The whole sequence, from attachment to a full breath, takes well under a second.
 
 ::: {.video-figure}
-{{< video ../assets/video/xenopus-laevis-bubble-suck-detail.mp4 >}}
+```{=html}
+<video controls preload="metadata" playsinline poster="../assets/video/thumbs/xenopus-laevis-bubble-suck-detail.jpg">
+<source src="../assets/video/xenopus-laevis-bubble-suck-detail.mp4" type="video/mp4">
+</video>
+```
 
 **A small *Xenopus laevis* tadpole bubble sucking**
 Look closely and you can see each phase of bubble sucking. Watch the lungs empty mid-breath and then fill afterwards.
@@ -263,7 +287,11 @@ way tadpoles do. Pond snails, which breathe through a pulmonary siphon rather
 than a mouth, also pull the surface down and pinch off a bubble. 
 
 ::: {.video-figure}
-{{< video ../assets/video/snail-bubble-suck.mp4 >}}
+```{=html}
+<video controls preload="metadata" playsinline poster="../assets/video/thumbs/snail-bubble-suck.jpg">
+<source src="../assets/video/snail-bubble-suck.mp4" type="video/mp4">
+</video>
+```
 
 **A pond snail (*Physa heterostrophus*) bubble-sucking**
 No mouth involved this time: the siphon does the same job, pulling the

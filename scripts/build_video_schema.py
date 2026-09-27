@@ -2,8 +2,9 @@
 """
 Video structured-data pipeline.
 
-Scans every .qmd file for {.video-figure} blocks containing a
-{{< video ... >}} shortcode, and for each unique video file:
+Scans every .qmd file for {.video-figure} blocks containing a plain
+<video><source src="..."></video> tag (see EDITING.md), and for each
+unique video file:
 
 1. THUMBNAIL. Grabs a real frame from the file (ffmpeg) into
    assets/video/thumbs/<name>.jpg, if one doesn't already exist.
@@ -62,7 +63,11 @@ def strip_md(text):
 
 BLOCK_RE = re.compile(
     r"::: *\{\.video-figure[^}]*\}\s*\n"
-    r"\{\{<\s*video\s+([^\s>]+)\s*>\}\}\s*\n+"
+    r"```\{=html\}\s*\n"
+    r"<video[^>]*>\s*\n"
+    r"<source src=\"([^\"]+)\"[^>]*>\s*\n"
+    r"</video>\s*\n"
+    r"```\s*\n+"
     r"(.*?)\n:::",
     re.S,
 )

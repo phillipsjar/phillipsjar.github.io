@@ -30,8 +30,8 @@ image: ../assets/images/research-thumbs/bubble-guts.jpg
 {
  "@context": "https://schema.org",
  "@type": "VideoObject",
- "name": "A whole school of tadpoles surfacing for air at once, then sinking back down",
- "description": "Filmed with a 600mm lens at a roadside pond in Limpopo, South Africa. Each school is roughly the size of a beach ball. More in Bubble guts.",
+ "name": "Schismaderma tadpoles schooling",
+ "description": "Filmed with a 600mm lens at a roadside pond in Limpopo, South Africa. There were at least ten schools like this one visible at the same pond, each about the size of a basketball.",
  "contentUrl": "https://tadpology.com/assets/video/schismaderma-breathing-sequence.mp4",
  "thumbnailUrl": "https://tadpology.com/assets/video/thumbs/schismaderma-breathing-sequence.jpg",
  "creator": {
@@ -107,7 +107,11 @@ While in the field, I saw several amazing behaviors. When you see *Schismaderma*
 When we went back to the same ponds in the early morning, however, we found that the various schools had collapsed into a much larger sheet of tadpoles that covered the surface of the small pond. Every single tadpole had its crest pressed up against the surface, just like people had hypothesized. Why? Oxygen levels crash overnight in many ponds, because photosynthesis stops. With such low oxygen levels, these lungless tadpoles did indeed seem to be using their headcrests for respiration. 
 
 ::: {.video-figure}
-{{< video ../assets/video/schismaderma-surface-sheet.mp4 >}}
+```{=html}
+<video controls preload="metadata" playsinline poster="../assets/video/thumbs/schismaderma-surface-sheet.jpg">
+<source src="../assets/video/schismaderma-surface-sheet.mp4" type="video/mp4">
+</video>
+```
 
 **A pond's surface, packed edge to edge**
 By early morning the separate schools had merged into one continuous sheet, every tadpole's crest pressed against the underside of the surface film.
@@ -125,7 +129,11 @@ One day, while driving on a highway up in Limpopo, the most Northern, tropical p
 I pulled out my birding lens and tried to get some pictures of the behavior, including this series:
 
 ::: {.video-figure}
-{{< video ../assets/video/schismaderma-breathing-sequence.mp4 >}}
+```{=html}
+<video controls preload="metadata" playsinline poster="../assets/video/thumbs/schismaderma-breathing-sequence.jpg">
+<source src="../assets/video/schismaderma-breathing-sequence.mp4" type="video/mp4">
+</video>
+```
 
 ***Schismaderma* tadpoles schooling**
 Filmed with a 600mm lens at a roadside pond in Limpopo, South Africa. There
@@ -155,7 +163,11 @@ Was that air breathing?? It sure looked like it; check it out compared to a regu
 
 
 ::: {.video-figure .half}
-{{< video ../assets/video/spea-intermontana-breath-comparison.mp4 >}}
+```{=html}
+<video controls preload="metadata" playsinline poster="../assets/video/thumbs/spea-intermontana-breath-comparison.jpg">
+<source src="../assets/video/spea-intermontana-breath-comparison.mp4" type="video/mp4">
+</video>
+```
 
 ***Spea intermontana* tadpole breathing air**
 *Spea intermontana*, filmed for comparison. Visually, this is exactly what
@@ -220,7 +232,11 @@ The reason we think this, is that *Schismaderma* tadpoles don't respond to low o
 This matters because the surface layer of water, even really hypoxic, gross water, is always perfectly oxygenated from the air that it's touching. This boundary layer is often super thin, just a few molecules thick, but that's where the crest is touching. As they sit there, the tadpoles suck water in and out of the nostrils, moving water across the crest, just like water is pulled across a gill. 
 
 ::: {.video-figure}
-{{< video ../assets/video/schismaderma-crest-ventilation.mp4 >}}
+```{=html}
+<video controls preload="metadata" playsinline poster="../assets/video/thumbs/schismaderma-crest-ventilation.jpg">
+<source src="../assets/video/schismaderma-crest-ventilation.mp4" type="video/mp4">
+</video>
+```
 
 **Ventilating the crest**
 Watch the nostrils: water is pulled in and pushed back out, passing it across the crest the same way a gill pulls water across its own surface.
