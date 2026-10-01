@@ -2,14 +2,15 @@
      <a class="lightbox" data-gallery="..."> in the page, which is what
      scripts/prepare_photos.py writes. Click the photograph (or use the
      zoom button) to zoom to full resolution, and scroll-wheel/pinch to
-     zoom continuously, then scroll or drag to pan around it. -->
+     zoom continuously. Once zoomed, click and drag (or scroll, or swipe on
+     a touchscreen) to move around the photograph. -->
 <div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="Photograph viewer">
   <button class="lb-zoom" type="button" aria-pressed="false" aria-label="Zoom in">Zoom in <span aria-hidden="true">&#43;</span></button>
   <button class="lb-close" type="button" aria-label="Close viewer">Close <span aria-hidden="true">&#10005;</span></button>
   <button class="lb-prev" type="button" aria-label="Previous photograph">&#8249;</button>
   <button class="lb-next" type="button" aria-label="Next photograph">&#8250;</button>
   <figure class="lb-stage">
-    <img class="lb-img" alt="">
+    <img class="lb-img" alt="" draggable="false">
     <figcaption class="lb-cap"></figcaption>
   </figure>
   <div class="lb-count" aria-hidden="true"></div>
@@ -136,7 +137,7 @@
     document.body.style.overflow = "hidden";
     hint.textContent = coarsePointer
       ? "Tap the photograph to zoom, or pinch to zoom continuously"
-      : "Esc or click the background to close  ·  ← → to browse  ·  click to zoom, or scroll/pinch to zoom continuously";
+      : "Esc or click the background to close  ·  ← → to browse  ·  click or scroll/pinch to zoom  ·  drag to move around";
     show(group.indexOf(a));
     box.querySelector(".lb-close").focus();
   }
@@ -154,9 +155,47 @@
     if (a) { e.preventDefault(); open(a); }
   });
 
+  // Click and drag to move around a zoomed photograph. Mouse and pen only:
+  // on a touchscreen a one-finger swipe already pans natively, because
+  // .lb-stage is just a scrolling box. A press that moves more than a few
+  // pixels counts as a drag, and the click the browser fires when it ends
+  // is swallowed, so letting go after a drag doesn't also zoom back out.
+  // (A drag on a photograph that isn't zoomed in has nothing to move, but it
+  // still isn't a click, so it doesn't zoom in either.)
+  var drag = null, justDragged = false;
+  img.addEventListener("pointerdown", function (e) {
+    justDragged = false;
+    if (e.pointerType === "touch" || e.button !== 0) return;
+    drag = { x: e.clientX, y: e.clientY, pan: isZoomed(),
+             left: stage.scrollLeft, top: stage.scrollTop, moved: false };
+    img.setPointerCapture(e.pointerId);
+    e.preventDefault();                       // no text selection while dragging
+  });
+  img.addEventListener("pointermove", function (e) {
+    if (!drag) return;
+    var dx = e.clientX - drag.x, dy = e.clientY - drag.y;
+    if (!drag.moved && Math.abs(dx) + Math.abs(dy) > 4) {
+      drag.moved = true;
+      if (drag.pan) box.classList.add("is-dragging");
+    }
+    if (drag.moved && drag.pan) {
+      stage.scrollLeft = drag.left - dx;
+      stage.scrollTop  = drag.top  - dy;
+    }
+  });
+  function endDrag() {
+    if (!drag) return;
+    justDragged = drag.moved;
+    drag = null;
+    box.classList.remove("is-dragging");
+  }
+  img.addEventListener("pointerup", endDrag);
+  img.addEventListener("pointercancel", endDrag);
+
   box.addEventListener("click", function (e) {
     if (e.target.closest(".lb-close")) return close();
     if (e.target.closest(".lb-zoom"))  return toggleZoom();
+    if (e.target === img && justDragged) { justDragged = false; return; }
     if (e.target === img)              return toggleZoom(e);
     if (e.target.closest(".lb-next"))  return show(at + 1);
     if (e.target.closest(".lb-prev"))  return show(at - 1);
