@@ -4,6 +4,7 @@ subtitle: "Re-evolution of air breathing in a lungless tadpole"
 description: "Once lost, lungs have never re-evolved, so far as we know. When I saw a lungless tadpole breathing air in the wild, I couldn't believe my eyes. Then I looked inside..."
 order: 3
 image: ../assets/images/research-thumbs/bubble-guts.jpg
+paper: 'Phillips, JR and MC Womack. (in press). Bubble guts: re-evolution of air breathing in a lungless tadpole. *Ecology*.'
 ---
 
 <!-- VIDEO-SCHEMA:START -->

@@ -4,6 +4,7 @@ subtitle: "Lungless tadpoles and life in fast water"
 description: "While most tadpoles have lungs, some definitely don't. Read on to learn about the crazy habitats where a tadpole might not want to breathe air."
 order: 2
 image: ../assets/images/research-thumbs/why-lose-a-lung.jpg
+paper: 'Phillips, JR, PH Dias, and MC Womack. (2025). [Lungless tadpoles breathe fresh air into hypotheses for tetrapod lung loss and trait regains.](https://drive.google.com/file/d/1PZB4Vz54pCSAdVQSWUlmjAtCG5JA9dvL/view?usp=sharing) *Evolution*.'
 ---
 
 <!-- VIDEO-SCHEMA:START -->

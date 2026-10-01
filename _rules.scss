@@ -114,6 +114,36 @@ div.quarto-post .listing-title { font-size: 1.3rem; margin-bottom: 0.35rem; }
 div.quarto-post .listing-subtitle { color: $ink-soft; font-size: 0.98rem; }
 div.quarto-post .listing-description { color: $ink-soft; }
 
+/* Research page only (research-listing.ejs.md adds .research-listing).
+   A title goes accent green while the pointer is over anything in its entry
+   that leads to the post: thumbnail, title, subtitle or blurb. */
+.research-listing .listing-title a { transition: color 0.15s ease; }
+.research-listing .listing-title a:hover,
+.research-listing .quarto-post:has(a.no-external:hover) .listing-title a { color: $accent; }
+
+/* The paper a post is based on, under its blurb (the `paper:` line in the
+   post's front matter). */
+.research-listing .listing-paper {
+  margin-top: 0.8rem;
+  font-size: 0.86rem;
+  line-height: 1.5;
+  color: $ink-soft;
+}
+.research-listing .listing-paper p { margin: 0; }
+.research-listing .listing-paper a {
+  color: $ink-soft;
+  text-decoration: underline;
+  text-decoration-color: $rule;
+  text-underline-offset: 2px;
+}
+.research-listing .listing-paper a:hover { color: $accent; text-decoration-color: $accent; }
+/* A custom listing template gets Quarto's ...-container-custom wrapper instead
+   of ...-container-default, which drops the 2em right margin the default one
+   has on wide screens. Put it back so the page keeps its old width. */
+@include media-breakpoint-up(lg) {
+  .quarto-listing-container-custom { margin-right: 2em; }
+}
+
 /* --- Photography album grid --------------------------------------------- */
 .album-grid {
   display: grid;

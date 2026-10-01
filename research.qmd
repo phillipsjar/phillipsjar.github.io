@@ -3,7 +3,7 @@ title: "Research"
 subtitle: "Check out some quick writeups of my various research projects."
 listing:
   contents: research
-  type: default
+  template: research-listing.ejs.md
   sort: "order"
   fields: [image, title, subtitle, description]
   date-format: ""
@@ -12,4 +12,4 @@ listing:
 toc: false
 ---
 
-Everything below is written for any curious person. Technical versions are available upon request. Also feel free to check out [Google Scholar]({{< var scholar >}}), and my full publication list on my [CV](cv.qmd#publications).
+Everything below is written for any curious person. Also feel free to check out [Google Scholar]({{< var scholar >}}), and my full publication list on my [CV](cv.qmd#publications).
