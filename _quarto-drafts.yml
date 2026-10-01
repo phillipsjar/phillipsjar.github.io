@@ -1,0 +1,7 @@
+# Only used when you ask for it:  quarto preview --profile drafts
+# Shows pages marked `draft: true` (like the Education FAQs) as if they were
+# published, so you can read them while writing. A normal `quarto render`,
+# and the GitHub build that publishes the site, never use this file, so
+# drafts stay blank on the live site until their `draft: true` line goes.
+website:
+  draft-mode: visible

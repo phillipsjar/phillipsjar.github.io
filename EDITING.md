@@ -40,6 +40,13 @@ edit; the script fills in blanks but never overwrites what you've written.
 **A research post.** Copy `research/_template.qmd` to `research/your-title.qmd`
 and fill it in. It appears on the Research index automatically.
 
+**Drafts.** Any page with `draft: true` in its front matter is left off the
+live site (it publishes as a blank page, and stays out of listings, search
+and the sitemap). The Education FAQs in `education/faq-*.qmd` start that way.
+To read drafts as if they were live while you write, run
+`quarto preview --profile drafts` (that switches on `_quarto-drafts.yml`). To
+publish one, delete its `draft: true` line.
+
 **Photographs.** There are two photo pages and they work slightly differently.
 
 *Tadpole specimen library* is searchable and grouped by family. Drop files
