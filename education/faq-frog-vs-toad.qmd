@@ -5,3 +5,64 @@ description: ""
 order: 1
 draft: true      # unpublished until this line is deleted
 ---
+
+
+This is maybe the most commonly asked question that I get from people when they find out what I do. Unfortunately, the answer somewhat depends who you ask. 
+
+But I encourage you to read on, because the answer actually reveals a lot about how we think about language and nature. English is not the only language that separates frogs and toads. Instead, dozens of languages across different regions and areas make the same distinction, from spanish (rana/sapo) to japanese (カエル/ガマ) to quechua (k'ayra/hamp'atu).
+
+So what is this distinction? 
+
+There are two ways of thinking about frogs and toads 
+
+1: Skin.
+
+Here, frogs and toads are different animals. Both have roughly the same shape of course, but their skin is quite different. Toads are dry and bumpy, while frogs are smooth and moist. "Toads" tend to be more terrestrial, while frogs are more aquatic.
+
+insert diarama of frogs
+- ranids
+- hylids
+- megophryids
+- others?
+
+
+insert diarama of "toads"
+- a couple bufonids
+- scaphiopus
+- others?
+
+This is what most people mean, across different languages and dialects, when they say a "toad". There are exceptions to this, of course. For example, the Suriname "toad", as it is commonly called, is a very bizarre animal. It has somewhat rough skin (and a crazy style of giving birth by popping babies out of its back [insert link to youtube video]), but is totally aquatic. I'd never think to call this animal a toad, but many people do. 
+
+And that leads us to the second way of defining a toad. 
+
+2. Evolutionarily. 
+
+There are two ways of defining groups of animals. The first is called a "diagnostic definition": this is a practical definition built to make it easy to apply to unknown things. For example: a diagnostic definition of a person might be: a warm-blooded animal with only two legs, two feet, and no thick fur or feathers on most of its body. That diagnostic definition works pretty well in the vast majority of cases. This is actually Plato[insert wikipedia link]'s definition for a person. For a toad, you might say that a toad is a four-legged animal without a tail, with a simple egg-type, and with dry skin. In other words, skin-based definition was [bold/ital]diagnostic.
+
+When one of Plato's students, Diogenes[link], brought in a chicken he had plucked of feathers and declared "here is your man", Plato's diagnostic definition was put to a test. Indeed, this was a challenge to diagnostic definitions in general that could be applied to our dry toad. Can you make a frog enough to be a toad? 
+
+
+The second approach to definitions of animal groups was solved by Darwin: evolutionary groups. Once we understand that all living being are related, we can split up that family tree into what are called "natural groups". It turns out that there is one group of frogs we call the Bufonidae (Bufo means toad in latin) that all have dry skin and warty bumps. We call this group the "true toads", and they include many of the most common "toads" around the world. 
+
+Bufonids are extremely common and well-represented on every continent except Australia and Antarctica. Even in Australia, invasive Cane Toads brought in to control the invasive cane beetle are now a common pest in the northern provinces. 
+
+For most frog experts, we mean a member of the bufonid family when we say "toad". That means that toads are just a kind of frog. Think rectangles and squares: all squares are rectangles, but not all rectanges are squares. All toads are frogs, but not all frogs are toads. 
+
+Something interesting about this definition is that it excludes many dry-skinned frogs that independently evolved the same skin and habitats as true toads. On the same note, some bufonids (true toads) have evolved to be more aquatic, with wet or smooth skin. An evolutionary definition counts these as frogs regardless of their skin. Instead, we know they are toads because their DNA is most similar to other true toads. We define them by their place in the tree of life, not the bumpiness of their skin.
+
+Insert pictures of Atelopus, scaphiopus, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+Returning to the Plato example, what's a better definition of a "human"? Well, the evolutionary answer is that a person is anyone whose mother was a human, or the most recent shared ancestor of all living humans and all that person's descendents. But, there's a catch: that definition doesn't help us decide who counts to begin with. Modern science uses genetic tools to tell who animals are closely related, and human genetics shows that all living people are relatively closely related and clearly the same species.
+
+
