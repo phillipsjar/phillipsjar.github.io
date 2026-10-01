@@ -12,4 +12,4 @@ listing:
 toc: false
 ---
 
-Everything below is written for any curious person. Also feel free to check out [Google Scholar]({{< var scholar >}}), and my full publication list on my [CV](cv.qmd#publications).
+Click on a title below to read up on one of my research projects. Below, you can also find links to formal research articles related to each project. Also feel free to check out [Google Scholar]({{< var scholar >}}) or [CV](cv.qmd#publications).
