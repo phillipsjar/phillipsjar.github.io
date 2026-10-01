@@ -4,7 +4,10 @@ subtitle: "Re-evolution of air breathing in a lungless tadpole"
 description: "Once lost, lungs have never re-evolved, so far as we know. When I saw a lungless tadpole breathing air in the wild, I couldn't believe my eyes. Then I looked inside..."
 order: 3
 image: ../assets/images/research-thumbs/bubble-guts.jpg
-paper: 'Phillips, JR and MC Womack. (in press). Bubble guts: re-evolution of air breathing in a lungless tadpole. *Ecology*.'
+papers:
+  - cite: "Phillips, JR and MC Womack. (in press). Bubbleguts: re-evolution of air breathing in a lungless tadpole. *Ecology*."
+  - cite: "Phillips, JR, GK Nicolau, SS Ngwenya, EA Jackson, and MC Womack. (2024). Habitat and respiratory strategy effects on hypoxia performance in anuran tadpoles. *Integrative and Comparative Biology*."
+    url: "https://www.researchgate.net/publication/379862165_Habitat_and_respiratory_strategy_effects_on_hypoxia_performance_in_anuran_tadpoles"
 ---
 
 <!-- VIDEO-SCHEMA:START -->
@@ -256,6 +259,6 @@ A little basic math backs up the buoyancy idea. Calculating off the size and wei
 
 ---
 
-*Phillips, JR and MC Womack. Bubble-guts: re-evolution of air breathing in a
-lungless tadpole. Submitted to* Ecology *(The Scientific Naturalist),
-currently in revision. I'll swap in the full citation once it's out.*
+*Phillips, JR and MC Womack (in press). Bubbleguts: re-evolution of air
+breathing in a lungless tadpole.* Ecology *(The Scientific Naturalist). I'll
+swap in the full citation once it's out.*

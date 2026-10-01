@@ -121,22 +121,56 @@ div.quarto-post .listing-description { color: $ink-soft; }
 .research-listing .listing-title a:hover,
 .research-listing .quarto-post:has(a.no-external:hover) .listing-title a { color: $accent; }
 
-/* The paper a post is based on, under its blurb (the `paper:` line in the
-   post's front matter). */
-.research-listing .listing-paper {
-  margin-top: 0.8rem;
+/* Each entry is a .research-entry wrapping Quarto's usual .quarto-post row,
+   so a post's papers can sit under the whole entry, across the full width,
+   below both the picture and the text. The line that used to close off each
+   .quarto-post moves down to close off the entry instead. */
+.research-listing div.quarto-post {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.research-listing .research-entry {
+  border-bottom: 1px solid $border-color;
+  margin-bottom: 1.5em;
+  padding-bottom: 1.6rem;
+}
+.research-listing .research-entry:last-of-type { border-bottom: none; }
+
+/* "Relevant research papers": the `papers:` list in each post's front
+   matter. The whole citation is the link. */
+.research-listing .listing-papers {
+  margin-top: 1.4rem;
   font-size: 0.86rem;
   line-height: 1.5;
   color: $ink-soft;
 }
-.research-listing .listing-paper p { margin: 0; }
-.research-listing .listing-paper a {
+.research-listing .listing-papers-title {
+  display: block;
+  margin-bottom: 0.45rem;
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
   color: $ink-soft;
+}
+.research-listing .listing-papers p { margin: 0; }
+.research-listing .listing-papers ul { list-style: none; margin: 0; padding: 0; }
+.research-listing .listing-papers li {
+  margin: 0 0 0.45rem;
+  padding-left: 1.4em;
+  text-indent: -1.4em;            /* hanging indent, like a reference list */
+}
+.research-listing .listing-papers a {
+  color: $ink-soft;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+.research-listing .listing-papers a:hover {
+  color: $accent;
   text-decoration: underline;
-  text-decoration-color: $rule;
   text-underline-offset: 2px;
 }
-.research-listing .listing-paper a:hover { color: $accent; text-decoration-color: $accent; }
 /* A custom listing template gets Quarto's ...-container-custom wrapper instead
    of ...-container-default, which drops the 2em right margin the default one
    has on wide screens. Put it back so the page keeps its old width. */

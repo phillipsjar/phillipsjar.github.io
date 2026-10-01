@@ -4,7 +4,13 @@ subtitle: "Lungless tadpoles and life in fast water"
 description: "While most tadpoles have lungs, some definitely don't. Read on to learn about the crazy habitats where a tadpole might not want to breathe air."
 order: 2
 image: ../assets/images/research-thumbs/why-lose-a-lung.jpg
-paper: 'Phillips, JR, PH Dias, and MC Womack. (2025). [Lungless tadpoles breathe fresh air into hypotheses for tetrapod lung loss and trait regains.](https://drive.google.com/file/d/1PZB4Vz54pCSAdVQSWUlmjAtCG5JA9dvL/view?usp=sharing) *Evolution*.'
+papers:
+  - cite: "Phillips, JR, PH Dias, and MC Womack. (2025). Lungless tadpoles breathe fresh air into hypotheses for tetrapod lung loss and trait regain. *Evolution*."
+    url: "https://drive.google.com/file/d/1PZB4Vz54pCSAdVQSWUlmjAtCG5JA9dvL/view?usp=sharing"
+  - cite: "Phillips, JR, GK Nicolau, SS Ngwenya, EA Jackson, and MC Womack. (2024). Habitat and respiratory strategy effects on hypoxia performance in anuran tadpoles. *Integrative and Comparative Biology*."
+    url: "https://www.researchgate.net/publication/379862165_Habitat_and_respiratory_strategy_effects_on_hypoxia_performance_in_anuran_tadpoles"
+  - cite: "Phillips, JR, J Reissig, and GK Nicolau. (2023). Notes on lung development in South African ghost frogs (Anura: Heleophrynidae). *African Journal of Herpetology*."
+    url: "https://www.researchgate.net/publication/370254213_Notes_on_lung_development_in_South_African_ghost_frogs_Anura_Heleophrynidae"
 ---
 
 <!-- VIDEO-SCHEMA:START -->
@@ -204,7 +210,7 @@ After losing them, lungs have never come back. Check out [this post](bubble-guts
 ---
 
 *Phillips, JR, PH Dias, and MC Womack (2025). Lungless tadpoles breathe fresh
-air into hypotheses for tetrapod lung loss and trait regains.* Evolution
+air into hypotheses for tetrapod lung loss and trait regain.* Evolution
 *79(12), 2776-2790.*
 
 *Phillips, JR, GK Nicolau, SS Ngwenya, EA Jackson, and MC Womack (2024).

@@ -4,7 +4,9 @@ subtitle: "How a jar of \"unidentified\" tadpoles became a new genus"
 description: "No, not like the Ben Stiller movie. A jar of strange tadpoles sat in a museum collection for years before anyone realized what they were looking at. Read on to see how a closer look turned an odd specimen into a brand new genus of frog."
 order: 4
 image: ../assets/images/research-thumbs/lost-and-found-in-the-museum.jpg
-paper: 'Dias, PH, JR Phillips, MO Pereyra, DB Means, A Haas, and PJR Kok. (2024). [The remarkable larval morphology of *Rhaebo nasicus* (Werner, 1903) with the erection of a new bufonid genus and insights into the evolution of suctorial tadpoles.](https://www.researchgate.net/publication/384455390_The_remarkable_larval_morphology_of_Rhaebo_nasicus_Werner_1903_Amphibia_Anura_Bufonidae_with_the_erection_of_a_new_bufonid_genus_and_insights_into_the_evolution_of_suctorial_tadpoles) *Zoological Letters*.'
+papers:
+  - cite: "Dias, PH, JR Phillips, MO Pereyra, DB Means, A Haas, and PJR Kok. (2024). The remarkable larval morphology of *Rhaebo nasicus* (Werner, 1903) (Amphibia: Anura: Bufonidae) with the erection of a new bufonid genus and insights into the evolution of suctorial tadpoles. *Zoological Letters*."
+    url: "https://www.researchgate.net/publication/384455390_The_remarkable_larval_morphology_of_Rhaebo_nasicus_Werner_1903_Amphibia_Anura_Bufonidae_with_the_erection_of_a_new_bufonid_genus_and_insights_into_the_evolution_of_suctorial_tadpoles"
 ---
 
 When you hear about species discovery, most people, especially those born in the US, probably think of a rugged explorer cresting over an alien horizon. Setting foot where no "man" has stepped before. This was never really true, but it has never been less true than today. More often, species are "discovered" in jars on shelves, deep in the recesses of natural history collections. 

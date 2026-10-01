@@ -3,11 +3,20 @@
 
    It reproduces the markup of Quarto's built-in "default" listing
    (share/projects/website/listing/item-default.ejs.md in Quarto 1.10), so
-   the page looks the same as it did with `type: default`, with two changes:
+   each entry looks the same as it did with `type: default`, with two
+   changes:
      - the list carries a .research-listing class, so CSS can target the
        Research page without touching the Education page's listing;
-     - a post whose front matter has a `paper:` line gets it shown as a
-       citation under its blurb.
+     - each entry is wrapped in a .research-entry block, and if the post's
+       front matter has a `papers:` list, it is shown under the whole entry
+       (picture and text) as "Relevant research papers".
+
+   A `papers:` entry looks like this; leave `url` out for a paper with no
+   link yet (it is then shown as plain text):
+
+     papers:
+       - cite: "Phillips, JR and MC Womack. (2025). Title. *Journal*."
+         url: "https://..."
 
    Shows image, title, subtitle and description, the same fields research.qmd
    used to ask for. */
@@ -16,7 +25,9 @@
 
 <% for (const item of items) { %>
 
-::: {.quarto-post .image-right <%= metadataAttrs(item) %>}
+::: {.research-entry <%= metadataAttrs(item) %>}
+
+::: {.quarto-post .image-right}
 
 ```{=html}
 <div class="thumbnail"><a href="<%- item.path %>" class="no-external">
@@ -47,14 +58,6 @@
 
 <% } %>
 
-<% if (item.paper) { %>
-
-::: {.listing-paper}
-<%= item.paper %>
-:::
-
-<% } %>
-
 :::
 
 ::: {.metadata}
@@ -65,6 +68,18 @@
 ```
 
 :::
+
+:::
+
+<%
+if (Array.isArray(item.papers) && item.papers.length) {
+  const lines = item.papers.map(p =>
+    "- " + (p.url ? "[" + p.cite + "](" + p.url + ")" : p.cite));
+  print("\n::: {.listing-papers}\n\n" +
+        "[Relevant research papers]{.listing-papers-title}\n\n" +
+        lines.join("\n") + "\n\n:::\n");
+}
+%>
 
 :::
 
