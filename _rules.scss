@@ -218,8 +218,13 @@ div.quarto-post .listing-description { color: $ink-soft; }
   width: auto;
   height: auto;
   margin: 0 auto;
-  cursor: zoom-out;
+  /* Zoomed in, the photograph can be clicked and dragged around (a plain
+     click still zooms back out), so the cursor says "grab". */
+  cursor: grab;
+  user-select: none;
+  -webkit-user-select: none;
 }
+.lb.is-dragging .lb-img { cursor: grabbing; }
 .lb-cap {
   margin-top: 0.9rem;
   font-size: 0.95rem;
