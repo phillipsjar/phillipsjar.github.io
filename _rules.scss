@@ -205,6 +205,67 @@ div.quarto-post .listing-description { color: $ink-soft; }
 }
 .album-grid .count { display: block; font-family: $font-family-sans-serif; font-size: 0.82rem; font-weight: 400; color: $ink-soft; }
 
+/* --- Dioramas: small labelled photo grids (Education FAQs) --------------- */
+/* Write one as a div of plain markdown images with captions, with optional
+   full-width labels between the rows:
+
+     :::: {.diorama}
+     ::: {.diorama-label}
+     Frogs
+     :::
+     ![Common name, *Species name*](../assets/images/faq/x.jpg){fig-alt="..."}
+     ...
+     ::::
+
+   Three photos to a row; add .four for four, or .pairs for two columns.
+   The photos are cut to 3:2 beforehand, so nothing gets cropped here. */
+.diorama {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem 0.8rem;
+  margin: 2rem 0 2.2rem;
+}
+.diorama.four  { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.diorama.pairs {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  max-width: 560px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.diorama-label {
+  grid-column: 1 / -1;
+  margin: 0.4rem 0 -0.4rem;
+  font-family: $headings-font-family;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: $ink;
+}
+.diorama.pairs .diorama-label { grid-column: auto; }
+.diorama-label p { margin: 0; }
+.diorama .quarto-figure,
+.diorama figure,
+.diorama figure p { margin: 0; }
+.diorama img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border-radius: 2px;
+}
+.diorama figcaption {
+  margin-top: 0.4rem;
+  font-size: 0.84rem;
+  line-height: 1.35;
+  text-align: left;
+  color: $ink-soft;
+}
+.diorama figcaption em { color: $ink; }
+@media (max-width: 620px) {
+  .diorama { gap: 0.8rem 0.5rem; }
+  .diorama.four { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .diorama figcaption { font-size: 0.76rem; }
+}
+
 /* --- Footer --------------------------------------------------------------- */
 /* "Usage & licensing" is set up in _quarto.yml as a Quarto nav item, so its
    link works from pages inside research/ and education/ too. Nav items come

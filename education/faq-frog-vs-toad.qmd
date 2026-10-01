@@ -16,15 +16,29 @@ There are two ways of thinking about the differences between frogs and toads.
 
 Here, frogs and toads are different animals. Both have roughly the same shape, of course, but their skin is quite different. Toads are dry and bumpy, while frogs are smooth and moist. "Toads" also tend to be more terrestrial, while frogs are more aquatic.
 
-::: {.todo}
-Diorama of frogs: ranids, hylids, others? From your own photos: *Rana klauberi*, *Staurois latopalmatus*, *Agalychnis callidryas*, *Dendropsophus ebraccatus*.
+:::: {.diorama}
+::: {.diorama-label}
+Frogs: smooth, moist skin
 :::
 
-::: {.todo}
-Diorama of "toads": a couple of bufonids, *Scaphiopus*, others? From your own photos: *Anaxyrus americanus*, *Pelophryne minuta*. There's no adult spadefoot in the wildlife photos yet.
+![American bullfrog, *Rana catesbeiana*](../assets/images/faq/rana-catesbeiana.jpg){fig-alt="A large olive-brown bullfrog with a bright green face, sitting on a pale surface"}
+
+![Red-eyed treefrog, *Agalychnis callidryas*](../assets/images/faq/agalychnis-callidryas.jpg){fig-alt="A bright green tree frog with red eyes and long orange-toed legs, stretched along a twig"}
+
+![Natal ghost frog, *Hadromophryne natalensis*](../assets/images/faq/hadromophryne-natalensis.jpg){fig-alt="A smooth, wet, olive-and-black mottled frog sitting on a wet rock"}
+
+::: {.diorama-label}
+"Toads": dry, bumpy skin
 :::
 
-This is what most people mean, across different languages and dialects, when they say "toad". There are exceptions to this, of course. For example, the Suriname "toad", as it is commonly called, is a very bizarre animal. It has somewhat rough skin (and a crazy style of giving birth, with the babies popping [out of the mother's back](https://www.youtube.com/watch?v=SgROaJY6Xnk), but it is totally aquatic. I'd never think to call this animal a toad, but many people do.
+![Mesoamerican cane toad, *Rhinella horribilis*](../assets/images/faq/rhinella-horribilis.jpg){fig-alt="A large, warty, tan toad with big glands behind its eyes, sitting on a rock"}
+
+![American toad, *Anaxyrus americanus*](../assets/images/faq/anaxyrus-americanus.jpg){fig-alt="A warty orange-and-brown toad sitting on a log"}
+
+![Eastern spadefoot, *Scaphiopus holbrookii*](../assets/images/faq/scaphiopus-holbrookii.jpg){fig-alt="A plump brown spadefoot with large golden eyes, sitting on wet ground"}
+::::
+
+This is what most people mean, across different languages and dialects, when they say "toad". There are exceptions to this, of course. For example, the Suriname "toad", as it is commonly called, is a very bizarre animal. It has somewhat rough skin (and a crazy style of giving birth, with the babies popping [out of the mother's back](https://www.youtube.com/watch?v=SgROaJY6Xnk)), but it is totally aquatic. I'd never think to call this animal a toad, but many people do.
 
 And that leads us to a bigger question: what actually makes a good definition?
 
@@ -48,9 +62,27 @@ Something interesting about this definition is that it excludes many dry-skinned
 
 On the same note, some bufonids (true toads) have evolved to be more aquatic, with wet or smooth skin. An evolutionary definition counts these as toads regardless of their skin. Instead, we know they are toads because their DNA is most similar to other true toads. We define them by their place in the tree of life, not the bumpiness of their skin.
 
-::: {.todo}
-Pictures of *Atelopus*, *Scaphiopus*, etc. From your own photos: *Atelopus varius* (a smooth, brightly colored true toad) and *Pelobatrachus nasutus* (a megophryid "horned frog").
+:::: {.diorama}
+::: {.diorama-label}
+True toads (Bufonidae) that don't look the part
 :::
+
+![Variable harlequin toad, *Atelopus varius*](../assets/images/faq/atelopus-varius.jpg){fig-alt="A smooth black toad with bright yellow-orange markings walking over leaf litter"}
+
+![*Rentapia everetti*, a Bornean tree toad](../assets/images/faq/rentapia-everetti.jpg){fig-alt="A green toad with dark blotches sitting in moss"}
+
+![*Pelophryne minuta*, a tiny Bornean toad](../assets/images/faq/pelophryne-minuta.jpg){fig-alt="A small brown toad with banded legs, seen from above on a green leaf"}
+
+::: {.diorama-label}
+Toad-like, but not true toads
+:::
+
+![Eastern spadefoot, *Scaphiopus holbrookii* (Scaphiopodidae)](../assets/images/faq/scaphiopus-holbrookii.jpg){fig-alt="A plump brown spadefoot with large golden eyes, sitting on wet ground"}
+
+![*Breviceps fuscus*, a rain frog (Brevicipitidae)](../assets/images/faq/breviceps-fuscus.jpg){fig-alt="A round, black, rough-skinned frog against a dark background"}
+
+![*Chiromantis xerampelina*, a foam-nest tree frog (Rhacophoridae)](../assets/images/faq/chiromantis-xerampelina.jpg){fig-alt="A rough-skinned brown tree frog with a large dark eye, perched on weathered wood"}
+::::
 
 If this sounds familiar, it's the same reason you might hear that birds are dinosaurs. A robin doesn't look much like a *T. rex*, but birds sit squarely inside the dinosaur family tree, so evolutionarily, they are dinosaurs. Toads are frogs for exactly the same reason.
 
