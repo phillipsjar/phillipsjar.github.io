@@ -2,7 +2,7 @@
      <a class="lightbox" data-gallery="..."> in the page, which is what
      scripts/prepare_photos.py writes. Click the photograph (or use the
      zoom button) to zoom to full resolution, and scroll-wheel/pinch to
-     zoom continuously. Once zoomed, click and drag (or scroll, or swipe on
+     zoom continuously, up to four times past full resolution. Once zoomed, click and drag (or scroll, or swipe on
      a touchscreen) to move around the photograph. -->
 <div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="Photograph viewer">
   <button class="lb-zoom" type="button" aria-pressed="false" aria-label="Zoom in">Zoom in <span aria-hidden="true">&#43;</span></button>
@@ -30,13 +30,18 @@
   var group = [], at = 0, opener = null;
   var coarsePointer = window.matchMedia && window.matchMedia("(pointer: coarse)").matches;
 
-  // Continuous zoom: `scale` ranges from 1 (fit to the window, the CSS
-  // default) up to `maxScale` (the photograph at its full saved
-  // resolution -- see scripts/prepare_photos.py, which caps images at
-  // 1800px on the long edge). `fitW`/`fitH` are the pixel size the image
-  // renders at when scale is 1, measured fresh for each photograph so the
-  // range always matches its own resolution.
-  var scale = 1, minScale = 1, maxScale = 1, fitW = 0, fitH = 0;
+  // Continuous zoom: `scale` runs from 1 (fit to the window, the CSS
+  // default) through `fullScale` (the photograph at its full saved
+  // resolution, one image pixel per screen pixel -- see
+  // scripts/prepare_photos.py, which caps images at 1800px on the long edge)
+  // and on up to `maxScale`, OVERZOOM times further than that. Past full
+  // resolution there is no more detail, the pixels just get bigger, but it
+  // lets a reader blow a small feature up to fill the screen. Clicking zooms
+  // to full resolution; scroll-wheel and pinch go the rest of the way.
+  // `fitW`/`fitH` are the size the image renders at when scale is 1,
+  // measured fresh for each photograph so the range matches its resolution.
+  var OVERZOOM = 4;
+  var scale = 1, minScale = 1, fullScale = 1, maxScale = 1, fitW = 0, fitH = 0;
   var EPS = 0.02;
   function isZoomed() { return scale > minScale + EPS; }
 
@@ -50,7 +55,8 @@
       fitW = img.clientWidth || 1;
       fitH = img.clientHeight || 1;
       var nW = img.naturalWidth || fitW, nH = img.naturalHeight || fitH;
-      maxScale = Math.max(1, (nW / fitW) || 1, (nH / fitH) || 1);
+      fullScale = Math.max(1, (nW / fitW) || 1, (nH / fitH) || 1);
+      maxScale = fullScale * OVERZOOM;
     });
   }
 
@@ -102,11 +108,14 @@
     if (isZoomed()) return setScale(minScale);
     var f = [0.5, 0.5];
     if (e && e.target === img) f = fracAt(e.clientX, e.clientY);
-    setScale(maxScale, f[0], f[1]);
+    // Click goes to full resolution. If that's barely bigger than fitting
+    // the window (a small original), double the size instead, so a click
+    // always visibly zooms.
+    setScale(fullScale >= 1.25 ? fullScale : 2, f[0], f[1]);
   }
 
   function show(i) {
-    scale = 1; minScale = 1; maxScale = 1;
+    scale = 1; minScale = 1; fullScale = 1; maxScale = 1;
     img.style.width = img.style.height = "";
     box.classList.remove("is-zoomed");
     zoomBtn.setAttribute("aria-pressed", "false");
