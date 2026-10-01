@@ -205,6 +205,18 @@ div.quarto-post .listing-description { color: $ink-soft; }
 }
 .album-grid .count { display: block; font-family: $font-family-sans-serif; font-size: 0.82rem; font-weight: 400; color: $ink-soft; }
 
+/* --- Footer --------------------------------------------------------------- */
+/* "Usage & licensing" is set up in _quarto.yml as a Quarto nav item, so its
+   link works from pages inside research/ and education/ too. Nav items come
+   unstyled as links; this makes it look like the footer's other links. */
+.nav-footer .footer-items { margin: 0; }
+.nav-footer .nav-link {
+  display: inline;
+  padding: 0;
+  text-decoration: underline;
+}
+.nav-footer .nav-link p { display: inline; margin: 0; }
+
 /* --- The full-screen image viewer ----------------------------------------- */
 /* Markup and behaviour live in assets/lightbox.html. Top to bottom: the
    buttons (pinned to the top corners), the stage the photograph sits in,

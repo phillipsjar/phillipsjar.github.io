@@ -50,7 +50,11 @@ website:
 
   page-footer:
     left: "© 2026 Jackson Phillips. All photographs are my own."
-    center: "[Usage & licensing](license.qmd)"
+    # A list item (not a markdown link) so Quarto resolves license.qmd from the
+    # site root on every page, including ones inside research/ and education/.
+    center:
+      - text: "Usage & licensing"
+        href: license.qmd
     right: "Built with [Quarto](https://quarto.org)"
 
 format:
