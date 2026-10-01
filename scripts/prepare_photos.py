@@ -106,6 +106,7 @@ NOT_A_NAME = {
     "side", "ventral", "dorsal", "lateral", "oral", "live", "tad", "sp",
     "spp", "larva", "larvae", "specimen",
     "zoom", "detail", "macro", "mouthparts", "mouth", "oral", "disc",
+    "close", "group", "left", "right", "l", "r",
 }
 
 
@@ -345,12 +346,35 @@ REF_COLS = ["file", "specimen_id", "common_name", "scientific_name", "genus",
 CATALOGUE = re.compile(r"^[A-Z]{1,2}\d{4,8}$")
 INSTITUTION = re.compile(r"^[A-Z]{2,6}$")
 
+# Museum codes that come in front of a plain catalogue number, as in
+# "KU_193492", "USNM_316556", "UTA_DPL_2424d", "UTA_A_4711" or "PEM_T597".
+# A fixed list rather than "any capitals" so that your own photo numbering
+# ("Amietia_fuscigula_JRP_1") is never mistaken for a specimen. Add to it if a
+# new collection turns up.
+INSTITUTIONS = {
+    "AMNH", "ANSP", "BMNH", "CAS", "CFBH", "CM", "FMNH", "KU", "LACM", "LSUMZ",
+    "MCZ", "MNHN", "MVZ", "MZUSP", "NCSM", "NHMUK", "NMK", "PEM", "QCAZ",
+    "ROM", "SAM", "TM", "TNHC", "UF", "UMMZ", "USNM", "UTA", "UWBM", "ZMB",
+}
+
 
 def guess_specimen(stem):
     """Pull a museum catalogue number out of a filename, and say which tokens
     it used so they can be kept out of the locality."""
     parts = [x for x in re.split(r"[_\-\s]+", stem) if x]
     for i, part in enumerate(parts):
+        if part in INSTITUTIONS:
+            # Short collection prefixes ("DPL", "A", "PAN") may sit between
+            # the institution and the number.
+            j = i + 1
+            while (j < len(parts) and parts[j].isalpha() and parts[j].isupper()
+                   and len(parts[j]) <= 4 and parts[j] not in INSTITUTIONS):
+                j += 1
+            if j < len(parts) and any(c.isdigit() for c in parts[j]):
+                return " ".join(parts[i:j + 1]), set(parts[i:j + 1])
+            # Institution with the number missing ("Rhinella_x_AMNH_.jpg"):
+            # no ID, but don't let "AMNH" end up as the locality either.
+            return "", set(parts[i:j])
         if CATALOGUE.match(part):
             if i and INSTITUTION.match(parts[i - 1]):
                 return f"{parts[i - 1]} {part}", {parts[i - 1], part}
@@ -370,11 +394,14 @@ def load_reference(folder):
     # Taxonomy already known for a name, so that renaming a file, or adding
     # another photograph of a species you have already classified, doesn't make
     # you type it twice. Built before any pruning, so a rename carries over.
-    known = {}
+    known, known_species = {}, {}
     for r in rows.values():
         for key in (r["scientific_name"].lower(), r["genus"].lower()):
             if key and r["family"] and key not in known:
                 known[key] = r
+        sp = r["scientific_name"].lower()
+        if sp and r["family"] and sp not in known_species:
+            known_species[sp] = r
 
     here = [p.name for p in sorted(folder.glob("*.jpg")) if p.name != TADPOLE_COVER]
     changed = False
@@ -388,9 +415,17 @@ def load_reference(folder):
             blank = dict.fromkeys(REF_COLS, "")
             blank.update(file=name, specimen_id=spec, scientific_name=sci,
                          genus=genus, location=where)
-            match = known.get(sci.lower()) or known.get(genus.lower())
+            exact = known_species.get(sci.lower()) if sci else None
+            match = exact or known.get(sci.lower()) or known.get(genus.lower())
             if match:
-                for col in ("common_name", "family", "order", "class"):
+                # Family and above carry over from any photo of the same
+                # genus, but a common name only from the same species:
+                # "African clawed frog" is right for Xenopus laevis and wrong
+                # for Xenopus tropicalis.
+                cols = ("family", "order", "class")
+                if exact:
+                    cols = ("common_name",) + cols
+                for col in cols:
                     blank[col] = match[col]
                 blank["source"] = match["source"] or "carried over"
             rows[name] = blank

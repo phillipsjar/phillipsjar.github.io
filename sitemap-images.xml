@@ -4,6 +4,11 @@
   <url>
     <loc>https://tadpology.com/tadpoles.html</loc>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Astylosternus_occidentalis.jpg</image:loc>
+      <image:caption>Astylosternus occidentalis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Cardioglossa.jpg</image:loc>
       <image:caption>Cardioglossa sp</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
@@ -29,6 +34,21 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptopelis_kivuensis_CAS_204614_dorsal.jpg</image:loc>
+      <image:caption>Leptopelis kivuensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptopelis_kivuensis_CAS_204614_lateral.jpg</image:loc>
+      <image:caption>Leptopelis kivuensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptopelis_kivuensis_CAS_204614_ventral.jpg</image:loc>
+      <image:caption>Leptopelis kivuensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Leptopelis_natalensis_tadpole_side.jpg</image:loc>
       <image:caption>Leptopelis natalensis</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
@@ -39,12 +59,42 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Nyctibates_corrugatus_UTA_DPL_5438_dorsal.jpg</image:loc>
+      <image:caption>Nyctibates corrugatus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Nyctibates_corrugatus_UTA_DPL_5438_lateral.jpg</image:loc>
+      <image:caption>Nyctibates corrugatus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Nyctibates_corrugatus_UTA_DPL_5438_lateral_close.jpg</image:loc>
+      <image:caption>Nyctibates corrugatus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Nyctibates_corrugatus_UTA_DPL_5438_ventral.jpg</image:loc>
+      <image:caption>Nyctibates corrugatus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Nyctibates_corrugatus_UTA_DPL_5438_ventral_close.jpg</image:loc>
+      <image:caption>Nyctibates corrugatus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Trichobatrachus_robustus_1.jpg</image:loc>
       <image:caption>Trichobatrachus robustus</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Trichobatrachus_robustus_2.jpg</image:loc>
+      <image:caption>Trichobatrachus robustus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Trichobatrachus_robustus_UTA_DPL_2403a.jpg</image:loc>
       <image:caption>Trichobatrachus robustus</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
@@ -79,6 +129,36 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Atelopus_zeteki_AMNH_168498_group.jpg</image:loc>
+      <image:caption>Atelopus zeteki</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Atelopus_zeteki_AMNH_168498_lateral.jpg</image:loc>
+      <image:caption>Atelopus zeteki</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Atelopus_zeteki_AMNH_168498_ventral.jpg</image:loc>
+      <image:caption>Atelopus zeteki</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Nannophryne_cophotis_USNM_301955_dorsal.jpg</image:loc>
+      <image:caption>Nannophryne cophotis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Nannophryne_cophotis_USNM_301955_lateral.jpg</image:loc>
+      <image:caption>Nannophryne cophotis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Nannophryne_cophotis_USNM_301955_ventral.jpg</image:loc>
+      <image:caption>Nannophryne cophotis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Rhaebo_caeruleostictus.jpg</image:loc>
       <image:caption>Rhaebo caeruleostictus</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
@@ -94,6 +174,21 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Rhinella_amabilis_dorsal.jpg</image:loc>
+      <image:caption>Rhinella amabilis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Rhinella_beebei_USNM_248006_dorsal.jpg</image:loc>
+      <image:caption>Rhinella beebei</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Rhinella_beebei_USNM_248006_ventral.jpg</image:loc>
+      <image:caption>Rhinella beebei</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Rhinella_chrysophora_1.jpg</image:loc>
       <image:caption>Rhinella chrysophora</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
@@ -105,6 +200,11 @@
     </image:image>
     <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Rhinella_veraguensis.jpg</image:loc>
+      <image:caption>Rhinella veraguensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Rhinella_veraguensis_AMNH.jpg</image:loc>
       <image:caption>Rhinella veraguensis</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
@@ -134,8 +234,98 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Sclerophrys_capensis_PEM_A14178_dorsal.jpg</image:loc>
+      <image:caption>Sclerophrys capensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Sclerophrys_capensis_PEM_A14178_lateral.jpg</image:loc>
+      <image:caption>Sclerophrys capensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Sclerophrys_capensis_PEM_A14178_ventral.jpg</image:loc>
+      <image:caption>Sclerophrys capensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Sclerophrys_garmani_PEM_T685_dorsal.jpg</image:loc>
+      <image:caption>Sclerophrys garmani</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Sclerophrys_garmani_PEM_T685_lateral.jpg</image:loc>
+      <image:caption>Sclerophrys garmani</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Sclerophrys_garmani_PEM_T685_ventral.jpg</image:loc>
+      <image:caption>Sclerophrys garmani</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Sclerophrys_lemairii_PEM_T555_dorsal.jpg</image:loc>
+      <image:caption>Sclerophrys lemairii</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Sclerophrys_lemairii_PEM_T555_lateral.jpg</image:loc>
+      <image:caption>Sclerophrys lemairii</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Sclerophrys_lemairii_PEM_T555_ventral.jpg</image:loc>
+      <image:caption>Sclerophrys lemairii</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Sclerophrys_sp_KZN_South_Africa_2023.jpg</image:loc>
       <image:caption>Sclerophrys sp, KZN South Africa 2023</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Vandijkophrynus_amatolicus_PEM_T493_dorsal.jpg</image:loc>
+      <image:caption>Vandijkophrynus amatolicus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Vandijkophrynus_amatolicus_PEM_T493_lateral.jpg</image:loc>
+      <image:caption>Vandijkophrynus amatolicus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Vandijkophrynus_amatolicus_PEM_T493_ventral.jpg</image:loc>
+      <image:caption>Vandijkophrynus amatolicus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Vandijkophrynus_angusticeps_PEM_T483_dorsal.jpg</image:loc>
+      <image:caption>Vandijkophrynus angusticeps</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Vandijkophrynus_angusticeps_PEM_T483_lateral.jpg</image:loc>
+      <image:caption>Vandijkophrynus angusticeps</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Vandijkophrynus_angusticeps_PEM_T483_ventral.jpg</image:loc>
+      <image:caption>Vandijkophrynus angusticeps</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Vandijkophrynus_gariepensis_PEM_A13564_dorsal.jpg</image:loc>
+      <image:caption>Vandijkophrynus gariepensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Vandijkophrynus_gariepensis_PEM_A13564_lateral.jpg</image:loc>
+      <image:caption>Vandijkophrynus gariepensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Vandijkophrynus_gariepensis_PEM_A13564_ventral.jpg</image:loc>
+      <image:caption>Vandijkophrynus gariepensis</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
@@ -149,8 +339,53 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Werneria_bambutensis_UTA_DPL_2340d.jpg</image:loc>
+      <image:caption>Werneria bambutensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Cochranella_viridescens_UTA_A_4711_dorsal.jpg</image:loc>
+      <image:caption>Cochranella viridescens</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Cochranella_viridescens_UTA_A_4711_lateral.jpg</image:loc>
+      <image:caption>Cochranella viridescens</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Cochranella_viridescens_UTA_A_4711_ventral.jpg</image:loc>
+      <image:caption>Cochranella viridescens</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ceratophrys_calcarata_KU_193492_dorsal.jpg</image:loc>
+      <image:caption>Ceratophrys calcarata</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ceratophrys_calcarata_KU_193492_lateral_l.jpg</image:loc>
+      <image:caption>Ceratophrys calcarata</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ceratophrys_calcarata_KU_193492_lateral_r.jpg</image:loc>
+      <image:caption>Ceratophrys calcarata</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ceratophrys_calcarata_KU_193492_ventral.jpg</image:loc>
+      <image:caption>Ceratophrys calcarata</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Chacophrys.jpg</image:loc>
       <image:caption>Chacophrys pierottii</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Lepidobatrachus_laevis_KU_209362.jpg</image:loc>
+      <image:caption>Lepidobatrachus laevis</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
@@ -164,7 +399,27 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Conraua_robusta_UTA_DPL_2424d_dorsal.jpg</image:loc>
+      <image:caption>Conraua robusta</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Conraua_robusta_UTA_DPL_2424d_lateral.jpg</image:loc>
+      <image:caption>Conraua robusta</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Thoropa_petropolitana.jpg</image:loc>
+      <image:caption>Thoropa petropolitana</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Thoropa_petropolitana_AMNH_104007_lateral.jpg</image:loc>
+      <image:caption>Thoropa petropolitana</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Thoropa_petropolitana_AMNH_104007_ventral.jpg</image:loc>
       <image:caption>Thoropa petropolitana</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
@@ -214,8 +469,193 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Charadrahyla_altipotens_KU_139682_dorsal.jpg</image:loc>
+      <image:caption>Charadrahyla altipotens</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Charadrahyla_altipotens_KU_139682_lateral.jpg</image:loc>
+      <image:caption>Charadrahyla altipotens</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Charadrahyla_altipotens_KU_139682_ventral.jpg</image:loc>
+      <image:caption>Charadrahyla altipotens</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Cyclorana_longipes_KU_223474_dorsal.jpg</image:loc>
+      <image:caption>Cyclorana longipes</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Cyclorana_longipes_KU_223474_lateral.jpg</image:loc>
+      <image:caption>Cyclorana longipes</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Cyclorana_longipes_KU_223474_ventral.jpg</image:loc>
+      <image:caption>Cyclorana longipes</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Duellmanohyla_chamulae_KU.jpg</image:loc>
+      <image:caption>Duellmanohyla chamulae</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Duellmanohyla_ignicolor_KU_139891_lateral.jpg</image:loc>
+      <image:caption>Duellmanohyla ignicolor</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Duellmanohyla_ignicolor_KU_139891_ventral.jpg</image:loc>
+      <image:caption>Duellmanohyla ignicolor</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Duellmanohyla_salvavida.jpg</image:loc>
+      <image:caption>Duellmanohyla salvavida</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Duellmanohyla_salvavida_KU_211261_dorsal.jpg</image:loc>
+      <image:caption>Duellmanohyla salvavida</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Duellmanohyla_salvavida_KU_211261_lateral.jpg</image:loc>
+      <image:caption>Duellmanohyla salvavida</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Duellmanohyla_salvavida_KU_211261_ventral.jpg</image:loc>
+      <image:caption>Duellmanohyla salvavida</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Duellmanohyla_schmidtorum_KU.jpg</image:loc>
+      <image:caption>Duellmanohyla schmidtorum</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Duellmanohyla_soralia_KU.jpg</image:loc>
+      <image:caption>Duellmanohyla soralia</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Duellmanohyla_uranochroa_KU_lateral.jpg</image:loc>
+      <image:caption>Duellmanohyla uranochroa</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ecnomiohyla_salvaje_KU_195551_dorsal.jpg</image:loc>
+      <image:caption>Ecnomiohyla salvaje</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ecnomiohyla_salvaje_KU_195551_lateral.jpg</image:loc>
+      <image:caption>Ecnomiohyla salvaje</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ecnomiohyla_salvaje_KU_195551_mouth.jpg</image:loc>
+      <image:caption>Ecnomiohyla salvaje</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ecnomiohyla_salvaje_KU_195551_ventral.jpg</image:loc>
+      <image:caption>Ecnomiohyla salvaje</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Exerodonta_sumichrasti_KU_128728_dorsal.jpg</image:loc>
+      <image:caption>Exerodonta sumichrasti</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Exerodonta_sumichrasti_KU_128728_lateral.jpg</image:loc>
+      <image:caption>Exerodonta sumichrasti</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Exerodonta_sumichrasti_KU_128728_ventral.jpg</image:loc>
+      <image:caption>Exerodonta sumichrasti</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Exerodonta_sumichrasti_KU_128728_ventral_close.jpg</image:loc>
+      <image:caption>Exerodonta sumichrasti</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Hyloscirtus_armatus_USNM_120960_dorsal.jpg</image:loc>
+      <image:caption>Hyloscirtus armatus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Hyloscirtus_armatus_USNM_120960_lateral.jpg</image:loc>
+      <image:caption>Hyloscirtus armatus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Hyloscirtus_armatus_USNM_120960_ventral.jpg</image:loc>
+      <image:caption>Hyloscirtus armatus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Hyloscirtus_armatus_USNM_120960_ventral_close.jpg</image:loc>
+      <image:caption>Hyloscirtus armatus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Hyloscirtus_colymba_KU_116779_lateral.jpg</image:loc>
+      <image:caption>Hyloscirtus colymba</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Isthmohyla_angustilineata_KU_104121.jpg</image:loc>
+      <image:caption>Isthmohyla angustilineata</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Isthmohyla_pseudopuma_KU_104299_dorsal.jpg</image:loc>
+      <image:caption>Isthmohyla pseudopuma</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Isthmohyla_pseudopuma_KU_104299_lateral.jpg</image:loc>
+      <image:caption>Isthmohyla pseudopuma</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Isthmohyla_pseudopuma_KU_104299_ventral.jpg</image:loc>
+      <image:caption>Isthmohyla pseudopuma</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Isthmohyla_tica.jpg</image:loc>
       <image:caption>Isthmohyla tica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Isthmohyla_tica_KU_104127.jpg</image:loc>
+      <image:caption>Isthmohyla tica</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Litoria_booroolongensis_KU_180048_dorsal.jpg</image:loc>
+      <image:caption>Litoria booroolongensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Litoria_booroolongensis_KU_180048_ventral.jpg</image:loc>
+      <image:caption>Litoria booroolongensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Litoria_iris_AMNH_80834.jpg</image:loc>
+      <image:caption>Litoria iris</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
@@ -229,8 +669,78 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Myersiohyla_chamaeleo_USNM_562722_dorsal.jpg</image:loc>
+      <image:caption>Myersiohyla chamaeleo</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Myersiohyla_chamaeleo_USNM_562722_lateral.jpg</image:loc>
+      <image:caption>Myersiohyla chamaeleo</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Nyctimystes_cheesmani_tad_side.jpg</image:loc>
       <image:caption>Nyctimystes cheesmani</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Plectrohyla_exquisita_USNM_513494_lateral.jpg</image:loc>
+      <image:caption>Plectrohyla exquisita</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Plectrohyla_exquisita_USNM_513494_ventral.jpg</image:loc>
+      <image:caption>Plectrohyla exquisita</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pseudis_paradoxa_KU_128129.jpg</image:loc>
+      <image:caption>Pseudis paradoxa</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ptychohyla_hypomycter_UTA_48077_dorsal.jpg</image:loc>
+      <image:caption>Ptychohyla hypomycter</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ptychohyla_hypomycter_UTA_48077_lateral.jpg</image:loc>
+      <image:caption>Ptychohyla hypomycter</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Ptychohyla_hypomycter_UTA_48077_ventral.jpg</image:loc>
+      <image:caption>Ptychohyla hypomycter</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Rheohyla_miotympanum_KU_60071_dorsal.jpg</image:loc>
+      <image:caption>Rheohyla miotympanum</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Rheohyla_miotympanum_KU_60071_lateral.jpg</image:loc>
+      <image:caption>Rheohyla miotympanum</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Rheohyla_miotympanum_KU_60071_ventral.jpg</image:loc>
+      <image:caption>Rheohyla miotympanum</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Tepuihyla_edelcae_USNM_550380_dorsal.jpg</image:loc>
+      <image:caption>Tepuihyla edelcae</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Tepuihyla_edelcae_USNM_550380_lateral.jpg</image:loc>
+      <image:caption>Tepuihyla edelcae</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Tepuihyla_edelcae_USNM_550380_ventral.jpg</image:loc>
+      <image:caption>Tepuihyla edelcae</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
@@ -239,13 +749,93 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptodactylus_lithonaetus_UTA_A_23509_dorsal.jpg</image:loc>
+      <image:caption>Leptodactylus lithonaetus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptodactylus_lithonaetus_UTA_A_23509_lateral.jpg</image:loc>
+      <image:caption>Leptodactylus lithonaetus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptodactylus_lithonaetus_UTA_A_23509_ventral.jpg</image:loc>
+      <image:caption>Leptodactylus lithonaetus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptodactylus_lithonaetus_UTA_A_23509_ventral_close.jpg</image:loc>
+      <image:caption>Leptodactylus lithonaetus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptodactylus_melanotus_KU_139663_dorsal.jpg</image:loc>
+      <image:caption>Leptodactylus melanotus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptodactylus_melanotus_KU_139663_lateral.jpg</image:loc>
+      <image:caption>Leptodactylus melanotus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptodactylus_melanotus_KU_139663_ventral.jpg</image:loc>
+      <image:caption>Leptodactylus melanotus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Mixophyes_balbus_AMNH_92751_lateral.jpg</image:loc>
+      <image:caption>Mixophyes balbus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Mixophyes_balbus_AMNH_92751_ventral.jpg</image:loc>
+      <image:caption>Mixophyes balbus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Leptobrachella_pelodytoides.jpg</image:loc>
       <image:caption>Leptobrachella pelodytoides</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Leptobrachella_pelodytoides_AMNH_29413.jpg</image:loc>
+      <image:caption>Leptobrachella pelodytoides</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Oreolalax_rhodostigmatus_KU_311760_dorsal.jpg</image:loc>
+      <image:caption>Oreolalax rhodostigmatus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Oreolalax_rhodostigmatus_KU_311760_lateral.jpg</image:loc>
+      <image:caption>Oreolalax rhodostigmatus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Oreolalax_rhodostigmatus_KU_311760_ventral.jpg</image:loc>
+      <image:caption>Oreolalax rhodostigmatus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Pelobatrachus.jpg</image:loc>
       <image:caption>Pelobatrachus sp</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pelobatrachus_ligayae_KU_319379_dorsal.jpg</image:loc>
+      <image:caption>Pelobatrachus ligayae</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pelobatrachus_ligayae_KU_319379_lateral.jpg</image:loc>
+      <image:caption>Pelobatrachus ligayae</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pelobatrachus_ligayae_KU_319379_ventral.jpg</image:loc>
+      <image:caption>Pelobatrachus ligayae</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
@@ -259,8 +849,53 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pelobatrachus_stejnegeri_KU_334792.jpg</image:loc>
+      <image:caption>Pelobatrachus stejnegeri</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Pelobatrachus_topdown.jpg</image:loc>
       <image:caption>Pelobatrachus sp</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Scutiger_boulengeri_boulengeri_CAS_177307_dorsal.jpg</image:loc>
+      <image:caption>Scutiger boulengeri boulengeri</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Scutiger_boulengeri_boulengeri_CAS_177307_lateral.jpg</image:loc>
+      <image:caption>Scutiger boulengeri boulengeri</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Scutiger_boulengeri_boulengeri_CAS_177307_ventral.jpg</image:loc>
+      <image:caption>Scutiger boulengeri boulengeri</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Scutiger_boulengeri_boulengeri_CAS_177307_ventral_close.jpg</image:loc>
+      <image:caption>Scutiger boulengeri boulengeri</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Scutiger_chintingensis_FMNH_272202_dorsal.jpg</image:loc>
+      <image:caption>Scutiger chintingensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Scutiger_chintingensis_FMNH_272202_lateral.jpg</image:loc>
+      <image:caption>Scutiger chintingensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Scutiger_chintingensis_FMNH_272202_ventral.jpg</image:loc>
+      <image:caption>Scutiger chintingensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Scutiger_chintingensis_FMNH_272202_ventral_close.jpg</image:loc>
+      <image:caption>Scutiger chintingensis</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
@@ -284,6 +919,16 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Microhyla_heymonsi_UTA_PAN_715_dorsal.jpg</image:loc>
+      <image:caption>Microhyla heymonsi</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Microhyla_heymonsi_UTA_PAN_715_lateral.jpg</image:loc>
+      <image:caption>Microhyla heymonsi</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Otophryne_robusta.jpg</image:loc>
       <image:caption>Otophryne robusta</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
@@ -304,8 +949,63 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Crinia_riparia_FMNH_225516_dorsal.jpg</image:loc>
+      <image:caption>Crinia riparia</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Crinia_riparia_FMNH_225516_lateral.jpg</image:loc>
+      <image:caption>Crinia riparia</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Crinia_riparia_FMNH_225516_ventral.jpg</image:loc>
+      <image:caption>Crinia riparia</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pseudophryne_australis_AMNH_92756_dorsal.jpg</image:loc>
+      <image:caption>Pseudophryne australis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pseudophryne_australis_AMNH_92756_lateral.jpg</image:loc>
+      <image:caption>Pseudophryne australis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pseudophryne_australis_AMNH_92756_ventral.jpg</image:loc>
+      <image:caption>Pseudophryne australis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Odontobatrachus_natator.jpg</image:loc>
       <image:caption>Odontobatrachus natator</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Odontophrynus_americanus_KU_112390_dorsal.jpg</image:loc>
+      <image:caption>Odontophrynus americanus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Odontophrynus_americanus_KU_112390_lateral.jpg</image:loc>
+      <image:caption>Odontophrynus americanus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Odontophrynus_americanus_KU_112390_ventral.jpg</image:loc>
+      <image:caption>Odontophrynus americanus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Arthroleptides_martiensseni_USNM_316556_dorsal.jpg</image:loc>
+      <image:caption>Arthroleptides martiensseni</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Arthroleptides_martiensseni_USNM_316556_ventral.jpg</image:loc>
+      <image:caption>Arthroleptides martiensseni</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
@@ -324,8 +1024,23 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pipa_myersi_KU_116685_dorsal.jpg</image:loc>
+      <image:caption>Pipa myersi</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Pipa_myersi_KU_116685_ventral.jpg</image:loc>
+      <image:caption>Pipa myersi</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Xenopus_laevis.jpg</image:loc>
       <image:caption>Xenopus laevis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Xenopus_tropicalis_KU_222402.jpg</image:loc>
+      <image:caption>Xenopus tropicalis</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
@@ -349,7 +1064,72 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Natalobatrachus_bonebergi_PEM_T597_dorsal.jpg</image:loc>
+      <image:caption>Natalobatrachus bonebergi</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Natalobatrachus_bonebergi_PEM_T597_lateral.jpg</image:loc>
+      <image:caption>Natalobatrachus bonebergi</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Natalobatrachus_bonebergi_PEM_T597_ventral.jpg</image:loc>
+      <image:caption>Natalobatrachus bonebergi</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Nothophryne_anagoensis_PEM_A14692_dorsal.jpg</image:loc>
+      <image:caption>Nothophryne anagoensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Nothophryne_anagoensis_PEM_A14692_lateral.jpg</image:loc>
+      <image:caption>Nothophryne anagoensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Nothophryne_anagoensis_PEM_A14692_ventral.jpg</image:loc>
+      <image:caption>Nothophryne anagoensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Clinotarsus_alticola_USNM_595191_dorsal.jpg</image:loc>
+      <image:caption>Clinotarsus alticola</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Clinotarsus_alticola_USNM_595191_lateral.jpg</image:loc>
+      <image:caption>Clinotarsus alticola</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Clinotarsus_alticola_USNM_595191_mouth.jpg</image:loc>
+      <image:caption>Clinotarsus alticola</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Clinotarsus_alticola_USNM_595191_ventral.jpg</image:loc>
+      <image:caption>Clinotarsus alticola</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Clinotarsus_penelope_NCSM_78307.jpg</image:loc>
+      <image:caption>Clinotarsus penelope</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Huia_cavitympanum.jpg</image:loc>
+      <image:caption>Huia cavitympanum</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Huia_cavitympanum_USNM_306195_dorsal.jpg</image:loc>
+      <image:caption>Huia cavitympanum</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Huia_cavitympanum_USNM_306195_ventral.jpg</image:loc>
       <image:caption>Huia cavitympanum</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
@@ -361,6 +1141,16 @@
     <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Meristogenys_ventral_live.jpg</image:loc>
       <image:caption>Meristogenys</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Indirana_beddomii_USNM_232370_dorsal.jpg</image:loc>
+      <image:caption>Indirana beddomii</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Indirana_beddomii_USNM_232370_ventral.jpg</image:loc>
+      <image:caption>Indirana beddomii</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
@@ -379,6 +1169,26 @@
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
     <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Sooglossus_seychellensis_AMNH_23576.jpg</image:loc>
+      <image:caption>Sooglossus seychellensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Telmatobius_arequipensis_KU_164018_dorsal.jpg</image:loc>
+      <image:caption>Telmatobius arequipensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Telmatobius_arequipensis_KU_164018_lateral.jpg</image:loc>
+      <image:caption>Telmatobius arequipensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Telmatobius_arequipensis_KU_164018_ventral.jpg</image:loc>
+      <image:caption>Telmatobius arequipensis</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Telmatobius_atahualpai_1.jpg</image:loc>
       <image:caption>Telmatobius atahualpai</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
@@ -386,6 +1196,36 @@
     <image:image>
       <image:loc>https://tadpology.com/photography/tadpoles/Telmatobius_atahualpai_2.jpg</image:loc>
       <image:caption>Telmatobius atahualpai</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Telmatobius_atahualpai_KU_181882_dorsal.jpg</image:loc>
+      <image:caption>Telmatobius atahualpai</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Telmatobius_atahualpai_KU_181882_lateral.jpg</image:loc>
+      <image:caption>Telmatobius atahualpai</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Telmatobius_culeus_KU_138743_dorsal.jpg</image:loc>
+      <image:caption>Telmatobius culeus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Telmatobius_culeus_KU_138743_lateral.jpg</image:loc>
+      <image:caption>Telmatobius culeus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Telmatobius_culeus_KU_138743_ventral.jpg</image:loc>
+      <image:caption>Telmatobius culeus</image:caption>
+      <image:license>https://tadpology.com/license.html</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://tadpology.com/photography/tadpoles/Telmatobius_macrostomus_KU_158317.jpg</image:loc>
+      <image:caption>Telmatobius macrostomus</image:caption>
       <image:license>https://tadpology.com/license.html</image:license>
     </image:image>
   </url>

@@ -388,6 +388,15 @@ div.quarto-post .listing-description { color: $ink-soft; }
   transition: opacity 0.2s ease;
 }
 .photo-grid a:hover img { opacity: 0.86; }
+/* The tadpole library is mostly museum specimens shot long and thin (a median
+   of about 2.2:1), so a 4:3 crop cut the head or tail off more than half of
+   them. Here the tiles are wider and the whole photograph is fitted inside,
+   on black to match the backgrounds most of them are shot on. */
+.fam .photo-grid img {
+  aspect-ratio: 2 / 1;
+  object-fit: contain;
+  background: #000;
+}
 /* The caption sits over the bottom of the photo and fades in on hover.
    It uses opacity rather than display:none on purpose: the text stays in the
    page for screen readers and for search engines either way. */
