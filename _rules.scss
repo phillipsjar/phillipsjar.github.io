@@ -206,52 +206,58 @@ div.quarto-post .listing-description { color: $ink-soft; }
 .album-grid .count { display: block; font-family: $font-family-sans-serif; font-size: 0.82rem; font-weight: 400; color: $ink-soft; }
 
 /* --- The full-screen image viewer ----------------------------------------- */
-/* Markup and behaviour live in assets/lightbox.html. */
+/* Markup and behaviour live in assets/lightbox.html. Top to bottom: the
+   buttons (pinned to the top corners), the stage the photograph sits in,
+   and a footer with the caption, the zoom bar and a hint line. The stage is
+   the same box whether or not the photograph is zoomed, so zooming only ever
+   changes the photograph's size, never where the box is. */
 .lb {
   position: fixed;
   inset: 0;
   z-index: 2000;
   background: rgba(6, 7, 7, 0.94);
   display: flex;
-  align-items: center;
-  justify-content: center;
+  flex-direction: column;
 }
+/* Room at the top, clear of the Zoom and Close buttons. Quarto gives every
+   direct child of #quarto-content 14px of top padding using an ID selector,
+   so this needs the lightbox's own ID to win. */
+#lb.lb { padding-top: 70px; }
 .lb[hidden] { display: none; }
 
 .lb-stage {
-  margin: 0; max-width: 92vw; max-height: 86vh; text-align: center;
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  overscroll-behavior: contain;
   /* Let one-finger drags keep scrolling/panning natively, but hand
-     two-finger pinches to lightbox.html's own continuous-zoom handler
-     instead of letting the browser pinch-zoom the whole page. */
+     two-finger pinches to lightbox.html's own zoom handler instead of
+     letting the browser pinch-zoom the whole page. */
   touch-action: pan-x pan-y;
+  /* Panning is by dragging. Scrollbars popping in and out as the photo
+     grows past the window would also nudge it sideways, so hide them. */
+  scrollbar-width: none;
 }
+.lb-stage::-webkit-scrollbar { display: none; }
+
 .lb-img {
+  /* Auto margins centre the photograph while it fits the stage, and fall
+     away to nothing once it's bigger, so every part stays reachable by
+     scrolling (centring with justify/align-content would cut off the edges). */
+  margin: auto;
+  flex-shrink: 0;
   max-width: 92vw;
-  max-height: 78vh;
+  max-height: 100%;
   width: auto; height: auto;
   border-radius: 2px;
   display: block;
-  margin: 0 auto;
   cursor: zoom-in;
-}
-
-/* Zoomed: the stage becomes a plain scrollable box (not a flex-centered
-   one -- centering and overflow scrolling don't mix) filling the viewport,
-   and the photograph grows to its full resolution inside it. */
-.lb.is-zoomed .lb-stage {
-  max-width: 100vw;
-  max-height: 100vh;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  -webkit-overflow-scrolling: touch;
 }
 .lb.is-zoomed .lb-img {
   max-width: none;
   max-height: none;
-  width: auto;
-  height: auto;
-  margin: 0 auto;
   /* Zoomed in, the photograph can be clicked and dragged around (a plain
      click still zooms back out), so the cursor says "grab". */
   cursor: grab;
@@ -259,13 +265,57 @@ div.quarto-post .listing-description { color: $ink-soft; }
   -webkit-user-select: none;
 }
 .lb.is-dragging .lb-img { cursor: grabbing; }
+
+.lb-foot {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.7rem 1rem 0.9rem;
+  text-align: center;
+}
 .lb-cap {
-  margin-top: 0.9rem;
   font-size: 0.95rem;
   color: rgba(255, 255, 255, 0.78);
 }
+.lb-cap:empty { display: none; }
 .lb-cap em { color: #fff; font-style: italic; }
 .lb-cap .where { display: block; font-size: 0.84rem; margin-top: 0.15rem; }
+
+/* The zoom bar: - button, slider (fit at the left, five times full
+   resolution at the right), + button, and the current zoom. */
+.lb-zoombar {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  width: min(460px, 100%);
+  padding: 0.3rem 0.45rem;
+  background: rgba(24, 26, 25, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 999px;
+}
+.lb-zrange {
+  flex: 1 1 auto;
+  min-width: 0;
+  margin: 0;
+  accent-color: $accent;
+  cursor: pointer;
+}
+.lb-zval {
+  flex: 0 0 3.2em;
+  padding-right: 0.45rem;
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.75);
+}
+.lb-hint {
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.5);
+  pointer-events: none;
+}
 
 /* Every control is a real button with a visible edge, so the way out is never
    in doubt on a dark photograph. */
@@ -281,6 +331,17 @@ div.quarto-post .listing-description { color: $ink-soft; }
 }
 .lb button:hover { background: rgba(70, 76, 72, 0.95); border-color: rgba(255, 255, 255, 0.6); }
 .lb button:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+
+/* The zoom bar's - and + sit in the bar's own row, not pinned like the
+   rest. (.lb .lb-zoombar button outranks .lb button above.) */
+.lb .lb-zoombar button {
+  position: static;
+  flex: 0 0 auto;
+  width: 30px; height: 30px;
+  padding: 0 0 2px;
+  font-size: 1.15rem;
+  line-height: 1;
+}
 
 .lb-close {
   top: 18px; right: 20px;
@@ -312,23 +373,14 @@ div.quarto-post .listing-description { color: $ink-soft; }
   color: rgba(255, 255, 255, 0.55);
   letter-spacing: 0.06em;
 }
-.lb-hint {
-  position: absolute;
-  left: 50%; bottom: 18px;
-  transform: translateX(-50%);
-  font-size: 0.78rem;
-  letter-spacing: 0.03em;
-  color: rgba(255, 255, 255, 0.5);
-  white-space: nowrap;
-  pointer-events: none;
-}
 
 @media (max-width: 620px) {
+  #lb.lb { padding-top: 60px; }
   .lb-prev, .lb-next { display: none; }      /* swipe instead */
   .lb-close { top: 12px; right: 12px; }
   .lb-zoom  { top: 12px; right: 122px; }
-  .lb-hint { content: none; font-size: 0.72rem; }
-  .lb-img { max-height: 70vh; }
+  .lb-count { top: 20px; left: 16px; }
+  .lb-hint { font-size: 0.72rem; }
 }
 
 /* --- A single still image at the top of a page ---------------------------- */
