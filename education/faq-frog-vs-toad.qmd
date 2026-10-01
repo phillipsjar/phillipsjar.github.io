@@ -10,7 +10,7 @@ This is maybe the most commonly asked question that I get from people when they 
 
 But I encourage you to read on, because the answer actually reveals a lot about how we think about language and nature. English is not the only language that separates frogs and toads. Instead, many languages across different regions make the same distinction, from Spanish (*rana*/*sapo*) to Japanese (カエル/ガマ) to Quechua (*k'ayra*/*hamp'atu*).
 
-So what is this distinction? There are two ways of thinking about frogs and toads.
+There are two ways of thinking about the differences between frogs and toads.
 
 ## 1. By the skin
 
@@ -24,7 +24,7 @@ Diorama of frogs: ranids, hylids, others? From your own photos: *Rana klauberi*,
 Diorama of "toads": a couple of bufonids, *Scaphiopus*, others? From your own photos: *Anaxyrus americanus*, *Pelophryne minuta*. There's no adult spadefoot in the wildlife photos yet.
 :::
 
-This is what most people mean, across different languages and dialects, when they say "toad". There are exceptions to this, of course. For example, the Suriname "toad", as it is commonly called, is a very bizarre animal. It has somewhat rough skin (and a crazy style of giving birth, with the babies popping out of the mother's back [insert link to youtube video]), but it is totally aquatic. I'd never think to call this animal a toad, but many people do.
+This is what most people mean, across different languages and dialects, when they say "toad". There are exceptions to this, of course. For example, the Suriname "toad", as it is commonly called, is a very bizarre animal. It has somewhat rough skin (and a crazy style of giving birth, with the babies popping [out of the mother's back](https://www.youtube.com/watch?v=SgROaJY6Xnk), but it is totally aquatic. I'd never think to call this animal a toad, but many people do.
 
 And that leads us to a bigger question: what actually makes a good definition?
 
@@ -34,13 +34,13 @@ There are two ways of defining groups of animals. The first is called a ***diagn
 
 Diagnostic definitions have a famous weak spot, though. [Plato](https://en.wikipedia.org/wiki/Plato) once defined a person as a "featherless biped", which also works pretty well in the vast majority of cases. Then [Diogenes](https://en.wikipedia.org/wiki/Diogenes), a rival philosopher who loved to needle Plato, plucked a chicken, brought it into Plato's school and declared, "Here is Plato's man!" Plato's fix was to add "with broad, flat nails" to his definition. Indeed, Diogenes' chicken was a challenge to diagnostic definitions in general, and the same challenge applies to our dry toad. Can you make a frog dry enough to be a toad?
 
-The second approach to defining animal groups was made possible by Darwin: evolutionary groups. Once we understand that all living things are related, we can split up that family tree into what are called ***natural groups***, defined by who is related to whom rather than by what they look like.
+The alternative approach to defining animal groups was made possible by Darwin: evolutionary groups. Once we understand that all living things are related, we can split up that family tree into what are called ***natural groups***, defined by who is related to whom rather than by what they look like.
 
 ## 2. By the family tree
 
 It turns out that there is one group of frogs we call the Bufonidae (*bufo* means toad in Latin) that mostly have dry skin and warty bumps. We call this group the "true toads", and they include many of the most common "toads" around the world.
 
-Bufonids are extremely common and well-represented on every continent except Australia and Antarctica. Even in Australia, cane toads brought in to control beetles in the sugarcane fields are now a common pest across much of the north.
+Bufonids are extremely common and well-represented on every continent except Australia and Antarctica. Even in Australia, cane toads brought in to control beetles in the sugarcane fields are now a common pest across much of the northern region.
 
 For most frog experts, when we say "toad", we mean a member of the bufonid family. That means that toads are just a kind of frog. Think rectangles and squares: all squares are rectangles, but not all rectangles are squares. All toads are frogs, but not all frogs are toads.
 
@@ -54,6 +54,9 @@ Pictures of *Atelopus*, *Scaphiopus*, etc. From your own photos: *Atelopus variu
 
 If this sounds familiar, it's the same reason you might hear that birds are dinosaurs. A robin doesn't look much like a *T. rex*, but birds sit squarely inside the dinosaur family tree, so evolutionarily, they are dinosaurs. Toads are frogs for exactly the same reason.
 
-## So, what's the difference?
+## So, what's the right answer?
 
 In everyday language, a toad is a frog with dry, bumpy skin that spends a lot of its time on land. To a herpetologist, a toad is a member of one particular family of frogs, the Bufonidae. Either way, every toad is a frog.
+
+
+

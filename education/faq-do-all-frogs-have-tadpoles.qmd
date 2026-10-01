@@ -5,3 +5,30 @@ description: ""
 order: 2
 draft: true      # unpublished until this line is deleted
 ---
+
+No, not all frogs have tadpoles. 
+
+Some frogs develop directly from eggs. Others are "born" as little froglets. 
+
+Frogs have a wide variety of what are called "reproductive modes". 
+
+Direct Development
+Some involve a tadpole (larval stage) of some kind, while others skip the larval stage entirely. For some frogs, that means that the "tadpole" stays in an egg, often on land, where it transforms into a little frog, surviving off its yolk sac, until it hatches from the egg as a tiny frog. This strategy is actually really common in frogs. Some entire frog families are "direct developers", including famous animals like Coqui frog of Puerto Rico. 
+
+
+Live birth
+Other frogs give live birth. In those cases, female frogs take in sperm, fertilizing eggs inside the body, where the "tadpoles" develop and metamorphose before being "born". This strategy is extremely rare, with only a few known species that do it. 
+
+
+Other rare, bizarre natural history strategies. 
+
+Darwin frogs and rheobatrachus
+Darwin's frogs in the genus Rhinodermma do something really strange. After eggs are laid normally, male frogs wait for their tadpoles to hatch. They then appear to gobble their tadpoles up, but instead of swalling them, the tadpoles live for several weeks in the little vocal sac of the male, subsisting on their yolk sacs to survive and transform into little froglets. Sadly, Darwin's frogs are some of the most endangered frogs in the world, primarily due to the chytrid fungus [link]
+
+In Australia, there was once a frog that did something similar. Sadly, Rheobatrachus has not been seen in nearly fifty years, but it also gobbled up newly born tadpoles, where they lived in the actual stomachs of male frogs before emerging from the mouth as fully formed little froglets. 
+
+
+
+
+
+
