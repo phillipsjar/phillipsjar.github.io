@@ -218,6 +218,8 @@ div.quarto-post .listing-description { color: $ink-soft; }
      ::::
 
    Three photos to a row; add .four for four, or .pairs for two columns.
+   Add .long when the captions run to a sentence or two: on phones each photo
+   then gets its own row, with the caption beside it instead of squeezed under.
    The photos are cut to 3:2 beforehand, so nothing gets cropped here. */
 .diorama {
   display: grid;
@@ -264,6 +266,15 @@ div.quarto-post .listing-description { color: $ink-soft; }
   .diorama { gap: 0.8rem 0.5rem; }
   .diorama.four { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .diorama figcaption { font-size: 0.76rem; }
+  .diorama.long { grid-template-columns: minmax(0, 1fr); gap: 0.9rem; }
+  .diorama.long .diorama-label { margin-bottom: -0.2rem; }
+  .diorama.long figure {
+    display: grid;
+    grid-template-columns: 44% minmax(0, 1fr);
+    gap: 0.75rem;
+    align-items: center;
+  }
+  .diorama.long figcaption { margin-top: 0; font-size: 0.8rem; }
 }
 
 /* --- Footer --------------------------------------------------------------- */
