@@ -4,7 +4,6 @@ subtitle: ""
 description: "No! Fewer than half of all frogs follow the pond life cycle from the textbook. Read on for frogs that skip the tadpole, give birth to live young, or raise their tadpoles in some very strange places."
 order: 2
 image: ../assets/images/faq/oophaga-granulifera.jpg   # thumbnail on the Education page
-draft: true      # unpublished until this line is deleted
 ---
 
 No, not all frogs have tadpoles. Some frogs develop directly from eggs, hatching out as tiny froglets. Others are "born" as little froglets. And even among the frogs that do have tadpoles, plenty of them raise those tadpoles in some pretty unexpected places.
