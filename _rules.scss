@@ -128,7 +128,8 @@ div.quarto-post .listing-description { color: $ink-soft; }
 }
 
 /* --- Education page: the FAQ wheel (faq-carousel.ejs.md) ----------------- */
-/* A sideways-scrolling row of FAQ cards with arrow buttons on either side.
+/* A sideways row of FAQ cards that loops forever, with arrow buttons on
+   either side.
    --card-w sets how wide each card is; about two and a half fit across the
    page on a laptop, one and a bit on a phone, so it's clear there's more. */
 .education-page h2 { margin-top: 1.6rem; }
@@ -149,10 +150,11 @@ div.quarto-post .listing-description { color: $ink-soft; }
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   overscroll-behavior-x: contain;
-  padding: 0.2rem 0.1rem 0.9rem;
-  scrollbar-width: thin;
-  scrollbar-color: $rule transparent;
+  padding: 0.2rem 0 0.9rem;
+  /* No scrollbar: the row loops forever, so there's no end for it to show. */
+  scrollbar-width: none;
 }
+.faq-wheel-track::-webkit-scrollbar { display: none; }
 .faq-wheel-track:focus-visible { outline: 2px solid $accent; outline-offset: 4px; border-radius: 2px; }
 .faq-card {
   flex: 0 0 var(--card-w);
@@ -225,7 +227,7 @@ div.quarto-post .listing-description { color: $ink-soft; }
 .faq-wheel-btn:focus-visible { outline: 2px solid $accent; outline-offset: 2px; }
 .faq-wheel-prev { left: -20px; }
 .faq-wheel-next { right: -20px; }
-.faq-wheel.no-overflow .faq-wheel-btn { display: none; }
+.faq-wheel.no-loop .faq-wheel-btn { display: none; }
 @media (max-width: 620px) {
   .faq-wheel-prev { left: 6px; }
   .faq-wheel-next { right: 6px; }
