@@ -1,6 +1,6 @@
 ---
 title: "Education"
-subtitle: "Coming soon"
+subtitle: "Answers to the questions I get asked most"
 listing:
   contents: education
   type: default
@@ -13,7 +13,3 @@ toc: false
 ---
 
 
-
-::: {.todo}
-Coming soon.
-:::

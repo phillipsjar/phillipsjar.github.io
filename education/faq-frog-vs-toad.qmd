@@ -3,7 +3,7 @@ title: "FAQ: What's the difference between a frog and a toad?"
 subtitle: ""
 description: "It depends whether you go by the skin or by the family tree, and the answer says a lot about how we put names on nature."
 order: 1
-draft: true      # unpublished until this line is deleted
+image: ../assets/images/faq/anaxyrus-americanus.jpg   # thumbnail on the Education page
 ---
 
 This is maybe the most commonly asked question that I get from people when they find out what I do. Unfortunately, the answer somewhat depends on who you ask.
