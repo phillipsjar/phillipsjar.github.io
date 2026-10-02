@@ -4,7 +4,7 @@ subtitle: ""
 description: "Meet the paradoxical frog, whose tadpoles are three or four times longer than the adults, and Goliath, a 10-inch bullfrog tadpole that never turned into a frog."
 order: 3
 date: 2026-10-02
-image: ../assets/images/faq/pseudis-paradoxa-scale.jpg   # thumbnail on the Education page
+image: ../assets/images/faq/telmatobius-macrostomus-hand.jpg   # thumbnail on the Education page
 ---
 
 There are a couple of fun answers to this question!
