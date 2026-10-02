@@ -13,7 +13,15 @@ Frogs have a wide variety of what are called "reproductive modes". Some involve 
 
 ## Tadpoles in strange places
 
+::::: {.photo-aside}
+:::: {.aside-text}
 Let's start with the frogs that do have tadpoles, just not where you'd expect to find them. More than half of all frog species lay their eggs out of the water, on leaves, in burrows or in the leaf litter. Many of those still have regular swimming tadpoles, which just have to find their way to the water once they hatch, and they often get some help from their parents.
+
+Glass frogs, for example, lay their eggs on leaves hanging over streams. In many species, the father stands guard over the eggs, keeping them moist and protecting them from predators, until the tadpoles hatch and drop into the water below.
+::::
+
+![Fleischmann's glass frog, *Hyalinobatrachium fleischmanni*, keeping watch over a clutch of eggs at the tip of a leaf. You can see the tadpoles curled up inside.](../assets/images/faq/hyalinobatrachium-fleischmanni.jpg){fig-alt="A small lime-green glass frog sitting on a dark leaf, above a clutch of clear eggs with dark, curled embryos at the leaf's tip"}
+:::::
 
 :::: {.diorama .long}
 ::: {.diorama-label}
@@ -22,7 +30,7 @@ Eggs out of the water
 
 ![Hourglass treefrog, *Dendropsophus ebraccatus*: lays its eggs on leaves over the water in the shade, but right in the water where it's sunny and eggs on a leaf would dry out.](../assets/images/faq/dendropsophus-ebraccatus.jpg){fig-alt="A small tan-and-orange treefrog with big reddish eyes, clinging to a green stem"}
 
-![A glass frog, *Teratohyla pulverata*: lays its eggs on leaves hanging over streams. When the tadpoles hatch, they drop into the water below.](../assets/images/faq/teratohyla-pulverata.jpg){fig-alt="A small green frog with see-through yellow-green toes, perched on a branch"}
+![Red-eyed treefrog, *Agalychnis callidryas*: lays its eggs on leaves over ponds. The tadpoles drop into the water when they hatch, and can even hatch early to escape an attacking snake.](../assets/images/faq/agalychnis-callidryas.jpg){fig-alt="A bright green tree frog with red eyes and long orange-toed legs, stretched along a twig"}
 
 ![Mottled shovel-nosed frog, *Hemisus marmoratus*: lays her eggs in an underground nest. When they hatch, she digs a slide for the tadpoles to wriggle down to the water, or carries them there herself.](../assets/images/faq/hemisus-marmoratus.jpg){fig-alt="A plump, yellow-and-brown speckled frog with a small pointed head, walking on bare soil"}
 
@@ -30,11 +38,19 @@ Eggs out of the water
 Tadpoles that hitch a ride
 :::
 
+![Golfodulcean poison frog, *Phyllobates vittatus*: a father carrying his tadpoles on his back to a pool of water.](../assets/images/faq/phyllobates-vittatus.jpg){fig-alt="A black poison frog with an orange stripe and green speckled legs, with two dark tadpoles stuck to its back"}
+
 ![Granular poison frog, *Oophaga granulifera*: the mother carries her tadpoles on her back to tiny pools of water in plants, then keeps coming back to feed them unfertilized eggs.](../assets/images/faq/oophaga-granulifera.jpg){fig-alt="A tiny poison frog with a bright red back and blue legs, standing on a rock"}
 
-![Seychelles frog tadpole, *Sooglossus sechellensis*: hatches on land, climbs onto its father's back and rides there until it turns into a frog.](../assets/images/faq/sooglossus-sechellensis.jpg){fig-alt="A preserved tadpole with four legs and a long, curled tail, on a white background"}
-
 ![Tadpole of Myers' Surinam toad, *Pipa myersi*: hatches out of a pocket in its mother's back, then swims off as a tadpole. Its cousin, the Surinam toad, skips that step and pops out as a froglet.](../assets/images/faq/pipa-myersi.jpg){fig-alt="A preserved, see-through tadpole with a broad head, a coiled gut and a long thin tail, pinned next to a scale bar"}
+::::
+
+Some tadpoles never touch the water at all. The tadpoles of the Seychelles frog hatch on land, climb onto their father's back, and ride there until they turn into frogs.
+
+:::: {.diorama .pairs .wide .long}
+![A Seychelles frog tadpole, *Sooglossus sechellensis*, with its legs already grown in.](../assets/images/faq/sooglossus-sechellensis.jpg){fig-alt="A preserved tadpole with four legs and a long, curled tail, on a white background"}
+
+![Seychelles frogs of different ages, from a full-grown adult down to a tiny froglet that hasn't quite lost its tail.](../assets/images/faq/sooglossus-sechellensis-adults.jpg){fig-alt="Four preserved frogs in a row from largest to smallest on a blue background, the smallest still with a tail, next to a scale bar"}
 ::::
 
 And then there are the truly bizarre ones.
@@ -52,7 +68,9 @@ Many frogs skip the tadpole stage entirely. In these "direct developers", the eg
 
 This strategy is actually really common in frogs. About a quarter of all frog species are direct developers, and some entire frog families are direct developers, including famous animals like the coquí of Puerto Rico. In fact, the robber frogs of the genus *Pristimantis*, with more than 500 species, are the biggest genus of vertebrates on the planet, and as far as anyone knows, every single one of them skips the tadpole.
 
-:::: {.diorama .pairs .long}
+:::: {.diorama .long}
+![Eggs of a bush frog (*Philautus*), tucked into moss in Borneo. Big, yolky eggs laid on land are a telltale sign of a direct developer, and most bush frogs hatch straight out as tiny frogs.](../assets/images/faq/philautus-eggs.jpg){fig-alt="Four large, clear, round frog eggs nestled in wet moss and leaf litter"}
+
 ![Chiriquí robber frog, *Pristimantis cruentus*: like the rest of its genus, it hatches straight out of the egg as a tiny frog.](../assets/images/faq/pristimantis-cruentus.jpg){fig-alt="A small orange-tan frog with a red eye, sitting on a green leaf"}
 
 ![Plain rain frog, *Breviceps fuscus*: lays its eggs in an underground chamber, where they hatch as tiny frogs.](../assets/images/faq/breviceps-fuscus.jpg){fig-alt="A round, black, rough-skinned frog against a dark background"}

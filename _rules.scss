@@ -220,6 +220,7 @@ div.quarto-post .listing-description { color: $ink-soft; }
    Three photos to a row; add .four for four, or .pairs for two columns.
    Add .long when the captions run to a sentence or two: on phones each photo
    then gets its own row, with the caption beside it instead of squeezed under.
+   Add .wide for 15:8 tiles (cut to 15:8 beforehand) instead of 3:2.
    The photos are cut to 3:2 beforehand, so nothing gets cropped here. */
 .diorama {
   display: grid;
@@ -262,6 +263,38 @@ div.quarto-post .listing-description { color: $ink-soft; }
   color: $ink-soft;
 }
 .diorama figcaption em { color: $ink; }
+.diorama.wide img { aspect-ratio: 15 / 8; }
+.diorama.pairs.wide { max-width: none; }
+
+/* A single portrait photo beside a paragraph or two (stacks on phones):
+
+     ::::: {.photo-aside}
+     :::: {.aside-text}
+     Paragraphs...
+     ::::
+     ![Caption](../assets/images/faq/x.jpg){fig-alt="..."}
+     :::::
+*/
+.photo-aside {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 34%;
+  gap: 1.5rem;
+  align-items: start;
+  margin: 1.2rem 0 1.8rem;
+}
+.photo-aside .aside-text > p:last-child { margin-bottom: 0; }
+.photo-aside .quarto-figure,
+.photo-aside figure,
+.photo-aside figure p { margin: 0; }
+.photo-aside img { display: block; width: 100%; height: auto; border-radius: 2px; }
+.photo-aside figcaption {
+  margin-top: 0.4rem;
+  font-size: 0.84rem;
+  line-height: 1.35;
+  text-align: left;
+  color: $ink-soft;
+}
+.photo-aside figcaption em { color: $ink; }
 @media (max-width: 620px) {
   .diorama { gap: 0.8rem 0.5rem; }
   .diorama.four { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -275,6 +308,8 @@ div.quarto-post .listing-description { color: $ink-soft; }
     align-items: center;
   }
   .diorama.long figcaption { margin-top: 0; font-size: 0.8rem; }
+  .photo-aside { grid-template-columns: minmax(0, 1fr); gap: 1.1rem; }
+  .photo-aside .quarto-figure { max-width: 300px; margin: 0 auto; }
 }
 
 /* --- Footer --------------------------------------------------------------- */
