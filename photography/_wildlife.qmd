@@ -24,7 +24,7 @@
 </div>
 </section>
 <section class="photo-section" id="amphibians">
-<h2>Amphibians <span class="n">35</span></h2>
+<h2>Amphibians <span class="n">34</span></h2>
 <div class="photo-grid">
 <figure><a href="photography/wildlife/amphibians/Agalychnis_callidryas_Sierpe_3_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Agalychnis_callidryas_Sierpe_3_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Agalychnis_callidryas_Sierpe_3_CR_26.jpg 1000w, photography/wildlife/amphibians/Agalychnis_callidryas_Sierpe_3_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Agalychnis callidryas, Sierpe CR"></a><figcaption><em>Agalychnis callidryas</em><span class="where">Sierpe CR</span></figcaption></figure>
 <figure><a href="photography/wildlife/amphibians/Ambystoma_maculatum_NY_2025_4.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Ambystoma_maculatum_NY_2025_4.jpg" srcset="photography/wildlife/amphibians/thumbs/Ambystoma_maculatum_NY_2025_4.jpg 1000w, photography/wildlife/amphibians/Ambystoma_maculatum_NY_2025_4.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Ambystoma maculatum, NY 2025"></a><figcaption><em>Ambystoma maculatum</em><span class="where">NY 2025</span></figcaption></figure>
@@ -52,7 +52,6 @@
 <figure><a href="photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_2_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Phyllobates_vittatus_Sierpe_2_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Phyllobates_vittatus_Sierpe_2_CR_26.jpg 1000w, photography/wildlife/amphibians/Phyllobates_vittatus_Sierpe_2_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Phyllobates vittatus, Sierpe CR"></a><figcaption><em>Phyllobates vittatus</em><span class="where">Sierpe CR</span></figcaption></figure>
 <figure><a href="photography/wildlife/amphibians/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg" srcset="photography/wildlife/amphibians/thumbs/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg 1000w, photography/wildlife/amphibians/Pristimantis_cruentus_stack_cloudbridge_CR_26.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Pristimantis cruentus, stack cloudbridge CR"></a><figcaption><em>Pristimantis cruentus</em><span class="where">stack cloudbridge CR</span></figcaption></figure>
 <figure><a href="photography/wildlife/amphibians/QB7A6177.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/QB7A6177.jpg" srcset="photography/wildlife/amphibians/thumbs/QB7A6177.jpg 1000w, photography/wildlife/amphibians/QB7A6177.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Amphibians"></a><figcaption></figcaption></figure>
-<figure><a href="photography/wildlife/amphibians/Rana_catesbeiana_3a_1.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Rana_catesbeiana_3a_1.jpg" srcset="photography/wildlife/amphibians/thumbs/Rana_catesbeiana_3a_1.jpg 1000w, photography/wildlife/amphibians/Rana_catesbeiana_3a_1.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Rana catesbeiana"></a><figcaption><em>Rana catesbeiana</em></figcaption></figure>
 <figure><a href="photography/wildlife/amphibians/Rana_klauberi_lilypad.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Rana_klauberi_lilypad.jpg" srcset="photography/wildlife/amphibians/thumbs/Rana_klauberi_lilypad.jpg 1000w, photography/wildlife/amphibians/Rana_klauberi_lilypad.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Rana klauberi"></a><figcaption><em>Rana klauberi</em></figcaption></figure>
 <figure><a href="photography/wildlife/amphibians/Rentapia_everetti_Sarawak_2024_1.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Rentapia_everetti_Sarawak_2024_1.jpg" srcset="photography/wildlife/amphibians/thumbs/Rentapia_everetti_Sarawak_2024_1.jpg 1000w, photography/wildlife/amphibians/Rentapia_everetti_Sarawak_2024_1.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Rentapia everetti, Sarawak 2024"></a><figcaption><em>Rentapia everetti</em><span class="where">Sarawak 2024</span></figcaption></figure>
 <figure><a href="photography/wildlife/amphibians/Rhinella_horribilis_Belize_2025_2.jpg" class="lightbox" data-gallery="amphibians"><img src="photography/wildlife/amphibians/thumbs/Rhinella_horribilis_Belize_2025_2.jpg" srcset="photography/wildlife/amphibians/thumbs/Rhinella_horribilis_Belize_2025_2.jpg 1000w, photography/wildlife/amphibians/Rhinella_horribilis_Belize_2025_2.jpg 1800w" sizes="(max-width: 700px) 100vw, 340px" loading="lazy" alt="Rhinella horribilis, Belize 2025"></a><figcaption><em>Rhinella horribilis</em><span class="where">Belize 2025</span></figcaption></figure>
@@ -732,20 +731,6 @@
    "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/QB7A6177.jpg",
    "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/QB7A6177.jpg",
    "name": "Amphibians",
-   "creator": {
-    "@type": "Person",
-    "name": "Jackson Phillips"
-   },
-   "copyrightNotice": "\u00a9 Jackson Phillips",
-   "creditText": "Jackson Phillips",
-   "license": "https://tadpology.com/license.html",
-   "acquireLicensePage": "https://tadpology.com/license.html"
-  },
-  {
-   "@type": "ImageObject",
-   "contentUrl": "https://tadpology.com/photography/wildlife/amphibians/Rana_catesbeiana_3a_1.jpg",
-   "thumbnailUrl": "https://tadpology.com/photography/wildlife/amphibians/thumbs/Rana_catesbeiana_3a_1.jpg",
-   "name": "Rana catesbeiana",
    "creator": {
     "@type": "Person",
     "name": "Jackson Phillips"
