@@ -114,6 +114,19 @@ div.quarto-post .listing-title { font-size: 1.3rem; margin-bottom: 0.35rem; }
 div.quarto-post .listing-subtitle { color: $ink-soft; font-size: 0.98rem; }
 div.quarto-post .listing-description { color: $ink-soft; }
 
+/* Education page only (education.qmd sets body-classes: education-page).
+   The FAQ cards have no date or other metadata, so the empty metadata column
+   Quarto reserves on the left is dropped, and the thumbnail keeps its own
+   shape and sits at the top of the card, beside the title and blurb. */
+.education-page div.quarto-post { align-items: flex-start; }
+.education-page div.quarto-post .metadata { display: none; }
+.education-page div.quarto-post .body { flex: 1 1 auto; }
+.education-page div.quarto-post .thumbnail img {
+  width: 240px;
+  height: auto;
+  max-height: 250px;
+}
+
 /* Research page only (research-listing.ejs.md adds .research-listing).
    A title goes accent green while the pointer is over anything in its entry
    that leads to the post: thumbnail, title, subtitle or blurb. */

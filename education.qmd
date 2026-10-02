@@ -10,6 +10,7 @@ listing:
   sort-ui: false
   filter-ui: false
 toc: false
+body-classes: education-page
 ---
 
 

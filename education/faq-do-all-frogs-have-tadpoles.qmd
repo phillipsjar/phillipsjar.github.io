@@ -47,7 +47,7 @@ Tadpoles that hitch a ride
 Some tadpoles never touch the water at all. The tadpoles of the Seychelles frog hatch on land, climb onto their father's back, and ride there until they turn into frogs.
 
 :::: {.diorama .pairs .wide .long}
-![A Seychelles frog tadpole, *Sooglossus sechellensis*, with its legs already grown in.](../assets/images/faq/sooglossus-sechellensis.jpg){fig-alt="A preserved tadpole with four legs and a long, curled tail, on a white background"}
+![A Seychelles frog tadpole, *Sooglossus sechellensis*, with its legs already grown in.](../assets/images/faq/sooglossus-sechellensis.jpg){fig-alt="A preserved tadpole with four legs and a long, curled tail, on a black background"}
 
 ![Seychelles frogs of different ages, from a full-grown adult down to a tiny froglet that hasn't quite lost its tail.](../assets/images/faq/sooglossus-sechellensis-adults.jpg){fig-alt="Four preserved frogs in a row from largest to smallest on a blue background, the smallest still with a tail, next to a scale bar"}
 ::::
