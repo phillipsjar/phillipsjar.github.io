@@ -2,6 +2,6 @@
 title: "FAQ: How can I tell what kind of tadpole I found?"
 subtitle: ""
 description: ""
-order: 12
+order: 112   # gets its FAQ number when published
 draft: true      # unpublished until this line is deleted
 ---

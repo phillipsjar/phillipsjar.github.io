@@ -1,0 +1,9 @@
+# Applies to every page under education/ (the FAQs and the longer posts).
+
+# How a page's `date:` is shown under its title.
+date-format: "MMMM D, YYYY"
+
+# Adds the "Comments or suggestions?" box to the bottom of every FAQ page
+# (education/faq-*.qmd). Longer posts are left alone.
+filters:
+  - ../filters/faq-feedback.lua

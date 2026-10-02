@@ -2,6 +2,6 @@
 title: "FAQ: What is chytrid?"
 subtitle: ""
 description: ""
-order: 11
+order: 111   # gets its FAQ number when published
 draft: true      # unpublished until this line is deleted
 ---

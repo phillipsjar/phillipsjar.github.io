@@ -127,6 +127,131 @@ div.quarto-post .listing-description { color: $ink-soft; }
   max-height: 250px;
 }
 
+/* --- Education page: the FAQ wheel (faq-carousel.ejs.md) ----------------- */
+/* A sideways-scrolling row of FAQ cards with arrow buttons on either side.
+   --card-w sets how wide each card is; about two and a half fit across the
+   page on a laptop, one and a bit on a phone, so it's clear there's more. */
+.education-page h2 { margin-top: 1.6rem; }
+/* The wheel runs the full width of the text column, under the heading's rule
+   (custom listings otherwise get a 2em right margin on wide screens). */
+.education-page #listing-faq-wheel,
+.education-page #listing-posts { margin-right: 0; }
+/* The "Longer reads" heading already has a rule under it. */
+.education-posts div.quarto-post:first-child { border-top: none; }
+.faq-wheel {
+  --card-w: min(320px, 76vw);
+  position: relative;
+  margin: 1.1rem 0 2.8rem;
+}
+.faq-wheel-track {
+  display: flex;
+  gap: 1.1rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  overscroll-behavior-x: contain;
+  padding: 0.2rem 0.1rem 0.9rem;
+  scrollbar-width: thin;
+  scrollbar-color: $rule transparent;
+}
+.faq-wheel-track:focus-visible { outline: 2px solid $accent; outline-offset: 4px; border-radius: 2px; }
+.faq-card {
+  flex: 0 0 var(--card-w);
+  scroll-snap-align: start;
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+.faq-card:hover { color: inherit; }
+.faq-card-img {
+  aspect-ratio: 3 / 2;
+  background: #000;
+  border-radius: 2px;
+  overflow: hidden;
+}
+.faq-card-img img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: transform 0.35s ease;
+}
+.faq-card:hover .faq-card-img img { transform: scale(1.03); }
+.faq-card-meta {
+  margin-top: 0.65rem;
+  font-size: 0.74rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: $ink-soft;
+}
+.faq-card-num { color: $accent; font-weight: 600; }
+.faq-card-title {
+  margin: 0.25rem 0 0.35rem;
+  font-family: $headings-font-family;
+  font-size: 1.15rem;
+  line-height: 1.3;
+  color: $ink;
+  transition: color 0.15s ease;
+}
+.faq-card:hover .faq-card-title { color: $accent; }
+.faq-card-desc {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: $ink-soft;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.faq-wheel-btn {
+  position: absolute;
+  z-index: 2;
+  /* level with the middle of the card photos */
+  top: calc(var(--card-w) / 3 - 20px + 0.2rem);
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 50%;
+  background: rgba(12, 14, 13, 0.78);
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+.faq-wheel-btn:hover { background: rgba(12, 14, 13, 0.95); border-color: $accent; }
+.faq-wheel-btn:focus-visible { outline: 2px solid $accent; outline-offset: 2px; }
+.faq-wheel-prev { left: -20px; }
+.faq-wheel-next { right: -20px; }
+.faq-wheel.no-overflow .faq-wheel-btn { display: none; }
+@media (max-width: 620px) {
+  .faq-wheel-prev { left: 6px; }
+  .faq-wheel-next { right: 6px; }
+}
+
+/* Longer posts under the wheel (education-posts.ejs.md). */
+.education-posts .listing-date {
+  font-size: 0.74rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: $ink-soft;
+  margin-bottom: 0.3rem;
+}
+
+/* The "Comments or suggestions?" box at the bottom of every FAQ page
+   (added by filters/faq-feedback.lua). */
+.faq-feedback {
+  margin: 2.8rem 0 0.5rem;
+  padding: 1rem 1.2rem;
+  border: 1px solid $rule;
+  border-left: 3px solid $accent;
+  border-radius: 2px;
+  background: $paper-warm;
+}
+.faq-feedback p { margin: 0; }
+
 /* Research page only (research-listing.ejs.md adds .research-listing).
    A title goes accent green while the pointer is over anything in its entry
    that leads to the post: thumbnail, title, subtitle or blurb. */

@@ -1,8 +1,9 @@
 ---
-title: "FAQ: Do all frogs have tadpoles?"
+title: "FAQ #2: Do all frogs have tadpoles?"
 subtitle: ""
 description: "No! Fewer than half of all frogs follow the pond life cycle from the textbook. Read on for frogs that skip the tadpole, give birth to live young, or raise their tadpoles in some very strange places."
 order: 2
+date: 2026-10-02
 image: ../assets/images/faq/oophaga-granulifera.jpg   # thumbnail on the Education page
 ---
 

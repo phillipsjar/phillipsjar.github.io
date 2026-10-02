@@ -2,6 +2,6 @@
 title: "FAQ: How many different kinds of frog are there?"
 subtitle: ""
 description: ""
-order: 4
+order: 104   # gets its FAQ number when published
 draft: true      # unpublished until this line is deleted
 ---

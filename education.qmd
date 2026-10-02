@@ -1,16 +1,32 @@
 ---
 title: "Education"
-subtitle: "Answers to the questions I get asked most"
 listing:
-  contents: education
-  type: default
-  sort: "order"
-  fields: [image, title, subtitle, description]
-  date-format: ""
-  sort-ui: false
-  filter-ui: false
+  # The FAQ "wheel": every education/faq-*.qmd page, in FAQ-number order.
+  # To add one, publish its page (delete its `draft: true` line) and give it
+  # the next number in its title ("FAQ #4: ..."), `order:` and a `date:`.
+  - id: faq-wheel
+    contents: "education/faq-*.qmd"
+    template: faq-carousel.ejs.md
+    sort: "order"
+    date-format: "MMMM D, YYYY"
+    sort-ui: false
+    filter-ui: false
+  # Longer posts: every page in education/posts/, newest first.
+  - id: posts
+    contents: "education/posts/*.qmd"
+    template: education-posts.ejs.md
+    sort: "date desc"
+    date-format: "MMMM D, YYYY"
+    sort-ui: false
+    filter-ui: false
 toc: false
 body-classes: education-page
 ---
 
+## Frequently asked questions for a tadpologist {.unnumbered}
 
+::: {#faq-wheel}
+:::
+
+::: {#posts}
+:::

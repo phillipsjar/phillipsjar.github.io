@@ -40,6 +40,19 @@ edit; the script fills in blanks but never overwrites what you've written.
 **A research post.** Copy `research/_template.qmd` to `research/your-title.qmd`
 and fill it in. It appears on the Research index automatically.
 
+**An Education FAQ.** The FAQs live in `education/faq-*.qmd` and show up
+in the sideways "wheel" at the top of the Education page. To publish one,
+delete its `draft: true` line and give it the next FAQ number in three
+places: the title (`"FAQ #4: The question?"`), `order: 4`, and a
+`date: YYYY-MM-DD`. The number and date show on its card and at the top of
+the page, and every FAQ page automatically gets the "Comments or
+suggestions?" box at the bottom (`filters/faq-feedback.lua`).
+
+**A longer Education post.** Put it in `education/posts/` (for example
+`education/posts/my-topic.qmd`) with a `title`, `description`, `image` and a
+`date:` when you publish. Posts are listed under "Longer reads", newest
+first; that heading only appears once at least one post is published.
+
 **Drafts.** Any page with `draft: true` in its front matter is left off the
 live site (it publishes as a blank page, and stays out of listings, search
 and the sitemap). The Education FAQs in `education/faq-*.qmd` start that way.

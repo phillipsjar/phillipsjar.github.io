@@ -2,6 +2,6 @@
 title: "FAQ: How long does it take a tadpole to become a frog?"
 subtitle: ""
 description: ""
-order: 9
+order: 109   # gets its FAQ number when published
 draft: true      # unpublished until this line is deleted
 ---

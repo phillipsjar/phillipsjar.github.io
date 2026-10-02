@@ -2,6 +2,6 @@
 title: "FAQ: How do you become a herpetologist?"
 subtitle: ""
 description: ""
-order: 6
+order: 106   # gets its FAQ number when published
 draft: true      # unpublished until this line is deleted
 ---

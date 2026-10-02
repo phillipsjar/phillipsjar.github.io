@@ -2,6 +2,6 @@
 title: "FAQ: Do animals besides frogs have tadpoles?"
 subtitle: ""
 description: ""
-order: 8
+order: 108   # gets its FAQ number when published
 draft: true      # unpublished until this line is deleted
 ---

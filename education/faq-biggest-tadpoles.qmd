@@ -1,8 +1,9 @@
 ---
-title: "FAQ: What are the biggest tadpoles?"
+title: "FAQ #3: What are the biggest tadpoles?"
 subtitle: ""
 description: "Meet the paradoxical frog, whose tadpoles are three or four times longer than the adults, and Goliath, a 10-inch bullfrog tadpole that never turned into a frog."
-order: 10
+order: 3
+date: 2026-10-02
 image: ../assets/images/faq/pseudis-paradoxa-scale.jpg   # thumbnail on the Education page
 ---
 

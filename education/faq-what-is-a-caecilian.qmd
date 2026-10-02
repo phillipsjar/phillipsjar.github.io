@@ -2,6 +2,6 @@
 title: "FAQ: What is a caecilian?"
 subtitle: ""
 description: ""
-order: 7
+order: 107   # gets its FAQ number when published
 draft: true      # unpublished until this line is deleted
 ---
