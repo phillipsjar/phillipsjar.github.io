@@ -1124,3 +1124,9 @@ main.content ol li, main.content ul li { margin-bottom: 0.5rem; }
   color: #6b5518;
   margin: 1.2rem 0;
 }
+
+/* --- Callouts --------------------------------------------------------------- */
+/* Quarto's note callouts (::: {.callout-note}), e.g. the Madagascar aside in
+   the suctorial tadpoles posts, in the site's green instead of Bootstrap blue. */
+div.callout-note.callout { border-left-color: $accent !important; }
+div.callout-note.callout-titled .callout-header { background-color: rgba($accent, 0.12); }

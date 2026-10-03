@@ -53,3 +53,11 @@ draft: true      # unpublished until this line is deleted
 ::: {.model-caption}
 The skulls of four African suctorial tadpoles (top) and two more typical tadpoles (bottom). They all turn together, but each one is sized to fill its own box: in real life, the *Trichobatrachus* skull is nearly five times longer than the *Werneria* one.
 :::
+
+<!-- Madagascar aside: probably best after the East Africa section. -->
+
+::: {.callout-note icon=false}
+## A quick detour to Madagascar
+
+Madagascar has been an island for more than 80 million years, and its frogs have gone off on their own evolutionary path, tadpoles included. Many of the island's bright-eyed frogs (*Boophis*) breed in fast rainforest streams, and some of their tadpoles have [evolved enlarged, suctorial oral discs](https://zookeys.pensoft.net/articles.php?id=2643) all on their own. And that's just the start: Madagascar also has tadpoles with funnel-shaped mouths and tadpoles that [eat sand](https://academic.oup.com/zoolinnean/article/202/2/zlae127/7825976). Malagasy tadpoles are so strange and so diverse that they deserve a post of their own, so stay tuned!
+:::
