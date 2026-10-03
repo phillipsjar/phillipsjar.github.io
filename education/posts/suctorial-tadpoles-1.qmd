@@ -3,7 +3,7 @@ title: "Suctorial tadpoles (I): Diversity (North America)"
 subtitle: ""
 description: "Tadpoles with giant sucker mouths that cling to rocks in fast streams have evolved over and over around the world. In temperate North America, there's just one: the tailed frog."
 image: ../../assets/images/education/suctorial-tadpoles-of-the-world.jpg
-draft: true      # unpublished until this line is deleted
+date: 2026-10-02
 ---
 
 ::::: {.photo-aside}

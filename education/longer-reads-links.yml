@@ -3,7 +3,9 @@
 # a path (the link) and a description; subtitle, image and date are optional.
 
 - title: "Respiratory system"
-  subtitle: "An open textbook chapter, with Elska Kaczmarek and Bill Ryerson"
-  description: "How vertebrates breathe, from the gills of fishes to the lungs of birds and mammals, and how air breathing evolved along the way. A free chapter I co-wrote for *Comparative Vertebrate and Human Anatomy: Ecology, Evolution, and Function*."
+  description: "Interested in comparative vertebrate anatomy? Here's a link to an open access online textbook for which I cowrote the chapter on the respiratory system. Give it a read and let me know what you think!"
   path: https://pressbooks.palni.org/comparativevertebrateandhumananatomy/chapter/respiratory-system/
-  image: assets/images/air-breathing-phylogeny.jpg
+  image: assets/images/education/respiratory-system-chapter.jpg
+  # Only used to place it in the newest-first order; hide-date keeps it off the card.
+  date: 2025-01-01
+  hide-date: true
