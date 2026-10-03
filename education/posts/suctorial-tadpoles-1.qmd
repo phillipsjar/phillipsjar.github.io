@@ -16,17 +16,7 @@ I love tadpoles of all shapes and sizes, but I have a special fondness for a cer
 
 ## Where do you find suctorial tadpoles?
 
-Suctorial tadpoles can be found all over the world, on every continent except Europe (and Antarctica). Suctoriality has evolved many, many times across different frog lineages. There are many different examples found across Central and South America, Africa, Australia, and different parts of Asia. Many of them have even given up their lungs, which I write about in [Why lose a lung?](../../research/why-lose-a-lung.qmd)
-
-:::: {.diorama .pairs .long}
-![**Africa:** the Cape ghost frog, *Heleophryne purcelli*, from the mountain streams of South Africa.](../../assets/images/education/heleophryne-purcelli.jpg){fig-alt="A tadpole seen from below on a black background, with a huge oval sucker mouth taking up the front of its body"}
-
-![**Asia:** a torrent frog, *Meristogenys*, from Borneo. Behind its mouth is a second sucker on its belly.](../../assets/images/education/meristogenys.jpg){fig-alt="A tadpole with small back legs seen from below, with a striped oral disc and a broad, flat belly"}
-
-![**Central America:** the Panamanian golden frog, *Atelopus zeteki*, which also has a big sucker on its belly.](../../assets/images/education/atelopus-zeteki.jpg){fig-alt="A preserved tadpole seen from below, with a small mouth in front of a large round belly sucker, next to a scale bar"}
-
-![**South America:** *Hyloscirtus armatus*, a treefrog from the Andes, with one of the biggest oral discs of all.](../../assets/images/education/hyloscirtus-armatus.jpg){fig-alt="A close-up of a preserved tadpole's underside, with an enormous oral disc covered in rows of dark toothlets"}
-::::
+Suctorial tadpoles can be found all over the world, on every continent except Europe (and Antarctica). Suctoriality has evolved many, many times across different frog lineages. There are many different examples found across Central and South America, Africa, Australia, and different parts of Asia. 
 
 In temperate North America, where I live, there is only one living suctorial lineage: the genus *Ascaphus*, the tailed frogs.
 
@@ -73,6 +63,6 @@ The skull of a tailed frog tadpole (left) next to the skull of a more typical ta
 
 ![Where the two species of *Ascaphus* live. Map by [AmphibiaWeb](https://amphibiaweb.org) (2020), used under a Creative Commons BY-NC license.](../../assets/images/education/ascaphidae-range-map-amphibiaweb.jpg){fig-alt="Map of the Pacific Northwest of North America with green shading along the coast from northern California to British Columbia and a second patch inland in Idaho, Montana, northeastern Oregon and southeastern Washington"}
 
-Both species exclusively breed in high quality streams in good, healthy forest. Their tadpoles, [like many suctorial tadpoles](https://www.researchgate.net/publication/379862165_Habitat_and_respiratory_strategy_effects_on_hypoxia_performance_in_anuran_tadpoles), are quite sensitive to changes in water quality and especially temperature and oxygen levels. In one part of Montana, for example, *Ascaphus* tadpoles have only been found in streams cooler than about 16 °C (61 °F). For this reason, *Ascaphus* is a very good indicator species: its presence indicates a forest and stream are healthy, while their disappearance means bad things to come.
+Both species exclusively breed in high quality streams in good, healthy forest. [Like many other suctorial tadpoles, they are quite sensitive to changes in water quality and especially temperature and oxygen levels.](https://www.researchgate.net/publication/379862165_Habitat_and_respiratory_strategy_effects_on_hypoxia_performance_in_anuran_tadpoles) In one part of Montana, for example, *Ascaphus* tadpoles have only been found in streams cooler than about 16 °C (61 °F). For this reason, *Ascaphus* is a very good indicator species: its presence indicates a forest and stream are healthy, while their disappearance means bad things to come.
 
 *Ascaphus* tadpoles can live for many years as a tadpole, with some of the longest recorded larval periods of any frog ([up to 4 years!](https://amphibiaweb.org/species/2049)), though it is usually more like 2 or 3. Even then, they're in no rush to grow up: in Montana, tailed frogs [don't breed for the first time](https://fieldguide.mt.gov/detail_aaaba01020.aspx) until they're about 7 or 8 years old.
