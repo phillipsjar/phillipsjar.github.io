@@ -2,11 +2,17 @@
 title: "Suctorial tadpoles (I): Diversity (North America)"
 subtitle: ""
 description: "Tadpoles with giant sucker mouths that cling to rocks in fast streams have evolved over and over around the world. In temperate North America, there's just one: the tailed frog."
-image: ../../assets/images/education/ascaphus-truei-live-thumb.jpg
+image: ../../assets/images/education/suctorial-tadpoles-of-the-world.jpg
 draft: true      # unpublished until this line is deleted
 ---
 
+::::: {.photo-aside}
+:::: {.aside-text}
 I love tadpoles of all shapes and sizes, but I have a special fondness for a certain kind of tadpole with an extra-large sucker mouth. These *suctorial* tadpoles (suctorial just means built for sucking, or in this case, for holding on by suction) are generally stream specialists, living only in fast-flowing streams where they use their large mouths to attach to rocks and graze on algae only they can reach.
+::::
+
+![Suctorial tadpoles from around the world.](../../assets/images/education/suctorial-tadpoles-of-the-world.jpg){fig-alt="A collage of ten tadpoles on a black background, most seen from below with their large round sucker mouths at the top"}
+:::::
 
 ## Where do you find suctorial tadpoles?
 
