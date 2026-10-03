@@ -26,11 +26,15 @@ In temperate North America, where I live, there is only one living suctorial lin
 
 *Ascaphus* is a really remarkable group of frogs with plenty of interesting adult characteristics (including their [tails](https://amphibiaweb.org/lists/Ascaphidae.shtml)), but for me, the most interesting thing about them is their tadpoles, of course!
 
+::::: {.photo-aside}
+:::: {.aside-text}
 *Ascaphus* tadpoles are just as remarkable. They have a very large suction cup for a mouth, called an oral disc, with two large rasping plates made of keratin and then many rows of very small, keratinous toothlets.
 
-![The oral disc of an *Ascaphus* tadpole. The two dark rasping plates sit in the middle, with row after row of tiny toothlets above and below them.](../../assets/images/education/ascaphus-mouthparts.jpg){fig-alt="Close-up of a tadpole's underside showing a large round oral disc with a dark central beak and many fine, dark rows of tiny teeth"}
-
 Their skulls are also really bizarre, looking almost nothing like any other tadpole, instead built to support large suction muscles and their large oral disc.
+::::
+
+![The oral disc of an *Ascaphus* tadpole. The two dark rasping plates sit in the middle, with rows of tiny toothlets above them and row after row below.](../../assets/images/education/ascaphus-mouthparts.jpg){fig-alt="Close-up of a tadpole's underside showing a large round oral disc with a dark central beak and many fine, dark rows of tiny teeth"}
+:::::
 
 ```{=html}
 <div class="model-compare">
