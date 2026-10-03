@@ -52,6 +52,17 @@ suggestions?" box at the bottom (`filters/faq-feedback.lua`).
 `education/posts/my-topic.qmd`) with a `title`, `description`, `image` and a
 `date:` when you publish. Posts are listed under "Longer reads", newest
 first; that heading only appears once at least one post is published.
+To list something that lives elsewhere (a textbook chapter, an article)
+without making a page for it, add an entry to
+`education/longer-reads-links.yml` with a title, the link as `path`, and a
+description.
+
+**A 3D model figure.** Turn an STL into a small web model with
+`python scripts/make_web_model.py skull.stl assets/models/name.bin`
+(needs `pip install trimesh fast-simplification`), then copy the
+`model-compare` block from `education/posts/suctorial-tadpoles-1.qmd` and
+point its `data-src` at the new file. Models in one block are shown at the
+same scale and rotate together.
 
 **Drafts.** Any page with `draft: true` in its front matter is left off the
 live site (it publishes as a blank page, and stays out of listings, search

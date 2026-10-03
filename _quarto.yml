@@ -9,6 +9,10 @@ project:
     - CNAME
     - sitemap-images.xml
     - assets/video/thumbs/
+    # The 3D model viewer: its script pulls in three.js and the model files
+    # itself, so Quarto can't see them to copy them.
+    - assets/js/
+    - assets/models/
   # Only .qmd files become pages. Without this, README.md and EDITING.md would
   # be published as pages on the live site.
   render:

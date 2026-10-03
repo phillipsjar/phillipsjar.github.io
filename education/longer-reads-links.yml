@@ -1,0 +1,9 @@
+# Items in "Longer reads" on the Education page that live somewhere else, so
+# they don't need a page of their own on this site. Each one needs a title,
+# a path (the link) and a description; subtitle, image and date are optional.
+
+- title: "Respiratory system"
+  subtitle: "An open textbook chapter, with Elska Kaczmarek and Bill Ryerson"
+  description: "How vertebrates breathe, from the gills of fishes to the lungs of birds and mammals, and how air breathing evolved along the way. A free chapter I co-wrote for *Comparative Vertebrate and Human Anatomy: Ecology, Evolution, and Function*."
+  path: https://pressbooks.palni.org/comparativevertebrateandhumananatomy/chapter/respiratory-system/
+  image: assets/images/air-breathing-phylogeny.jpg

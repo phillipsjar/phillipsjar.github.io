@@ -11,9 +11,12 @@ listing:
     date-format: "MMMM D, YYYY"
     sort-ui: false
     filter-ui: false
-  # Longer posts: every page in education/posts/, newest first.
+  # Longer posts: every page in education/posts/, newest first, plus the
+  # outside links listed in education/longer-reads-links.yml.
   - id: posts
-    contents: "education/posts/*.qmd"
+    contents:
+      - "education/posts/*.qmd"
+      - "education/longer-reads-links.yml"
     template: education-posts.ejs.md
     sort: "date desc"
     date-format: "MMMM D, YYYY"
