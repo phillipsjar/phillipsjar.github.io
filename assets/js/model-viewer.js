@@ -19,8 +19,10 @@
 //   <script type="module" src="../../assets/js/model-viewer.js"></script>
 //
 // Models are .bin files made by scripts/make_web_model.py from an STL.
-// All the models in one .model-compare box are drawn at the same scale and
-// turn together, so they can be compared side by side. Nothing is downloaded
+// All the models in one .model-compare box turn together, so they can be
+// compared side by side. They're drawn at the same scale, unless the box has
+// data-scale="each", which sizes every model to fill its own panel (for
+// skulls too different in size to share a scale). Nothing is downloaded
 // until the box is about to scroll into view.
 
 import * as THREE from "./three/three.module.min.js";
@@ -179,16 +181,15 @@ function setUp(box) {
 
   Promise.all(stages.map((s) => loadModel(s.dataset.src)))
     .then((geoms) => {
-      // One scale for every model in the box, so sizes compare honestly.
-      let biggest = 0;
+      // One scale for every model in the box, so sizes compare honestly,
+      // or (data-scale="each") each model filling its own panel.
       const size = new THREE.Vector3();
-      for (const g of geoms) {
-        g.boundingBox.getSize(size);
-        biggest = Math.max(biggest, size.x, size.y, size.z);
-      }
-      const k = 2.6 / biggest;
+      const extent = (g) => { g.boundingBox.getSize(size); return Math.max(size.x, size.y, size.z); };
+      const biggest = Math.max(...geoms.map(extent));
+      const each = box.dataset.scale === "each";
       const c = new THREE.Vector3();
       geoms.forEach((g, i) => {
+        const k = each ? 2.2 / extent(g) : 2.6 / biggest;
         g.boundingBox.getCenter(c);
         g.translate(-c.x, -c.y, -c.z);
         g.scale(k, k, k);

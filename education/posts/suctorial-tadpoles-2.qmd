@@ -6,3 +6,50 @@ image: ../../assets/images/education/suctorial-tadpoles-of-the-world.jpg
 draft: true      # unpublished until this line is deleted
 ---
 
+<!-- The 3D skull figure below is ready to go: move it wherever it fits once
+     the text is in. Labels and caption are placeholders to edit. -->
+
+```{=html}
+<div class="model-compare" data-scale="each">
+  <p class="model-group-label">Suctorial tadpoles</p>
+  <div class="model-panes four">
+    <figure class="model-pane">
+      <div class="model-stage" data-src="../../assets/models/hadromophryne-natalensis-chondrocranium.bin" role="img" aria-label="Rotatable 3D model of the cartilage skull of a Natal ghost frog tadpole"></div>
+      <figcaption><em>Hadromophryne natalensis</em> <span>Heleophrynidae</span></figcaption>
+    </figure>
+    <figure class="model-pane">
+      <div class="model-stage" data-src="../../assets/models/conraua-robusta-chondrocranium.bin" role="img" aria-label="Rotatable 3D model of the cartilage skull of a Conraua robusta tadpole"></div>
+      <figcaption><em>Conraua robusta</em> <span>Conrauidae</span></figcaption>
+    </figure>
+    <figure class="model-pane">
+      <div class="model-stage" data-src="../../assets/models/trichobatrachus-robustus-chondrocranium.bin" role="img" aria-label="Rotatable 3D model of the cartilage skull of a hairy frog tadpole"></div>
+      <figcaption><em>Trichobatrachus robustus</em> <span>Arthroleptidae</span></figcaption>
+    </figure>
+    <figure class="model-pane">
+      <div class="model-stage" data-src="../../assets/models/werneria-bambutensis-chondrocranium.bin" role="img" aria-label="Rotatable 3D model of the cartilage skull of a Werneria bambutensis tadpole"></div>
+      <figcaption><em>Werneria bambutensis</em> <span>Bufonidae</span></figcaption>
+    </figure>
+  </div>
+  <p class="model-group-label">More typical tadpoles</p>
+  <div class="model-panes four">
+    <figure class="model-pane">
+      <div class="model-stage" data-src="../../assets/models/schismaderma-carens-chondrocranium.bin" role="img" aria-label="Rotatable 3D model of the cartilage skull of an African red toad tadpole"></div>
+      <figcaption><em>Schismaderma carens</em> <span>Bufonidae</span></figcaption>
+    </figure>
+    <figure class="model-pane">
+      <div class="model-stage" data-src="../../assets/models/natalobatrachus-bonebergi-chondrocranium.bin" role="img" aria-label="Rotatable 3D model of the cartilage skull of a Kloof frog tadpole"></div>
+      <figcaption><em>Natalobatrachus bonebergi</em> <span>Pyxicephalidae</span></figcaption>
+    </figure>
+  </div>
+  <div class="model-bar">
+    <span class="model-hint">Drag any skull to rotate them all. Click, then scroll to zoom (or pinch).</span>
+    <button type="button" class="model-reset">Reset view</button>
+  </div>
+  <p class="model-error">The 3D models need a browser with WebGL turned on.</p>
+</div>
+<script type="module" src="../../assets/js/model-viewer.js"></script>
+```
+
+::: {.model-caption}
+The skulls of four African suctorial tadpoles (top) and two more typical tadpoles (bottom). They all turn together, but each one is sized to fill its own box: in real life, the *Trichobatrachus* skull is nearly five times longer than the *Werneria* one.
+:::

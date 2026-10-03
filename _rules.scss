@@ -264,6 +264,20 @@ div.quarto-post .listing-description { color: $ink-soft; }
   gap: 0.8rem;
 }
 .model-pane { margin: 0; }
+/* Bigger figures: .four for four skulls to a row (two on phones), and
+   labelled groups of rows with .model-group-label. */
+.model-panes.four { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.model-group-label {
+  margin: 1.1rem 0 0.45rem;
+  font-family: $headings-font-family;
+  font-size: 1rem;
+  font-weight: 600;
+  color: $ink;
+}
+.model-compare > .model-group-label:first-child { margin-top: 0; }
+@media (max-width: 620px) {
+  .model-panes.four { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
 .model-stage {
   position: relative;
   aspect-ratio: 1 / 1;
