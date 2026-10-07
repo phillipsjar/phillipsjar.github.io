@@ -1130,3 +1130,7 @@ main.content ol li, main.content ul li { margin-bottom: 0.5rem; }
    the suctorial tadpoles posts, in the site's green instead of Bootstrap blue. */
 div.callout-note.callout { border-left-color: $accent !important; }
 div.callout-note.callout-titled .callout-header { background-color: rgba($accent, 0.12); }
+
+/* Education FAQs and posts don't show a "Published" date under the title
+   (education/_metadata.yml gives them the education-article class). */
+body.education-article #title-block-header .quarto-title-meta { display: none !important; }

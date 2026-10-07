@@ -1,7 +1,9 @@
 # Applies to every page under education/ (the FAQs and the longer posts).
 
-# How a page's `date:` is shown under its title.
+# Pages keep their `date:` (it orders the posts under "Longer reads"), but no
+# date is shown on them: _rules.scss hides it for pages with this class.
 date-format: "MMMM D, YYYY"
+body-classes: education-article
 
 # Adds the "Comments or suggestions?" box to the bottom of every FAQ page
 # (education/faq-*.qmd). Longer posts are left alone.

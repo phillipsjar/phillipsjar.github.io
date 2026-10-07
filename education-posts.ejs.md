@@ -3,8 +3,8 @@
    posts), for the pages in education/posts/.
 
    Same card markup as Quarto's built-in "default" listing (like the Research
-   page), plus the post's date above its title (leave it off with
-   `hide-date: true`). The "Longer reads" heading
+   page). Dates are only used to put the posts newest first; they aren't
+   shown. The "Longer reads" heading
    is only printed once at least one post is published, so the page never
    shows an empty section. It's written as raw HTML because a markdown
    heading inside a listing makes Quarto drop the whole listing. While there
@@ -41,9 +41,6 @@
 
 ::: {.body}
 
-<% if (item.date && item['hide-date'] !== true) { %>
-<div class="listing-date"><%= item.date %></div>
-<% } %>
 <h3 class="no-anchor listing-title"><a href="<%- item.path %>" class="no-external"><%= item.title %></a></h3>
 <% if (item.subtitle) { %>
 <div class="listing-subtitle"><a href="<%- item.path %>" class="no-external"><%= item.subtitle %></a></div>
