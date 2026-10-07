@@ -233,14 +233,12 @@ div.quarto-post .listing-description { color: $ink-soft; }
   .faq-wheel-next { right: 6px; }
 }
 
-/* Longer posts under the wheel (education-posts.ejs.md). */
-.education-posts .listing-date {
-  font-size: 0.74rem;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: $ink-soft;
-  margin-bottom: 0.3rem;
-}
+/* Longer posts under the wheel (education-posts.ejs.md). Like the Research
+   page, a title goes green while the pointer is over anything in its entry
+   that links to it: picture, title or blurb. */
+.education-posts .listing-title a { transition: color 0.15s ease; }
+.education-posts .listing-title a:hover,
+.education-posts .quarto-post:has(a:hover) .listing-title a { color: $accent; }
 
 /* The "Comments or suggestions?" box at the bottom of every FAQ page
    (added by filters/faq-feedback.lua). */
