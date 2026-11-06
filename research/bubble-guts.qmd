@@ -5,7 +5,8 @@ description: "Once lost, lungs have never re-evolved, so far as we know. When I 
 order: 3
 image: ../assets/images/research-thumbs/bubble-guts.jpg
 papers:
-  - cite: "Phillips, JR and MC Womack. (in press). Bubbleguts: re-evolution of air breathing in a lungless tadpole. *Ecology*."
+  - cite: "Phillips, JR and MC Womack. (2026). Bubble-guts: re-evolution of air breathing in a lungless tadpole. *Ecology*."
+    url: "https://drive.google.com/file/d/1_ti91nu-nohw6F2uUqYOvxpHHHYe1Rf2/view?usp=sharing"
   - cite: "Phillips, JR, GK Nicolau, SS Ngwenya, EA Jackson, and MC Womack. (2024). Habitat and respiratory strategy effects on hypoxia performance in anuran tadpoles. *Integrative and Comparative Biology*."
     url: "https://www.researchgate.net/publication/379862165_Habitat_and_respiratory_strategy_effects_on_hypoxia_performance_in_anuran_tadpoles"
 ---
@@ -259,6 +260,6 @@ A little basic math backs up the buoyancy idea. Calculating off the size and wei
 
 ---
 
-*Phillips, JR and MC Womack (in press). Bubbleguts: re-evolution of air
-breathing in a lungless tadpole.* Ecology *(The Scientific Naturalist). I'll
-swap in the full citation once it's out.*
+*Phillips, JR and MC Womack (2026). Bubble-guts: re-evolution of air
+breathing in a lungless tadpole.* Ecology *107, e70579 (The Scientific
+Naturalist).*
