@@ -15,8 +15,8 @@ Department of Ecology and Evolutionary Biology, Cornell University
 
 ## Education
 
-**PhD, Ecology and Evolutionary Biology** · Cornell University · 2024 to expected 2026  
-Advisor: Molly C. Womack. Expected defense December 2026.
+**PhD, Ecology and Evolutionary Biology** · Cornell University · 2024 to expected 2027  
+Advisor: Molly C. Womack. Defense scheduled for January 25, 2027.
 
 **PhD student, Ecology / Biology** · Utah State University · 2020 to 2024  
 Advisor: Molly C. Womack.
@@ -40,7 +40,7 @@ Honors, cum laude. Honors thesis: *The functional morphology of air breathing in
 
 ### Peer-reviewed
 
-1. **Phillips, JR** and MC Womack (2026). [Bubble-guts: re-evolution of air breathing in a lungless tadpole.](https://drive.google.com/file/d/1_ti91nu-nohw6F2uUqYOvxpHHHYe1Rf2/view?usp=sharing) *Ecology* 107, e70579.
+1. **Phillips, JR** and MC Womack (2026). [Bubble-guts: re-evolution of air breathing in a lungless tadpole.](https://drive.google.com/file/d/1_ti91nu-nohw6F2uUqYOvxpHHHYe1Rf2/view?usp=sharing) *Ecology* 107(11), e70579.
 2. **Phillips, JR**, PH Dias, and MC Womack (2025). [Lungless tadpoles breathe fresh air into hypotheses for tetrapod lung loss and trait regain.](https://drive.google.com/file/d/1PZB4Vz54pCSAdVQSWUlmjAtCG5JA9dvL/view?usp=sharing) *Evolution* 79(12), 2776-2790. <span class="press">Covered by [Cornell Chronicle](https://news.cornell.edu/stories/2025/10/once-tadpoles-lose-lungs-they-never-get-them-back), [AOL](https://www.aol.com/articles/apparently-tadpoles-lose-lungs-forever-172538186.html), [Wild Science](https://scienceblog.com/wildscience/2025/10/28/tadpoles-that-ditch-their-lungs-never-get-them-back/), [phys.org](https://phys.org/news/2025-10-tadpoles-lungs.html)</span>
 3. Kaczmarek, EB, **JR Phillips**, and WG Ryerson (2025). [Respiratory system.](https://pressbooks.palni.org/comparativevertebrateandhumananatomy/chapter/respiratory-system/) In: *Comparative vertebrate and human anatomy: ecology, evolution, and function.*
 4. Ngwenya, SS\*, GK Nicolau\*, MC Womack, and **JR Phillips** (2025). [Range extension: *Schismaderma carens*.](https://www.researchgate.net/publication/391077789_Geographical_Distributions_Bufonidae_Schismaderma_carens_Smith_1848_Eastern_Red_Toad) *African Herp News.*
@@ -59,11 +59,11 @@ Honors, cum laude. Honors thesis: *The functional morphology of air breathing in
 - **Phillips, JR** (2025). Review of *Frog Day: a story of 24 hours and 24 amphibian lives. Herpetological Review* 56(1).
 - **Phillips, JR** (2022). Review of *Conservation of amphibians and reptiles in Connecticut. Ichthyology and Herpetology* 110(3), 633-634.
 
-### In review and in preparation
+### Manuscripts in preparation
 
 - **Phillips, JR** and MC Womack (complete draft). The importance of considering both ecological and developmental coupling across life stages.
-- **Phillips, JR**, PH Dias, S Harrington, and D Paluh (complete draft). The loss and regain of larval tooth structures in anuran tadpoles.
-- **Phillips, JR**, D Paluh, PH Dias, P Lukas, S Paynter-Tavares\*, and MC Womack (in prep). Two-faced frogs: larval habitat dominates shape evolution in tadpole skulls.
+- **Phillips, JR**, PH Dias, S Harrington, and D Paluh (complete draft). The degree of both loss and re-evolution differs across levels of biological organization for tadpole feeding structures.
+- **Phillips, JR**, D Paluh, PH Dias, P Lukas, S Paynter-Tavares\*, and MC Womack (in prep). Two-faced frogs: developmental fate does not drive correlated evolution of larval and adult skulls.
 - **Phillips, JR**, Mayerl, Keefe, and EB Kaczmarek (in prep). Re-assessing anuran ventilation mechanics using high-speed x-ray videography.
 
 ## Presentations
@@ -175,7 +175,7 @@ scientific conferences under my mentorship.
 - Elected Academic Chair, Utah State Biology Graduate Student Association, 2022 to 2023
 - Ran the herpetology portion of the CT Science Olympiad, 2018
 - Mammalogy team, 2017 CT BioBlitz
-- Invited speaker, CT Cub Scouts and The Children's Museum, West Hartford, CT
+- Invited speaker, The Children's Museum, West Hartford, CT
 
 ### Peer review
 
@@ -200,4 +200,5 @@ Journal covers: *Oikos* (January 2025), *Integrative and Comparative Biology*
 ## References
 
 **Dr. Molly Womack**, PhD advisor · [mcwomack@cornell.edu](mailto:mcwomack@cornell.edu)  
-**Dr. Kurt Schwenk**, MSc and undergraduate honors thesis advisor · [kurt.schwenk@uconn.edu](mailto:kurt.schwenk@uconn.edu)
+**Dr. Kurt Schwenk**, MSc and undergraduate honors thesis advisor · [kurt.schwenk@uconn.edu](mailto:kurt.schwenk@uconn.edu)  
+**Dr. Anurag Agrawal**, PhD committee member · [aa337@cornell.edu](mailto:aa337@cornell.edu)

@@ -261,5 +261,5 @@ A little basic math backs up the buoyancy idea. Calculating off the size and wei
 ---
 
 *Phillips, JR and MC Womack (2026). Bubble-guts: re-evolution of air
-breathing in a lungless tadpole.* Ecology *107, e70579 (The Scientific
+breathing in a lungless tadpole.* Ecology *107(11), e70579 (The Scientific
 Naturalist).*
