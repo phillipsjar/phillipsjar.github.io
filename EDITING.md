@@ -39,6 +39,12 @@ edit; the script fills in blanks but never overwrites what you've written.
 
 **A research post.** Copy `research/_template.qmd` to `research/your-title.qmd`
 and fill it in. It appears on the Research index automatically.
+List the papers it's based on under `papers:` in its front matter (the
+template shows the format). They appear twice: under the post's entry on the
+Research index, and in a "Read the papers" box at the top of the post itself
+(added by `filters/research-papers.lua`), so anyone who searches for a paper's
+title lands one click away from it. Leave out `url:` for a paper with no link
+yet.
 
 **An Education FAQ.** The FAQs live in `education/faq-*.qmd` and show up in
 the sideways "wheel" at the top of the Education page. To publish one,

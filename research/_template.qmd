@@ -8,6 +8,11 @@ subtitle: "Two or three words naming the system or method"
 description: "One sentence. This is what shows up on the Research index page and in link previews, so make it do some work."
 order: 9          # position in the list; lower numbers come first
 image: ../photography/tadpoles/thumbs/Ascaphus.jpg   # optional thumbnail
+# The papers behind the post. Shown on the Research index and in a "Read the
+# papers" box at the top of the post. Leave out url: if there's no link yet.
+papers:
+  - cite: "Phillips, JR and MC Womack. (2026). Title of the paper. *Journal*."
+    url: "https://..."
 ---
 
 ## The short version

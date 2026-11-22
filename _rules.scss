@@ -252,6 +252,38 @@ div.quarto-post .listing-description { color: $ink-soft; }
 }
 .faq-feedback p { margin: 0; }
 
+/* "Read the papers" box at the top of each research post (added by
+   filters/research-papers.lua from the post's `papers:` front matter). */
+.post-papers {
+  margin: 0.2rem 0 2.2rem;
+  padding: 0.95rem 1.2rem 0.55rem;
+  border: 1px solid $rule;
+  border-left: 3px solid $accent;
+  border-radius: 2px;
+  background: $paper-warm;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+.post-papers p { margin: 0 0 0.5rem; }
+.post-papers-title {
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $ink-soft;
+}
+.post-papers ul { list-style: none; margin: 0; padding: 0; }
+.post-papers li {
+  margin: 0 0 0.45rem;
+  padding-left: 1.4em;
+  text-indent: -1.4em;            /* hanging indent, like a reference list */
+}
+.post-papers a { text-decoration: none; }
+.post-papers a:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 /* --- 3D model figures (assets/js/model-viewer.js) ----------------------- */
 /* Side-by-side models that readers can spin and zoom. The dark panels match
    the black-background specimen photos in both themes. */

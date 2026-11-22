@@ -114,6 +114,7 @@ toad-tadpole body plan, completely different mouth, body shape, and color.
 
 ::: {.video-figure}
 ![](../assets/images/adhaerobufo-range-map.jpg){fig-alt="Map of northern South America showing the distribution of Adhaerobufo in Guyana, Venezuela, and the upper Amazon basin, with photos of Kaieteur Falls and Amazon lowland forest"}
+:::
 
 ## Lost and found in the museum
 

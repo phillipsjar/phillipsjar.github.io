@@ -1,0 +1,7 @@
+# Applies to every research post under research/.
+
+# Shows the post's `papers:` list in a "Read the papers" box at the top of the
+# post. The Research index shows the same list under each entry, so one list in
+# the front matter feeds both.
+filters:
+  - ../filters/research-papers.lua
