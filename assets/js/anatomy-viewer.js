@@ -9,8 +9,9 @@
 //        aria-label="What the model shows"></div>
 //   <script type="module" src="../../assets/js/anatomy-viewer.js"></script>
 //
-// The script builds everything inside the box: the 3D view, the menu and the
-// buttons. Which structures there are, and their labels, systems, colours and
+// The figure runs wider than the text column (see _rules.scss). The script
+// builds everything inside the box: the 3D view, the menu under
+// it, and the buttons. Which structures there are, and their labels, systems, colours and
 // starting opacities, all come from organs.csv, which
 // scripts/make_anatomy_model.py writes next to the models. Edit that file
 // freely; the page picks up changes on reload. The box can also take
@@ -119,9 +120,7 @@ let boxCount = 0;
 async function setUp(box) {
   const id = `anat${++boxCount}`;
 
-  // Layout: the 3D view and the menu side by side (stacked on phones), with
-  // the usual hint line underneath.
-  const main = el("div", "anatomy-main");
+  // Layout: the 3D view as big as fits, the usual hint line, then the menu.
   const stage = el("div", "anatomy-stage", {
     role: "img",
     "aria-label": box.getAttribute("aria-label") || "Rotatable 3D model",
@@ -133,7 +132,6 @@ async function setUp(box) {
   tag.hidden = true;
   stage.append(status, tag);
   const panel = el("div", "anatomy-panel");
-  main.append(stage, panel);
   const bar = el("div", "model-bar");
   const hint = el("span", "model-hint");
   hint.textContent = matchMedia("(pointer: coarse)").matches
@@ -143,7 +141,7 @@ async function setUp(box) {
   bar.append(hint);
   const err = el("p", "model-error");
   err.textContent = "The 3D model needs a browser with WebGL turned on.";
-  box.append(main, bar, err);
+  box.append(stage, bar, panel, err);
 
   // The 3D scene, lit like the skulls in model-viewer.js.
   let renderer;
@@ -410,7 +408,9 @@ async function setUp(box) {
     });
     buttons.append(fsBtn);
   }
-  panel.append(list, slice, buttons);
+  const tools = el("div", "anatomy-tools");
+  tools.append(slice, buttons);
+  panel.append(list, tools);
 
   // --- Clicking parts in the model ------------------------------------------
   const ray = new THREE.Raycaster();
@@ -442,12 +442,9 @@ async function setUp(box) {
       s.textContent = o.system;
       tag.append(b, s);
       tag.hidden = false;
-      // Bring its row into view in the menu, without moving the page. (The
-      // list is position: relative in the CSS, so offsetTop counts from it.)
-      const top = o.row.offsetTop;
-      if (top < list.scrollTop || top + o.row.offsetHeight > list.scrollTop + list.clientHeight) {
-        list.scrollTop = top - list.clientHeight / 3;
-      }
+      // In full screen the menu can scroll, so bring its row into view.
+      // (On the page the whole menu shows, and the page stays put.)
+      if (document.fullscreenElement === box) o.row.scrollIntoView({ block: "nearest" });
     } else tag.hidden = true;
     glow();
   }

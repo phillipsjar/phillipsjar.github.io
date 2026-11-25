@@ -367,22 +367,29 @@ div.quarto-post .listing-description { color: $ink-soft; }
 .model-caption p { margin: 0; }
 
 /* --- 3D anatomy viewer (assets/js/anatomy-viewer.js) -------------------- */
-/* One CT scan split into parts, with a menu to switch them on and off or fade
-   them. The script builds everything inside .anatomy-viewer; the hint line
-   and buttons reuse the .model-bar and .model-reset looks from above. */
-.anatomy-viewer { margin: 1.8rem 0 0.6rem; }
-.anatomy-main {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 16rem;
-  gap: 0.8rem;
+/* One CT scan split into parts: a big 3D view, the hint line, then a menu to
+   switch parts on and off or fade them. The script builds everything inside
+   .anatomy-viewer; the hint line and buttons reuse .model-bar and
+   .model-reset from above. */
+/* Wider than the text: up to 1200px (94% of the window on smaller screens),
+   centred on the text column. Margins rather than the breakout mixin's
+   transform, which can blur the 3D view and the menu text slightly. */
+.anatomy-viewer {
+  width: min(94vw, 1200px);
+  margin: 1.8rem 0 0.6rem calc(50% - min(47vw, 600px));
 }
+/* The full width of the figure, and 3/4 as tall, but never taller than most
+   of the window, so the whole model stays in view. Square on phones. */
 .anatomy-stage {
   position: relative;
-  aspect-ratio: 1 / 1;
+  height: min(calc(min(94vw, 1200px) * 0.75), 82vh);
   border-radius: 2px;
   overflow: hidden;
-  background: radial-gradient(circle at 50% 42%, #202322 0%, #0b0c0c 72%);
+  background: radial-gradient(circle at 50% 45%, #202322 0%, #0b0c0c 75%);
   cursor: grab;
+}
+@media (max-width: 700px) {
+  .anatomy-stage { height: min(94vw, 82vh); }
 }
 .anatomy-stage:active { cursor: grabbing; }
 .anatomy-stage canvas { display: block; width: 100%; height: 100%; }
@@ -402,28 +409,24 @@ div.quarto-post .listing-description { color: $ink-soft; }
    dark stage, so its colours are fixed rather than themed. */
 .anatomy-tag {
   position: absolute;
-  left: 0.6rem;
-  bottom: 0.6rem;
-  max-width: calc(100% - 1.2rem);
-  padding: 0.3rem 0.6rem;
+  left: 0.7rem;
+  bottom: 0.7rem;
+  max-width: calc(100% - 1.4rem);
+  padding: 0.35rem 0.7rem;
   border-radius: 2px;
   background: rgba(14, 16, 15, 0.85);
   color: #ece9e3;
-  font-size: 0.84rem;
+  font-size: 0.9rem;
   line-height: 1.3;
   pointer-events: none;
 }
 .anatomy-tag strong { font-weight: 600; }
-.anatomy-tag span { display: block; font-size: 0.72rem; color: #9a9691; }
+.anatomy-tag span { display: block; font-size: 0.75rem; color: #9a9691; }
 .anatomy-tag[hidden] { display: none; }
-/* The menu. height 0 + min-height 100% makes it exactly as tall as the
-   square view beside it, scrolling inside if the list is long. */
+/* The menu, under the view. Systems flow into as many columns as fit. */
 .anatomy-panel {
-  display: flex;
-  flex-direction: column;
-  height: 0;
-  min-height: 100%;
-  padding: 0.65rem 0.75rem;
+  margin-top: 0.8rem;
+  padding: 0.75rem 0.9rem 0.8rem;
   border: 1px solid $rule;
   border-radius: 2px;
   background: $paper-warm;
@@ -431,14 +434,13 @@ div.quarto-post .listing-description { color: $ink-soft; }
   line-height: 1.3;
 }
 .anatomy-systems {
-  position: relative;
-  flex: 1 1 auto;
-  min-height: 0;
-  overflow-y: auto;
-  margin: 0 -0.35rem;
-  padding: 0 0.35rem;
+  columns: 18rem;
+  column-gap: 2.2rem;
 }
-.anatomy-system + .anatomy-system { margin-top: 0.6rem; }
+.anatomy-system {
+  break-inside: avoid;
+  padding-bottom: 0.6rem;
+}
 .anatomy-system-head {
   display: flex;
   align-items: center;
@@ -473,9 +475,9 @@ div.quarto-post .listing-description { color: $ink-soft; }
 .anatomy-organs[hidden] { display: none; }
 .anatomy-organ {
   display: grid;
-  grid-template-columns: auto 0.7rem minmax(0, 1fr) 3.9rem;
+  grid-template-columns: auto 0.7rem minmax(0, 1fr) minmax(4rem, 6.5rem);
   align-items: center;
-  gap: 0.4rem;
+  gap: 0.45rem;
   margin: 0;
   padding: 0.2rem 0.3rem;
   border-radius: 2px;
@@ -500,14 +502,21 @@ div.quarto-post .listing-description { color: $ink-soft; }
 .anatomy-panel input[type="range"] { margin: 0; accent-color: $accent; }
 .anatomy-panel input[type="range"] { width: 100%; min-width: 0; }
 .anatomy-panel input[type="range"]:disabled { opacity: 0.35; }
-.anatomy-slice {
-  display: grid;
-  grid-template-columns: auto minmax(0, 1fr);
+/* Slicing and the buttons, in one row along the bottom of the menu. */
+.anatomy-tools {
+  display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 0.4rem 0.55rem;
-  margin-top: 0.7rem;
-  padding-top: 0.65rem;
+  gap: 0.55rem 1.2rem;
+  margin-top: 0.15rem;
+  padding-top: 0.7rem;
   border-top: 1px solid $rule;
+}
+.anatomy-slice {
+  display: flex;
+  flex: 1 1 22rem;
+  align-items: center;
+  gap: 0.6rem;
 }
 .anatomy-slice label { margin: 0; font-weight: 600; color: $ink; }
 .anatomy-slice select {
@@ -519,17 +528,12 @@ div.quarto-post .listing-description { color: $ink-soft; }
   color: $ink;
   font-size: 0.8rem;
 }
-.anatomy-slice input[type="range"] { grid-column: 1 / -1; }
-.anatomy-buttons { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.65rem; }
+.anatomy-slice input[type="range"] { flex: 1 1 8rem; }
+.anatomy-buttons { display: flex; gap: 0.4rem; margin-left: auto; }
 .anatomy-viewer .model-error { display: none; margin: 0.5rem 0 0; font-size: 0.85rem; color: $ink-soft; }
 .anatomy-viewer.has-error .model-error { display: block; }
-/* Phones: the menu goes under the view, at its natural height. */
-@media (max-width: 700px) {
-  .anatomy-main { grid-template-columns: minmax(0, 1fr); }
-  .anatomy-panel { height: auto; min-height: 0; }
-  .anatomy-systems { overflow: visible; }
-}
-/* Full screen: the view fills the screen, menu down the side. */
+/* Full screen: the view takes all the height the menu leaves, and the menu
+   scrolls if it's long. */
 .anatomy-viewer:fullscreen {
   display: flex;
   flex-direction: column;
@@ -537,12 +541,16 @@ div.quarto-post .listing-description { color: $ink-soft; }
   padding: 1rem;
   background: $paper;
 }
-.anatomy-viewer:fullscreen .anatomy-main {
-  flex: 1 1 auto;
+.anatomy-viewer:fullscreen .anatomy-stage {
+  flex: 1 1 0;
   min-height: 0;
-  grid-template-rows: minmax(0, 1fr);
+  height: auto;
 }
-.anatomy-viewer:fullscreen .anatomy-stage { aspect-ratio: auto; height: 100%; }
+.anatomy-viewer:fullscreen .anatomy-panel {
+  flex: none;
+  max-height: 32vh;
+  overflow-y: auto;
+}
 
 /* Research page only (research-listing.ejs.md adds .research-listing).
    A title goes accent green while the pointer is over anything in its entry

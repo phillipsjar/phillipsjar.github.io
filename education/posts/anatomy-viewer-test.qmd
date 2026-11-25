@@ -8,9 +8,10 @@ draft: true      # unpublished until this line is deleted
 
 <!-- A test page for the 3D anatomy viewer (assets/js/anatomy-viewer.js).
      To use it in another post, copy the ```{=html} block below and point
-     data-organs at that scan's organs.csv. Making the models for a new scan,
-     and changing labels, systems, colours or starting opacities, is under
-     "A 3D anatomy figure" in EDITING.md. -->
+     data-organs at that scan's organs.csv. The figure runs wider than the
+     text by itself. Making the models for a new scan, and changing labels,
+     systems, colours or starting opacities, is under "A 3D anatomy figure"
+     in EDITING.md. -->
 
 This page tries out the 3D anatomy viewer on one micro-CT scan of a Kloof frog tadpole, *Natalobatrachus bonebergi* (JRP 058), segmented into its cartilage skull and its upper and lower jaws.
 

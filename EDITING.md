@@ -88,7 +88,8 @@ fade it with a slider, or slice through the model. The example is
    so fix them here. Changes show up on the next reload, with no need to
    rerun anything.
 4. Copy the `anatomy-viewer` block from the test page into your post and
-   point its `data-organs` at the new `organs.csv`.
+   point its `data-organs` at the new `organs.csv`. The figure runs wider
+   than the text on its own, up to 1200 px, and as tall as fits on screen.
 
 Rerun the script only when the STLs change or you add parts: it keeps your
 edits to `organs.csv` and adds rows for anything new. A whole scan shares
