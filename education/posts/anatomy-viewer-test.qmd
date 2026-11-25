@@ -1,0 +1,26 @@
+---
+title: "3D anatomy viewer (test)"
+subtitle: ""
+description: "A test of the 3D anatomy viewer: the skull and jaws of a Kloof frog tadpole from one micro-CT scan."
+date: 2026-11-25
+draft: true      # unpublished until this line is deleted
+---
+
+<!-- A test page for the 3D anatomy viewer (assets/js/anatomy-viewer.js).
+     To use it in another post, copy the ```{=html} block below and point
+     data-organs at that scan's organs.csv. Making the models for a new scan,
+     and changing labels, systems, colours or starting opacities, is under
+     "A 3D anatomy figure" in EDITING.md. -->
+
+This page tries out the 3D anatomy viewer on one micro-CT scan of a Kloof frog tadpole, *Natalobatrachus bonebergi* (JRP 058), segmented into its cartilage skull and its upper and lower jaws.
+
+```{=html}
+<div class="anatomy-viewer"
+     data-organs="../../assets/models/natalobatrachus-bonebergi-jrp058/organs.csv"
+     aria-label="Rotatable 3D model of the cartilage skull and jaws of a Kloof frog tadpole, with a menu to switch each part on and off or fade it"></div>
+<script type="module" src="../../assets/js/anatomy-viewer.js"></script>
+```
+
+::: {.model-caption}
+The skull (chondrocranium) and jaws of a Kloof frog tadpole, *Natalobatrachus bonebergi*, from a micro-CT scan. Use the menu to switch parts on and off, fade them with the sliders, or slice through the model.
+:::

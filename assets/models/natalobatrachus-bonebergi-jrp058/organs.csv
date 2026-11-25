@@ -1,0 +1,4 @@
+file,label,system,color,opacity,show,triangles,source_stl
+chondrocranium.bin,Chondrocranium,Skeleton,#ddd3bd,100,yes,120000,Natalobatrachus_bonebergi_tadpole_JRP_058_chondrocranium_simplified.stl
+lower-jaws.bin,Lower jaws,Mouthparts,#e3a34f,100,yes,30000,Natalobatrachus_bonebergi_tadpole_JRP_058_lower_jaws_simplified.stl
+upper-jaws.bin,Upper jaws,Mouthparts,#d9776a,100,yes,30000,Natalobatrachus_bonebergi_tadpole_JRP_058_upper_jaws_simplified.stl

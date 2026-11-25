@@ -92,6 +92,33 @@ if wild.is_dir():
         say("." if not blank else "?",
             f"wildlife/{section.name}: {n} photos, {blank} without a caption")
 
+print("\n3D anatomy figures (assets/models/*/organs.csv)")
+sheets = sorted((ROOT / "assets" / "models").glob("*/organs.csv"))
+if not sheets:
+    print("  none")
+for sheet in sheets:
+    where = sheet.relative_to(ROOT)
+    with sheet.open(newline="", encoding="utf-8-sig") as fh:
+        rows = [{(k or "").strip().lower(): (v or "").strip() for k, v in r.items()}
+                for r in csv.DictReader(fh)]
+    rows = [r for r in rows if r.get("file")]
+    bad = 0
+    for n, r in enumerate(rows, 2):
+        name = r.get("label") or r["file"]
+        if not (sheet.parent / r["file"]).exists():
+            say("!", f"{where} row {n}: no model file {r['file']}")
+            bad += 1
+        if r.get("color") and not re.fullmatch(r"#?[0-9a-fA-F]{6}", r["color"]):
+            say("!", f"{where} row {n} ({name}): colour {r['color']!r} isn't a "
+                     f"6-digit hex like #ddd3bd")
+            bad += 1
+        op = r.get("opacity", "")
+        if op and not (re.fullmatch(r"\d+(\.\d+)?", op) and float(op) <= 100):
+            say("!", f"{where} row {n} ({name}): opacity {op!r} should be 0 to 100")
+            bad += 1
+    if not bad:
+        say(".", f"{where}: {len(rows)} parts, all fine")
+
 print("\nSize")
 out = subprocess.run(["du", "-sh", "--exclude=_site", "--exclude=.quarto",
                       "--exclude=_shots", "--exclude=photos-source", str(ROOT)],

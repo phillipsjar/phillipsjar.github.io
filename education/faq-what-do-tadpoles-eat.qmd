@@ -5,3 +5,49 @@ description: ""
 order: 103   # gets its FAQ number when published
 draft: true      # unpublished until this line is deleted
 ---
+
+Tadpoles are larval frogs, and they basically have two jobs: eat a lot and don't die. If they manage to do that, they will grow large enough to transform into an adult frog through the process of metamorphosis. Adult frogs have another important job: breeding. Tadpoles don't have to worry about that, all they have to do is eat all day, everyday.
+
+##But what do they eat?
+
+Like most groups of animals, eat a lot of different things, depending on who they are and where they are. I will first explain what a typical pond tadpole in your backyard or local park is likely to eat, then I will discuss some of the amazing variation that exists around the world. 
+
+
+Typical tadpoles are *omnivores*. This means that they eat anything that they can, from decaying plant or animal matter to living plants and algae. Instead of chewing their food, most tadpoles use their hard, keratinized beaks and toothlets to scrape against a large food item (like a dead fish) or surface (like an algae-covered rock) to suspend food particles that they then suck into their mouth using the same mechanism that pulls water through their gills. 
+
+*insert photo of Duellmanohyla tadpole stack*
+
+For a lot of tadpoles, this means a lot of algae in their diets, which grows abundantly in many freshwater systems. However, tadpoles also need a lot of protein, especially as they prepare to transform into frogs, so scavenging on dead animals and other micro-organisms forms an important part of many tadpoles' diets in nature. 
+
+* insert photo showing algae in guts, if I can find it *
+
+##What do I feed my tadpole?
+
+If you've decided to raise some tadpoles in an aquarium and are wondering what to feed them, you have a few options. The best main diet for most common tadpoles is boiled kale and spinach. I recommend boiling a large amount at once, blending the boiled greens, and then freezing them into small cubes where they will remain stable for months. You can just drop a cube into your aquarium whenever the previous cube has been consumed. Interested in raising tadpoles? Check out my easy guide to raising tadpoles at home.
+
+
+##What do other tadpoles eat?
+
+Not all tadpoles eat boiled spinach, many of them have evolved amazingly specific diets to match their natural conditions.
+
+##Egg-eating tadpoles
+Some frogs, especially in tropical rainforests with dozens of other species all competing for space to raise their tadpoles, have evolved to lay their eggs in tiny waterbodies up in the trees, where tadpole food is extremely limited. To compensate for this, several species have evolved a rare form of parental care where the tadpoles mother lays unfertilized eggs for tadpoles to eat. The mother frog must stay with the tadpoles for their entire larval life, and some tadpoles even beg for eggs by swimming up to the surface and nibbling on her toes. 
+
+*insert photo of Oophaga frog*
+
+Egg-eating tadpoles are quite interesting. Unlike typical tadpoles, they don't need the ability to scrape up particles, so many egg-eaters have reduced keratinized mouthparts.
+
+*insert photos of Anotheca tadpole (showing eggs and then lips)
+
+
+##Carnivorous tadpoles
+Another type of tadpole that doesn't need to scrape food are the true carnivores. These tadpoles often have large keratinized beaks that they use to actively chase down and consume smaller tadpoles. This can include different species, but cannibalism is not unknown in tadpoles. 
+
+*insert ceratophrys tadpole pic*
+insert ceratophrys microct 
+
+
+
+
+
+

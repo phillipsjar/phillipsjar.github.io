@@ -70,6 +70,31 @@ a description.
 point its `data-src` at the new file. Models in one block are shown at the
 same scale and rotate together.
 
+**A 3D anatomy figure.** This is for one scan segmented into parts (skull,
+jaws, organs), with a menu to switch each part or whole system on and off,
+fade it with a slider, or slice through the model. The example is
+`education/posts/anatomy-viewer-test.qmd`.
+
+1. Put the scan's STLs in one folder. They must all be exported from the
+   same segmentation, so they share coordinates and line up.
+2. Run `python scripts/make_anatomy_model.py path/to/stl-folder
+   assets/models/scan-name` (same `pip install` as above). It writes one
+   small model per part, plus `organs.csv`.
+3. Check `organs.csv` in Excel or a text editor. Each row sets a part's
+   menu `label`, the `system` it's grouped under, its `color` (hex, like
+   `#ddd3bd`), its starting `opacity` (0 to 100) and whether it starts
+   switched on (`show`: yes or no). The menu follows the row order. The
+   script's first guesses at systems and colours come from the file names,
+   so fix them here. Changes show up on the next reload, with no need to
+   rerun anything.
+4. Copy the `anatomy-viewer` block from the test page into your post and
+   point its `data-organs` at the new `organs.csv`.
+
+Rerun the script only when the STLs change or you add parts: it keeps your
+edits to `organs.csv` and adds rows for anything new. A whole scan shares
+about 200,000 triangles (roughly 2 MB), split by surface area; give it more
+with `--budget 300000`.
+
 **Drafts.** Any page with `draft: true` in its front matter is left off the
 live site (it publishes as a blank page, and stays out of listings, search
 and the sitemap). The Education FAQs in `education/faq-*.qmd` start that way.
